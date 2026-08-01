@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T17:00:33",
+  "last_updated": "2026-08-01T17:01:31",
   "html": {
     "https://web.archive.org/web/20251010053153if_/https://twitter.com/Prechaska/status/1976521045688582162": {
       "status": "done",
@@ -11338,9 +11338,9 @@
         "20251115144424_twitter_com_Prechaska_status_1989706053601157131.json",
         "20251115145852_twitter_com_Prechaska_status_1989709694194389078.json"
       ],
-      "last_updated": "2026-08-01T16:50:08",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251115144424/https://video.twimg.com/amplify_video/1989704118928302080/vid/avc1/1280x720/1_FrNBGyLIsuexro.mp4",
-      "miss_count": 6
+      "last_updated": "2026-08-01T17:01:22",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251115143700/https://video.twimg.com/amplify_video/1989704118928302080/vid/avc1/1280x720/1_FrNBGyLIsuexro.mp4",
+      "miss_count": 7
     },
     "https://video.twimg.com/ext_tw_video/1991740509224857601/pu/vid/avc1/720x900/_JRH_UtpOhqYzbG5.mp4?tag=12": {
       "status": "done",
@@ -11357,13 +11357,13 @@
       "last_updated": "2026-08-01T16:40:08"
     },
     "https://video.twimg.com/ext_tw_video/1995117718882914304/pu/vid/avc1/608x1080/FPOKCLdUE5HssXmT.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251130192034_twitter_com_Prechaska_status_1995211368224682034.json"
       ],
-      "last_updated": "2026-08-01T16:50:09",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251130192034/https://video.twimg.com/ext_tw_video/1995117718882914304/pu/vid/avc1/608x1080/FPOKCLdUE5HssXmT.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-08-01T17:01:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130192034im_/https://video.twimg.com/ext_tw_video/1995117718882914304/pu/vid/avc1/608x1080/FPOKCLdUE5HssXmT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff0e97040b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1996444084681220096/vid/avc1/1920x1080/918fEQH0wyQdmiZB.mp4": {
       "status": "done",
@@ -11444,13 +11444,13 @@
       "last_updated": "2026-08-01T16:40:08"
     },
     "https://video.twimg.com/amplify_video/2026310019189485568/vid/avc1/1152x720/8ylcEawlgDwsdf9y.mp4?tag=14": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260224150448_twitter_com_Prechaska_status_2026312362052210723.json"
       ],
-      "last_updated": "2026-08-01T16:50:07",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260224150448/https://video.twimg.com/amplify_video/2026310019189485568/vid/avc1/1152x720/8ylcEawlgDwsdf9y.mp4?tag=14",
-      "miss_count": 2
+      "last_updated": "2026-08-01T17:01:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224150448im_/https://video.twimg.com/amplify_video/2026310019189485568/vid/avc1/1152x720/8ylcEawlgDwsdf9y.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff0e9705850>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2027662548057890816/vid/avc1/720x1280/8FAcIK7M_hFuQnc4.mp4": {
       "status": "done",
