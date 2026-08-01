@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1980274564077887614",
+    "created_at": "2025-10-21T01:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T02:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980444538109145134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980444538109145134",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980275595843097031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "危险的联用🚫\n阿片类与乙醇。使用阿片类药物时摄入乙醇会加剧呼吸抑制。一项临床试验表明，使用羟可酮时摄入乙醇比单独使用其中任一药物时能导致的呼吸抑制程度更大。\n阿片类、苯二氮卓类药物和骨骼肌松弛剂（eg.卡利普多）。三者以近乎互补的方式直接或间接影响GABA能系统，协同增强呼吸抑制的能力。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_1980275579816439809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3taJdxW8AENCYJ.jpg",
+        "width": 685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1980274564077887614",
+        "created_at": "2025-10-21T01:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T02:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980444538109145134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980444538109145134",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980275595843097031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "危险的联用🚫\n阿片类与乙醇。使用阿片类药物时摄入乙醇会加剧呼吸抑制。一项临床试验表明，使用羟可酮时摄入乙醇比单独使用其中任一药物时能导致的呼吸抑制程度更大。\n阿片类、苯二氮卓类药物和骨骼肌松弛剂（eg.卡利普多）。三者以近乎互补的方式直接或间接影响GABA能系统，协同增强呼吸抑制的能力。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980275579816439809"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1980274564077887614",
+        "created_at": "2025-10-20T14:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980275595843097031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZjF0c2zdA",
+              "end": 23,
+              "expanded_url": "https://x.com/Prechaska/status/1980275595843097031/photo/1",
+              "media_key": "3_1980275579816439809",
+              "start": 0,
+              "url": "https://t.co/qZjF0c2zdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980275595843097031",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980274564077887614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qZjF0c2zdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 69,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 346
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

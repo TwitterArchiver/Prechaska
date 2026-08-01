@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1986612081152631041",
+    "created_at": "2025-11-07T01:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T02:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986612081152631041"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 61,
+          "normalized_text": "Snow",
+          "probability": 0.4697,
+          "start": 58,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 27,
+          "tag": "AutumnArrivalSpotlight"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "19255050",
+          "start": 3,
+          "username": "Natures_Voice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986612081152631041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986342902683914292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Natures_Voice: Today’s #AutumnArrivalSpotlight is the Snow Bunting! ❄️  \n\nThese hardy winter visitors are the world's most northerly br…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11289,
+        "height": 1280,
+        "media_key": "7_1986342879824908288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1986342879824908288/pu/img/_K01fqFIxjQTfA4r.jpg",
+        "public_metrics": {
+          "view_count": 1685
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986342879824908288/pu/vid/avc1/320x320/9bMInA2QsnBdLr_y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986342879824908288/pu/vid/avc1/540x540/K_jSXsWeJ_8tVtpu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1986342879824908288/pu/vid/avc1/720x720/QAg1aMy-0a6ngU0L.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1986342879824908288/pu/pl/CmGNDGSBZpYmI_BH.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1986612081152631041",
+        "created_at": "2025-11-07T01:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T02:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986612081152631041"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "Snow",
+              "probability": 0.4697,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 27,
+              "tag": "AutumnArrivalSpotlight"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "19255050",
+              "start": 3,
+              "username": "Natures_Voice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986612081152631041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986342902683914292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Natures_Voice: Today’s #AutumnArrivalSpotlight is the Snow Bunting! ❄️  \n\nThese hardy winter visitors are the world's most northerly br…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1986342879824908288"
+          ]
+        },
+        "author_id": "19255050",
+        "conversation_id": "1986342902683914292",
+        "created_at": "2025-11-06T08:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986342902683914292"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Snow",
+              "probability": 0.5248,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 8,
+              "tag": "AutumnArrivalSpotlight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjUvjiTWm3",
+              "end": 292,
+              "expanded_url": "https://x.com/Natures_Voice/status/1986342902683914292/video/1",
+              "media_key": "7_1986342879824908288",
+              "start": 269,
+              "url": "https://t.co/KjUvjiTWm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986342902683914292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5199,
+          "like_count": 230,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Today’s #AutumnArrivalSpotlight is the Snow Bunting! ❄️  \n\nThese hardy winter visitors are the world's most northerly breeding passerines.\n\nWatch for lively flocks on shingle and sandy shores, their plumage a mix of white and warm rusty hues. \n\nA charming winter spot! https://t.co/KjUvjiTWm3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 78,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 451
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-20T20:23:26.000Z",
+        "description": "Protecting habitats, saving species, and helping to end the nature and climate emergency. 💚  \n\nFind us on Bluesky too!\n\nCover photo: Annie Shadrake",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "brnw.ch/21wQQ06",
+                "end": 23,
+                "expanded_url": "https://brnw.ch/21wQQ06",
+                "start": 0,
+                "url": "https://t.co/AIhFk4ZocZ"
+              }
+            ]
+          }
+        },
+        "id": "19255050",
+        "location": "Sandy, UK",
+        "name": "RSPB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764583871809503232/6d95FahW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411620,
+          "following_count": 2705,
+          "like_count": 222780,
+          "listed_count": 3056,
+          "media_count": 14105,
+          "tweet_count": 119781
+        },
+        "url": "https://t.co/AIhFk4ZocZ",
+        "username": "Natures_Voice",
+        "verified": false
+      }
+    ]
+  }
+}

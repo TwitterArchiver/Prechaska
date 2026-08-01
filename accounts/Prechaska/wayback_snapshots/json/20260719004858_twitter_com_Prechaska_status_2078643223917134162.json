@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078458842481061888"
+      ],
+      "media_source_tweet_id": [
+        "2078462159386992766"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1476121813478375424",
+          "name": "ドラマ24 シジュウカラ"
+        }
+      }
+    ],
+    "conversation_id": "2078643223917134162",
+    "created_at": "2026-07-19T00:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078643223917134162"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "コチドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2801271373",
+          "start": 3,
+          "username": "cockatielpika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3OVplQYqlk",
+          "end": 87,
+          "expanded_url": "https://x.com/cockatielpika/status/2078462159386992766/video/1",
+          "media_key": "13_2078458842481061888",
+          "start": 64,
+          "url": "https://t.co/3OVplQYqlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078643223917134162",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078462159386992766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cockatielpika: シジュウカラみたいに鳴き声に意味があったりしないのかな？\n📷20260329 #コチドリ https://t.co/3OVplQYqlk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93960,
+        "height": 720,
+        "media_key": "13_2078458842481061888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078458842481061888/img/XlleDaZO9EhejZNu.jpg",
+        "public_metrics": {
+          "view_count": 1614
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078458842481061888/vid/avc1/480x270/gHSW29nBNpifC8gC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078458842481061888/vid/avc1/640x360/0NfhJUCC8kNiUFsD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078458842481061888/vid/avc1/1280x720/S8jw5P9L6LLNghOf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078458842481061888/pl/IRqpu4bu_2S195jO.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078458842481061888"
+          ]
+        },
+        "author_id": "2801271373",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121813478375424",
+              "name": "ドラマ24 シジュウカラ"
+            }
+          }
+        ],
+        "conversation_id": "2078462159386992766",
+        "created_at": "2026-07-18T12:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078462159386992766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "コチドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OVplQYqlk",
+              "end": 68,
+              "expanded_url": "https://x.com/cockatielpika/status/2078462159386992766/video/1",
+              "media_key": "13_2078458842481061888",
+              "start": 45,
+              "url": "https://t.co/3OVplQYqlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078462159386992766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3517,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "シジュウカラみたいに鳴き声に意味があったりしないのかな？\n📷20260329 #コチドリ https://t.co/3OVplQYqlk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078458842481061888"
+          ],
+          "media_source_tweet_id": [
+            "2078462159386992766"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121813478375424",
+              "name": "ドラマ24 シジュウカラ"
+            }
+          }
+        ],
+        "conversation_id": "2078643223917134162",
+        "created_at": "2026-07-19T00:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078643223917134162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "コチドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2801271373",
+              "start": 3,
+              "username": "cockatielpika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OVplQYqlk",
+              "end": 87,
+              "expanded_url": "https://x.com/cockatielpika/status/2078462159386992766/video/1",
+              "media_key": "13_2078458842481061888",
+              "start": 64,
+              "url": "https://t.co/3OVplQYqlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078643223917134162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078462159386992766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cockatielpika: シジュウカラみたいに鳴き声に意味があったりしないのかな？\n📷20260329 #コチドリ https://t.co/3OVplQYqlk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 163,
+          "like_count": 4134,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1893
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-10T06:33:27.000Z",
+        "description": "基本ひとりで野鳥を探してます。間違いの指摘、フォロー、リプライ等お気軽にどうぞ。 オカメインコピカちゃん15歳の養母。 ＃フランス探鳥旅行 #ボルネオ島キナバル国立公園 #阿里山国家森林遊楽区の野鳥 #ニュージーランド探鳥",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 60,
+                "tag": "フランス探鳥旅行"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "tag": "ボルネオ島キナバル国立公園"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "tag": "阿里山国家森林遊楽区の野鳥"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "tag": "ニュージーランド探鳥"
+              }
+            ]
+          }
+        },
+        "id": "2801271373",
+        "location": "日本 ",
+        "name": "のどか",
+        "pinned_tweet_id": "1872193397429358759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1068413948741922816/DGUTyBrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 684,
+          "like_count": 98603,
+          "listed_count": 44,
+          "media_count": 5948,
+          "tweet_count": 12762
+        },
+        "url": "",
+        "username": "cockatielpika",
+        "verified": false
+      }
+    ]
+  }
+}

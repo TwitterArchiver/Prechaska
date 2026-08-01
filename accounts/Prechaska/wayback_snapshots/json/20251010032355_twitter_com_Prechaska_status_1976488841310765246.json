@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1976320622713295119",
+    "created_at": "2025-10-10T03:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T04:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976488841310765246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1664040280138436620",
+          "start": 0,
+          "username": "ContextBirds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976488841310765246",
+    "in_reply_to_user_id": "1664040280138436620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976320622713295119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ContextBirds 哈哈🍎鸟(⁠✷⁠‿⁠✷⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_1976320617436614656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21NIWyXEAAK-FM.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1976320622713295119",
+        "created_at": "2025-10-10T03:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976488841310765246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1664040280138436620",
+              "start": 0,
+              "username": "ContextBirds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976488841310765246",
+        "in_reply_to_user_id": "1664040280138436620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976320622713295119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ContextBirds 哈哈🍎鸟(⁠✷⁠‿⁠✷⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976320617436614656"
+          ]
+        },
+        "author_id": "1664040280138436620",
+        "conversation_id": "1976320622713295119",
+        "created_at": "2025-10-09T16:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976320622713295119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xFZPXY23C",
+              "end": 23,
+              "expanded_url": "https://x.com/ContextBirds/status/1976320622713295119/photo/1",
+              "media_key": "3_1976320617436614656",
+              "start": 0,
+              "url": "https://t.co/6xFZPXY23C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976320622713295119",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 91973,
+          "like_count": 4783,
+          "quote_count": 19,
+          "reply_count": 8,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6xFZPXY23C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 51,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 256
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T22:45:04.000Z",
+        "description": "Follow for daily birds content",
+        "id": "1664040280138436620",
+        "location": "Turn on notifs 🔔",
+        "name": "Out of Context Birds",
+        "pinned_tweet_id": "1974567205787283720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681788053344403456/E9n1y4v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93022,
+          "following_count": 100,
+          "like_count": 3792,
+          "listed_count": 274,
+          "media_count": 2589,
+          "tweet_count": 2838
+        },
+        "username": "ContextBirds",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1979193972821233939",
+    "created_at": "2025-10-18T10:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979497467378024585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492136377542012928",
+          "start": 0,
+          "username": "take_a_walk96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979497467378024585",
+    "in_reply_to_user_id": "1492136377542012928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979193972821233939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@take_a_walk96 🥺🥺😚😚😍😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_1979193969880846336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3eCbexX0AALHBb.jpg",
+        "width": 1838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1979193972821233939",
+        "created_at": "2025-10-18T10:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979497467378024585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492136377542012928",
+              "start": 0,
+              "username": "take_a_walk96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979497467378024585",
+        "in_reply_to_user_id": "1492136377542012928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979193972821233939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@take_a_walk96 🥺🥺😚😚😍😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979193969880846336"
+          ]
+        },
+        "author_id": "1492136377542012928",
+        "conversation_id": "1979193972821233939",
+        "created_at": "2025-10-17T14:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979193972821233939"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "コサメちゃん",
+              "probability": 0.887,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "コサメビタキ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fK4jWjl976",
+              "end": 54,
+              "expanded_url": "https://x.com/take_a_walk96/status/1979193972821233939/photo/1",
+              "media_key": "3_1979193969880846336",
+              "start": 31,
+              "url": "https://t.co/fK4jWjl976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979193972821233939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2830,
+          "like_count": 300,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "コサメちゃんは飛び出しもかわいいのです😊✨🎵\n#コサメビタキ https://t.co/fK4jWjl976"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 61,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 314
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T14:00:38.000Z",
+        "description": "散歩がてら身近な鳥さんの撮影をしています🎵😄大自然に感謝🎵\ncanon EOS R5mk2•R6•R7/RF600mm F4L IS USM/EF100-400mm F4.5-5.6L IS II USM/RF100-400mm F5.6-8 IS USM/powershot sx70 hs",
+        "id": "1492136377542012928",
+        "name": "りっく",
+        "pinned_tweet_id": "1492144648696987649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741346110495674368/SJiIh_yP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4959,
+          "following_count": 1740,
+          "like_count": 78694,
+          "listed_count": 39,
+          "media_count": 1637,
+          "tweet_count": 7272
+        },
+        "username": "take_a_walk96",
+        "verified": false
+      }
+    ]
+  }
+}

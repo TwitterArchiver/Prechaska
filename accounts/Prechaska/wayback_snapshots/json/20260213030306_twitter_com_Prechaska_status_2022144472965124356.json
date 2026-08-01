@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2022144081439469908",
+    "created_at": "2026-02-13T03:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022144472965124356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022144472965124356",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022144081439469908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "程度，自己实际是不存在的，所以需要外界的体验来填满自己，听歌的时候就是这样，被音乐完全充满，好像自己就是这首曲子，或者说被它同化了、藉着它的世界观在感受一样，每切一首歌就是换了一个身份和世界，如果这时我想要说些什么，那我只是在说这首歌，说它让我感受到的，或者它想表达的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2022144081439469908",
+        "created_at": "2026-02-13T03:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022144472965124356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022144472965124356",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022144081439469908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "程度，自己实际是不存在的，所以需要外界的体验来填满自己，听歌的时候就是这样，被音乐完全充满，好像自己就是这首曲子，或者说被它同化了、藉着它的世界观在感受一样，每切一首歌就是换了一个身份和世界，如果这时我想要说些什么，那我只是在说这首歌，说它让我感受到的，或者它想表达的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2022144081439469908",
+        "created_at": "2026-02-13T03:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022144081439469908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022144081439469908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草啊，虽然是玩爽了但根本描述不出来trip 🥲，解离完全摧毁了我把想法和感受抽象成语言的能力。以最后一次给药的两小时后躁狂和清醒感上来作为开始的标志，音乐明显变得不同起来，并按照不同的曲子有速度/音质/混响上的差异，陌生感处在一种“我知道这些是什么但不用（无法？）去思考也不用在意它们”的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 116,
+          "like_count": 2147,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1371
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

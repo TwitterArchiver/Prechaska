@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080491934859329536"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2080491941121446270",
+    "created_at": "2026-07-24T03:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080491941121446270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z03jqojSEZ",
+          "end": 40,
+          "expanded_url": "https://x.com/Prechaska/status/2080491941121446270/photo/1",
+          "media_key": "3_2080491934859329536",
+          "start": 17,
+          "url": "https://t.co/z03jqojSEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080491941121446270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前装的pea胶囊天太热化掉了（ https://t.co/z03jqojSEZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080491934859329536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9kZE9bAAAiMxW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080491934859329536"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2080491941121446270",
+        "created_at": "2026-07-24T03:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080491941121446270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z03jqojSEZ",
+              "end": 40,
+              "expanded_url": "https://x.com/Prechaska/status/2080491941121446270/photo/1",
+              "media_key": "3_2080491934859329536",
+              "start": 17,
+              "url": "https://t.co/z03jqojSEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080491941121446270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前装的pea胶囊天太热化掉了（ https://t.co/z03jqojSEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 165,
+          "like_count": 4268,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

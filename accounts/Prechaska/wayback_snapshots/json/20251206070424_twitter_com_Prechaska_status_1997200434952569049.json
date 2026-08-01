@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1997176478275178771",
+    "created_at": "2025-12-06T07:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T08:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997200434952569049"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997200434952569049",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997199180532797680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "holy shit我出来了。所以dpt实际可以作为一种音乐体验放大剂来使用，还是完全4D的那种，切身体验。首推普罗科菲耶夫第二钢琴协奏曲，戏剧性十足"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1997176478275178771",
+        "created_at": "2025-12-06T07:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997200434952569049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997200434952569049",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997199180532797680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "holy shit我出来了。所以dpt实际可以作为一种音乐体验放大剂来使用，还是完全4D的那种，切身体验。首推普罗科菲耶夫第二钢琴协奏曲，戏剧性十足"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1997176478275178771",
+        "created_at": "2025-12-06T06:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T07:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997199180532797680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997199180532797680",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997195256337731920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我明白了，至少对我来说，幻觉完全是由音乐引导的，并且能够在幻觉中重现这曲子的每一个细节，如果它具戏剧性就还容易引导出各种不同的幻觉。完完全全地被淹没在音乐的每一步中，仿佛音乐表现出来的情绪也是自己的情绪，是的，因此这里的“戏剧性”这么像切身体验一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 94,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 872
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

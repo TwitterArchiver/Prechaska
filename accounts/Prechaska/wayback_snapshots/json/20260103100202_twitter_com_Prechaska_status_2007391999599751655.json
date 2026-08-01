@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007391989390860288"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2007391999599751655",
+    "created_at": "2026-01-03T10:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007391999599751655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YDX3ZKOmJK",
+          "end": 77,
+          "expanded_url": "https://x.com/Prechaska/status/2007391999599751655/photo/1",
+          "media_key": "3_2007391989390860288",
+          "start": 54,
+          "url": "https://t.co/YDX3ZKOmJK"
+        },
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/salviaswc/status/2007257351330709880",
+          "start": 78,
+          "url": "https://t.co/mKP91gipoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007391999599751655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007257351330709880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不喜欢一切让我昏昏欲睡/影响思维的药。重复是恶的而创造是良善的，所有药物中只有致幻剂是创造的，并给予新知识 https://t.co/YDX3ZKOmJK https://t.co/mKP91gipoD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2007391989390860288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9uwYPSbYAAbCjw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2007150124019945472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rUZ0kXEAAQQCH.png",
+        "width": 3400
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2007150250583080960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rUhMDXQAA1R8n.png",
+        "width": 3400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007391989390860288"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2007391999599751655",
+        "created_at": "2026-01-03T10:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007391999599751655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDX3ZKOmJK",
+              "end": 77,
+              "expanded_url": "https://x.com/Prechaska/status/2007391999599751655/photo/1",
+              "media_key": "3_2007391989390860288",
+              "start": 54,
+              "url": "https://t.co/YDX3ZKOmJK"
+            },
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/salviaswc/status/2007257351330709880",
+              "start": 78,
+              "url": "https://t.co/mKP91gipoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007391999599751655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007257351330709880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不喜欢一切让我昏昏欲睡/影响思维的药。重复是恶的而创造是良善的，所有药物中只有致幻剂是创造的，并给予新知识 https://t.co/YDX3ZKOmJK https://t.co/mKP91gipoD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007150124019945472",
+            "3_2007150250583080960"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2007257351330709880",
+        "created_at": "2026-01-03T01:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T02:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007257351330709880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBwjwEjpn3",
+              "end": 105,
+              "expanded_url": "https://x.com/SalviaSWC/status/2007257351330709880/photo/1",
+              "media_key": "3_2007150124019945472",
+              "start": 82,
+              "url": "https://t.co/yBwjwEjpn3"
+            },
+            {
+              "display_url": "pic.x.com/yBwjwEjpn3",
+              "end": 105,
+              "expanded_url": "https://x.com/SalviaSWC/status/2007257351330709880/photo/1",
+              "media_key": "3_2007150250583080960",
+              "start": 82,
+              "url": "https://t.co/yBwjwEjpn3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007257351330709880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4122,
+          "like_count": 44,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "💊大类喜好表V1（可以抱走\n你雷哪种药物？你喜欢哪种药物？你对哪种药物剧烈成瘾了？🥺\n（抑制剂根据机理分为了5大类，别的没分\n（感觉还可以指名道姓加入一些od药物 https://t.co/yBwjwEjpn3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化中）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 95,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1125
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 725,
+          "like_count": 17317,
+          "listed_count": 7,
+          "media_count": 203,
+          "tweet_count": 4606
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

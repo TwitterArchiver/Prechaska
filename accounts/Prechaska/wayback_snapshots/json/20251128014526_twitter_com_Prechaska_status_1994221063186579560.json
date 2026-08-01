@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1994217088056209701",
+    "created_at": "2025-11-28T01:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T02:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994221063186579560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994221063186579560",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994217088056209701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 啊啊啊啊我服了 用户应该给此回答点👎😠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_1994217085338329088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zh35CbIAAPvmX.jpg",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1994217088056209701",
+        "created_at": "2025-11-28T01:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994221063186579560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994221063186579560",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994217088056209701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 啊啊啊啊我服了 用户应该给此回答点👎😠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994217085338329088"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "conversation_id": "1994217088056209701",
+        "created_at": "2025-11-28T01:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994217088056209701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oncsjKhXkY",
+              "end": 46,
+              "expanded_url": "https://x.com/qngshu988723424/status/1994217088056209701/photo/1",
+              "media_key": "3_1994217085338329088",
+              "start": 23,
+              "url": "https://t.co/oncsjKhXkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994217088056209701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说我要当健全逼去了然后它就开始一直叫我这个 https://t.co/oncsjKhXkY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 91,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 753
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "思考性别中/和鸟每天抢吃的",
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "1940443442192298200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968860278877241344/_1PHGlWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 358,
+          "like_count": 3937,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4871
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

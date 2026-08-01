@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998011534136737792"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1998011543901069759",
+    "created_at": "2025-12-08T12:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998011543901069759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1S8DmRM4mU",
+          "end": 118,
+          "expanded_url": "https://x.com/Prechaska/status/1998011543901069759/photo/1",
+          "media_key": "3_1998011534136737792",
+          "start": 95,
+          "url": "https://t.co/1S8DmRM4mU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998011543901069759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又玩一次dpt（，与第一次的恐怖有些类似，这样，有了经验，终于能对“循环”做出更好的解释了。\n\n但我现在就是很好奇影响药效的到底是什么，到底是为什么和上次那么不同（又或者上次为什么那么特殊 https://t.co/1S8DmRM4mU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1998011534136737792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pc54VagAA-u6k.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998011534136737792"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1998011543901069759",
+        "created_at": "2025-12-08T12:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998011543901069759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1S8DmRM4mU",
+              "end": 118,
+              "expanded_url": "https://x.com/Prechaska/status/1998011543901069759/photo/1",
+              "media_key": "3_1998011534136737792",
+              "start": 95,
+              "url": "https://t.co/1S8DmRM4mU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998011543901069759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又玩一次dpt（，与第一次的恐怖有些类似，这样，有了经验，终于能对“循环”做出更好的解释了。\n\n但我现在就是很好奇影响药效的到底是什么，到底是为什么和上次那么不同（又或者上次为什么那么特殊 https://t.co/1S8DmRM4mU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 94,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 907
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

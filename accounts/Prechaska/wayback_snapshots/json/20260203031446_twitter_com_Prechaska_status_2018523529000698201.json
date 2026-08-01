@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2018523529000698201",
+    "created_at": "2026-02-03T03:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T04:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018523529000698201"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018523529000698201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太无聊了，事情最终还是推向了人身攻击和对受害者八卦的披露，问题在于，这些和此事件又有什么关系呢，到了这一步就只能说是单纯的泄愤和对事件娱乐化了\n私以为，只要是自己选择摄入显然有联用风险的药物而不是被迫摄入时，人就必须为自己的行为负责，任何sitter都无法也不应成为行为后果的第一负责人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2018523529000698201",
+        "created_at": "2026-02-03T03:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018523529000698201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018523529000698201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太无聊了，事情最终还是推向了人身攻击和对受害者八卦的披露，问题在于，这些和此事件又有什么关系呢，到了这一步就只能说是单纯的泄愤和对事件娱乐化了\n私以为，只要是自己选择摄入显然有联用风险的药物而不是被迫摄入时，人就必须为自己的行为负责，任何sitter都无法也不应成为行为后果的第一负责人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 115,
+          "like_count": 1908,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1289
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

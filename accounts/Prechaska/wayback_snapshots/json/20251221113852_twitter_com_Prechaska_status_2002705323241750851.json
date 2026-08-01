@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2002705323241750851",
+    "created_at": "2025-12-21T11:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T12:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002705323241750851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Prechaska/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Prechaska/status/2002703138999136726",
+          "start": 141,
+          "url": "https://t.co/4fheJ3orr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002705323241750851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002703138999136726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和解离剂一样，都是通过屏蔽现实让自己安心一点。解离剂是让自己对世界陌生对一切陌生自然也对自己的困扰陌生。普瑞则是抹掉过去的所有记忆，看似在当下感受着，但在现实中感到焦虑的“我”并不在这具身体中，通过消解组成自身的记忆也消除自我，如此当下的一切就显得对自己没有任何干涉，仿佛中立一样 https://t.co/4fheJ3orr3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2002705323241750851",
+        "created_at": "2025-12-21T11:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002705323241750851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Prechaska/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Prechaska/status/2002703138999136726",
+              "start": 141,
+              "url": "https://t.co/4fheJ3orr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002705323241750851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002703138999136726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和解离剂一样，都是通过屏蔽现实让自己安心一点。解离剂是让自己对世界陌生对一切陌生自然也对自己的困扰陌生。普瑞则是抹掉过去的所有记忆，看似在当下感受着，但在现实中感到焦虑的“我”并不在这具身体中，通过消解组成自身的记忆也消除自我，如此当下的一切就显得对自己没有任何干涉，仿佛中立一样 https://t.co/4fheJ3orr3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2002665718479991292",
+        "created_at": "2025-12-21T11:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002703138999136726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002703138999136726",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002679031645499636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不对啊，感觉这种记忆的抹除让“自己”也消失了，只剩下一个空洞的容器对周围事物做出反应，尽管一些技能应该还正常，但叙述自己历史的记忆不见了，“我”成了一个没有过去只有现在的、单纯的感受者。其实也可以说是某种解离？因为直接消除了现实的痛苦记忆，一种逃避，所以显得那么温柔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 92,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1067
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2016122863636643980",
+    "created_at": "2026-01-27T12:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016124321115378078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016124321115378078",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016122863636643980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 五彩斑斓的黑！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016122855046709253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_q1DgabAAU6qir.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2016122863636643980",
+        "created_at": "2026-01-27T12:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016124321115378078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016124321115378078",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016122863636643980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 五彩斑斓的黑！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016122855046709253"
+          ]
+        },
+        "author_id": "1763381254035251200",
+        "conversation_id": "2016122863636643980",
+        "created_at": "2026-01-27T12:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T13:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016122863636643980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYiFTsts8k",
+              "end": 29,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016122863636643980/photo/1",
+              "media_key": "3_2016122855046709253",
+              "start": 6,
+              "url": "https://t.co/EYiFTsts8k"
+            },
+            {
+              "display_url": "x.com/yowamushi12072…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yowamushi120720/status/2016122639044210728",
+              "start": 30,
+              "url": "https://t.co/y35NHsMPil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016122863636643980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016122639044210728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "口袋宠物啊 https://t.co/EYiFTsts8k https://t.co/y35NHsMPil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 111,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1243
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真 enby 恐惧型依恋请关照｜不负弱虫之名！*无心之过淹没了你",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "2007974697464647846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 585,
+          "like_count": 41881,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 3921
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

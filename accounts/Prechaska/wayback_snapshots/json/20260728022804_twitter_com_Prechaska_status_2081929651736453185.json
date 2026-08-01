@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081641507975770112"
+      ],
+      "media_source_tweet_id": [
+        "2081643042491204060"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2081929651736453185",
+    "created_at": "2026-07-28T02:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081929651736453185"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "アオゲラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3878968934",
+          "start": 3,
+          "username": "kazantotaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/30Sfu2FlYs",
+          "end": 91,
+          "expanded_url": "https://x.com/kazantotaki/status/2081643042491204060/video/1",
+          "media_key": "13_2081641507975770112",
+          "start": 68,
+          "url": "https://t.co/30Sfu2FlYs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081929651736453185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081643042491204060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kazantotaki: アオゲラ10倍スロー\n木くずがサラサラと舞って綺麗だな🤗\n\nこの木、近々折れそうだな…🫨\n#アオゲラ https://t.co/30Sfu2FlYs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60053,
+        "height": 1080,
+        "media_key": "13_2081641507975770112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081641507975770112/img/D0eq8EtcxoEWqe4f.jpg",
+        "public_metrics": {
+          "view_count": 3600
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081641507975770112/vid/avc1/320x320/A-Yu5xOpzVYiB2kR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081641507975770112/vid/avc1/540x540/axAe5BXKGNhsbLK_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081641507975770112/vid/avc1/720x720/sV3_u1o4RWo6b3x4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081641507975770112/pl/QEyxRD-gXdsaqLoj.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081641507975770112"
+          ]
+        },
+        "author_id": "3878968934",
+        "conversation_id": "2081643042491204060",
+        "created_at": "2026-07-27T07:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081643042491204060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "アオゲラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Sfu2FlYs",
+              "end": 74,
+              "expanded_url": "https://x.com/kazantotaki/status/2081643042491204060/video/1",
+              "media_key": "13_2081641507975770112",
+              "start": 51,
+              "url": "https://t.co/30Sfu2FlYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081643042491204060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7085,
+          "like_count": 296,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "アオゲラ10倍スロー\n木くずがサラサラと舞って綺麗だな🤗\n\nこの木、近々折れそうだな…🫨\n#アオゲラ https://t.co/30Sfu2FlYs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081641507975770112"
+          ],
+          "media_source_tweet_id": [
+            "2081643042491204060"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2081929651736453185",
+        "created_at": "2026-07-28T02:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081929651736453185"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "アオゲラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3878968934",
+              "start": 3,
+              "username": "kazantotaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30Sfu2FlYs",
+              "end": 91,
+              "expanded_url": "https://x.com/kazantotaki/status/2081643042491204060/video/1",
+              "media_key": "13_2081641507975770112",
+              "start": 68,
+              "url": "https://t.co/30Sfu2FlYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081929651736453185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081643042491204060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kazantotaki: アオゲラ10倍スロー\n木くずがサラサラと舞って綺麗だな🤗\n\nこの木、近々折れそうだな…🫨\n#アオゲラ https://t.co/30Sfu2FlYs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 164,
+          "like_count": 4439,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1972
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-13T09:03:34.000Z",
+        "description": "近所(都会の田舎)を散歩して、すごい・面白い・カワイイ・美しい瞬間を見つけて発信してまーす。エナガ・オオタカ・カワセミ成分が高めだよ。\n主な使用機材はSONY α7RV/α9IIIとSIGMA 500ｍｍ F5.6 DG DN/135mm F1.4 DG/SONY FE 400-800mm F6.3-8 G OSS。",
+        "id": "3878968934",
+        "location": "日本",
+        "name": "しうぽーにゅ",
+        "pinned_tweet_id": "2071951099695968752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866363489201381376/pWl631JL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 702,
+          "like_count": 123411,
+          "listed_count": 22,
+          "media_count": 5417,
+          "tweet_count": 9686
+        },
+        "url": "",
+        "username": "kazantotaki",
+        "verified": false
+      }
+    ]
+  }
+}

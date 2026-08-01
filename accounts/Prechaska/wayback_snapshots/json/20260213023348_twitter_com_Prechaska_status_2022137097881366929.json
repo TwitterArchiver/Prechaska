@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2022136083425993198",
+    "created_at": "2026-02-13T02:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T03:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022137097881366929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022137097881366929",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022136083425993198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果这样，那应该可以在这种分次给药中微调二者的比例来达到想要的效果，比如把第一次的量看作DXO（解离强度）的量，而后面的是DXM（清醒程度）的量，控制解离/清醒的程度。于是主包之后将会尝试别的比例！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2022136083425993198",
+        "created_at": "2026-02-13T02:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022137097881366929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022137097881366929",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022136083425993198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果这样，那应该可以在这种分次给药中微调二者的比例来达到想要的效果，比如把第一次的量看作DXO（解离强度）的量，而后面的是DXM（清醒程度）的量，控制解离/清醒的程度。于是主包之后将会尝试别的比例！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2022136083425993198",
+        "created_at": "2026-02-13T02:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022136083425993198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/prechaska/status/2021981915646243079",
+              "start": 157,
+              "url": "https://t.co/ZxfM41k0id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022136083425993198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021981915646243079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "背景是主包每次用愚昧到能感觉到解离的剂量就一定会昏睡，推测是一次性代谢的DXO太强把自己放倒了，于是这次把12t分成4 4 4隔半小时分三次用完，似乎是最开始一次的DXM会占用2d6酶并代谢为DXO，而之后的两次因为酶被占用所以更多的DXM留下而没有被变成DXO，这样提高DXM/DXO的比重让自己能清醒地解离， https://t.co/ZxfM41k0id"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 116,
+          "like_count": 2147,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1369
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

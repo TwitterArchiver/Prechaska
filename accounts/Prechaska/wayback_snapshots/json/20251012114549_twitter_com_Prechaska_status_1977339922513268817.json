@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1977337108470919663",
+    "created_at": "2025-10-12T11:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T12:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977339922513268817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977339922513268817",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977337108470919663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是什么“因为觉得自己不够好所以不配被关注”，只是从一开始“想要被关注”就不该是个可选项，只要我还承认自己推断出的结果，就不该——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1977337108470919663",
+        "created_at": "2025-10-12T11:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977339922513268817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977339922513268817",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977337108470919663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是什么“因为觉得自己不够好所以不配被关注”，只是从一开始“想要被关注”就不该是个可选项，只要我还承认自己推断出的结果，就不该——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1977337108470919663",
+        "created_at": "2025-10-12T11:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977337108470919663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977337108470919663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说我长篇大论地向你分享od体验是想要博得关注，是想有人来关心、在意我，你说我总是太自命不凡，说我的痛苦在于以为自己不必像他人那样就可以直接叩开门扉却最终失败，你说的没错，没错，都没错，抱歉，抱歉我不会再和你说了，我知道我好恶心恶心恶心恶心恶心恶心恶心恶心恶心恶心恶心恶心恶心恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 54,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 272
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

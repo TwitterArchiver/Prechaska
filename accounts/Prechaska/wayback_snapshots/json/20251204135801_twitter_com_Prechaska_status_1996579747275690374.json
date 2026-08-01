@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1996148690357231887",
+    "created_at": "2025-12-04T13:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T14:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996579747275690374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591328081003700224",
+          "start": 0,
+          "username": "kuitiyashva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996579747275690374",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996579554136408073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuitiyashva 之所以认为这两种立场不应割裂开，是根据我自己的立场，我支持社会对改过自新的吸毒者的重新接纳，而你的立场相反。如果你真想知道社会该如何关爱吸毒者，引导他们回归正常生活，你可以去看看葡萄牙是怎么做的。并且吸毒者的需要真的远比你想象的复杂。如果你只想输出你的立场的话，我们可以到此为止了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-04T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996579747275690374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591328081003700224",
+              "start": 0,
+              "username": "kuitiyashva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996579747275690374",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996579554136408073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuitiyashva 之所以认为这两种立场不应割裂开，是根据我自己的立场，我支持社会对改过自新的吸毒者的重新接纳，而你的立场相反。如果你真想知道社会该如何关爱吸毒者，引导他们回归正常生活，你可以去看看葡萄牙是怎么做的。并且吸毒者的需要真的远比你想象的复杂。如果你只想输出你的立场的话，我们可以到此为止了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-04T13:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996579554136408073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591328081003700224",
+              "start": 0,
+              "username": "kuitiyashva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996579554136408073",
+        "in_reply_to_user_id": "1591328081003700224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996555853177254146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuitiyashva 如果你是这个态度我会认为你是在输出立场而不是相互交流。你的立场是：毒品都是可恶的有害的一点不能碰的；只要吸了毒就永远是吸毒者，永远无法重新变成普通人。而我的立场是：人有改变自己意识状态的自由，毒品也不全都“有害”，至少和烟酒比起来如此；吸毒者如果愿意戒掉那社会应当包容他们的回归。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 93,
+          "like_count": 937,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 828
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T07:12:55.000Z",
+        "description": "",
+        "id": "1591328081003700224",
+        "location": "CNX",
+        "name": "AgueJuana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990330552776548352/Qroco-S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 283
+        },
+        "username": "kuitiyashva",
+        "verified": false
+      }
+    ]
+  }
+}

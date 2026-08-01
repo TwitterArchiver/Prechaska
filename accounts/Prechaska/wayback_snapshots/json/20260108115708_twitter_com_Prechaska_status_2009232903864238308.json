@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2009232903864238308",
+    "created_at": "2026-01-08T11:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009232903864238308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/prechaska/stat…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/prechaska/status/2009224718352847051",
+          "start": 142,
+          "url": "https://t.co/0otUL6Wvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009232903864238308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009224718352847051",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类观察素材+1😋：\n乐子人在本质上是空虚的，他们的自我是匮乏的，尽管他们试着保持超然事外的姿态，通过窥探他人的生活、将他人降格为单纯的景观或物来维持自己的优越性，并在嘲弄、找乐子中获得满足，但正由于他们自身的匮乏，只有将他人变成客体才能掩盖他自己作为主体的空洞，一种可怜的寄生物。 https://t.co/0otUL6Wvxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_2009224711730040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IzOuCbEAAoNL-.jpg",
+        "width": 1291
+      },
+      {
+        "height": 1132,
+        "media_key": "3_2009224711721635843",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IzOuAa0AMtaU6.jpg",
+        "width": 1291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2009232903864238308",
+        "created_at": "2026-01-08T11:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009232903864238308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/prechaska/status/2009224718352847051",
+              "start": 142,
+              "url": "https://t.co/0otUL6Wvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009232903864238308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009224718352847051",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类观察素材+1😋：\n乐子人在本质上是空虚的，他们的自我是匮乏的，尽管他们试着保持超然事外的姿态，通过窥探他人的生活、将他人降格为单纯的景观或物来维持自己的优越性，并在嘲弄、找乐子中获得满足，但正由于他们自身的匮乏，只有将他人变成客体才能掩盖他自己作为主体的空洞，一种可怜的寄生物。 https://t.co/0otUL6Wvxv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009224711730040832",
+            "3_2009224711721635843"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2009224718352847051",
+        "created_at": "2026-01-08T11:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009224718352847051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UccCfJKk2b",
+              "end": 29,
+              "expanded_url": "https://x.com/Prechaska/status/2009224718352847051/photo/1",
+              "media_key": "3_2009224711730040832",
+              "start": 6,
+              "url": "https://t.co/UccCfJKk2b"
+            },
+            {
+              "display_url": "pic.x.com/UccCfJKk2b",
+              "end": 29,
+              "expanded_url": "https://x.com/Prechaska/status/2009224718352847051/photo/1",
+              "media_key": "3_2009224711721635843",
+              "start": 6,
+              "url": "https://t.co/UccCfJKk2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009224718352847051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请看神人： https://t.co/UccCfJKk2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 98,
+          "like_count": 1532,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1152
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

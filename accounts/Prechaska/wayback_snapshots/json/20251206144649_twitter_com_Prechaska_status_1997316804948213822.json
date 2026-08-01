@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997316795234217984",
+        "3_1997316795217416192",
+        "3_1997316795192262656"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1997316804948213822",
+    "created_at": "2025-12-06T14:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997316804948213822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wRyJ6m7xvd",
+          "end": 90,
+          "expanded_url": "https://x.com/Prechaska/status/1997316804948213822/photo/1",
+          "media_key": "3_1997316795234217984",
+          "start": 67,
+          "url": "https://t.co/wRyJ6m7xvd"
+        },
+        {
+          "display_url": "pic.x.com/wRyJ6m7xvd",
+          "end": 90,
+          "expanded_url": "https://x.com/Prechaska/status/1997316804948213822/photo/1",
+          "media_key": "3_1997316795217416192",
+          "start": 67,
+          "url": "https://t.co/wRyJ6m7xvd"
+        },
+        {
+          "display_url": "pic.x.com/wRyJ6m7xvd",
+          "end": 90,
+          "expanded_url": "https://x.com/Prechaska/status/1997316804948213822/photo/1",
+          "media_key": "3_1997316795192262656",
+          "start": 67,
+          "url": "https://t.co/wRyJ6m7xvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997316804948213822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "静脉注射与肌肉注射DPT  “请播放普二”\n\n第二次成功的dpt尝试，但是很无聊且非常个人化的一个报告，对音乐不感兴趣的话不推荐观看 https://t.co/wRyJ6m7xvd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_1997316795234217984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7flCwPbcAAmOqK.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1541,
+        "media_key": "3_1997316795217416192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7flCwLbEAAuXVC.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1539,
+        "media_key": "3_1997316795192262656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7flCwFbQAAeRxP.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997316795234217984",
+            "3_1997316795217416192",
+            "3_1997316795192262656"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1997316804948213822",
+        "created_at": "2025-12-06T14:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997316804948213822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRyJ6m7xvd",
+              "end": 90,
+              "expanded_url": "https://x.com/Prechaska/status/1997316804948213822/photo/1",
+              "media_key": "3_1997316795234217984",
+              "start": 67,
+              "url": "https://t.co/wRyJ6m7xvd"
+            },
+            {
+              "display_url": "pic.x.com/wRyJ6m7xvd",
+              "end": 90,
+              "expanded_url": "https://x.com/Prechaska/status/1997316804948213822/photo/1",
+              "media_key": "3_1997316795217416192",
+              "start": 67,
+              "url": "https://t.co/wRyJ6m7xvd"
+            },
+            {
+              "display_url": "pic.x.com/wRyJ6m7xvd",
+              "end": 90,
+              "expanded_url": "https://x.com/Prechaska/status/1997316804948213822/photo/1",
+              "media_key": "3_1997316795192262656",
+              "start": 67,
+              "url": "https://t.co/wRyJ6m7xvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997316804948213822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "静脉注射与肌肉注射DPT  “请播放普二”\n\n第二次成功的dpt尝试，但是很无聊且非常个人化的一个报告，对音乐不感兴趣的话不推荐观看 https://t.co/wRyJ6m7xvd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 94,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 882
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

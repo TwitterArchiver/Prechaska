@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2024400916213092849",
+    "created_at": "2026-02-19T08:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024402271380087229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024402271380087229",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024400916213092849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（2/n）作为现代性根基的我思主体，只学到了笛卡尔暴君式的我思对身体的暴政与强硬控制，和德国浪漫主义加在一起，共同造就了僭越的认为自己拥有无限自由意志和责任的主体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2024400916213092849",
+        "created_at": "2026-02-19T08:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024402271380087229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024402271380087229",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024400916213092849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（2/n）作为现代性根基的我思主体，只学到了笛卡尔暴君式的我思对身体的暴政与强硬控制，和德国浪漫主义加在一起，共同造就了僭越的认为自己拥有无限自由意志和责任的主体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2024400916213092849",
+        "created_at": "2026-02-19T08:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024400916213092849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024400916213092849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（1/n）无限膨胀的主体，德国浪漫主义，梦开始的地方，以有限之躯穷尽一切追逐无限和永恒之物，用语言接近不可能被完全表达的体验，尽管圣杯是无法得到的，但必须追寻。因为无法控制身外之物，于是转向内部，要求控制和探究自身，此后是人为自然立法，无限探寻、展开主体深处一切的先锋现代美学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 117,
+          "like_count": 2238,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1390
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

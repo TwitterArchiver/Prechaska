@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2050246401221599388",
+    "created_at": "2026-05-01T16:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050246401221599388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050246401221599388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又开始想起她了，那会儿我们在讨论禁忌和僭越，她说赤裸并不色情，承认了禁忌才显得色情，我说在三岛那里美也只有经由触犯禁忌、僭越才被认可才能得到，说到受虐狂通过放弃自我消解于更大的事物带来满足感，个体性原则的解脱。\n一切都在丧失，记忆也在丧失，现在很久过去了，我有变得更像你一点吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2050246401221599388",
+        "created_at": "2026-05-01T16:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050246401221599388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050246401221599388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又开始想起她了，那会儿我们在讨论禁忌和僭越，她说赤裸并不色情，承认了禁忌才显得色情，我说在三岛那里美也只有经由触犯禁忌、僭越才被认可才能得到，说到受虐狂通过放弃自我消解于更大的事物带来满足感，个体性原则的解脱。\n一切都在丧失，记忆也在丧失，现在很久过去了，我有变得更像你一点吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 120,
+          "like_count": 2856,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1549
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

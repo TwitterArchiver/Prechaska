@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985488952359567360"
+      ],
+      "media_source_tweet_id": [
+        "1985489017899827439"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1986615491633484102",
+    "created_at": "2025-11-07T02:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T03:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986615491633484102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135060772222951424",
+          "start": 3,
+          "username": "rb_merganser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bAgTeuNQ52",
+          "end": 46,
+          "expanded_url": "https://x.com/rb_merganser/status/1985489017899827439/photo/1",
+          "media_key": "3_1985488952359567360",
+          "start": 23,
+          "url": "https://t.co/bAgTeuNQ52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986615491633484102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985489017899827439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rb_merganser: プクー🐥 https://t.co/bAgTeuNQ52"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_1985488952359567360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G43frr7awAAvwUn.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985488952359567360"
+          ],
+          "media_source_tweet_id": [
+            "1985489017899827439"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1986615491633484102",
+        "created_at": "2025-11-07T02:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986615491633484102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135060772222951424",
+              "start": 3,
+              "username": "rb_merganser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAgTeuNQ52",
+              "end": 46,
+              "expanded_url": "https://x.com/rb_merganser/status/1985489017899827439/photo/1",
+              "media_key": "3_1985488952359567360",
+              "start": 23,
+              "url": "https://t.co/bAgTeuNQ52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986615491633484102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985489017899827439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rb_merganser: プクー🐥 https://t.co/bAgTeuNQ52"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985488952359567360"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "conversation_id": "1985489017899827439",
+        "created_at": "2025-11-03T23:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T00:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985489017899827439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAgTeuNQ52",
+              "end": 28,
+              "expanded_url": "https://x.com/rb_merganser/status/1985489017899827439/photo/1",
+              "media_key": "3_1985488952359567360",
+              "start": 5,
+              "url": "https://t.co/bAgTeuNQ52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985489017899827439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 34308,
+          "like_count": 2148,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "プクー🐥 https://t.co/bAgTeuNQ52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 78,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 452
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 686,
+          "like_count": 81745,
+          "listed_count": 72,
+          "media_count": 14826,
+          "tweet_count": 55591
+        },
+        "username": "rb_merganser",
+        "verified": true
+      }
+    ]
+  }
+}

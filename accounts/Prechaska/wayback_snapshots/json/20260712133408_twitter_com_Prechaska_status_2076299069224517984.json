@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076215070523326464"
+      ],
+      "media_source_tweet_id": [
+        "2076215073505472713"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2076299069224517984",
+    "created_at": "2026-07-12T13:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076299069224517984"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "コチドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1110364751815598080",
+          "start": 3,
+          "username": "Kingfis48508472"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I5H0DDbPO2",
+          "end": 69,
+          "expanded_url": "https://x.com/Kingfis48508472/status/2076215073505472713/photo/1",
+          "media_key": "3_2076215070523326464",
+          "start": 46,
+          "url": "https://t.co/I5H0DDbPO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076299069224517984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076215073505472713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kingfis48508472: 炎天下から我が子を守る親鳥の愛🐦️✨\n#コチドリ https://t.co/I5H0DDbPO2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_2076215070523326464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAymzvbAAAOmIq.jpg",
+        "width": 1087
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215070523326464"
+          ],
+          "media_source_tweet_id": [
+            "2076215073505472713"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2076299069224517984",
+        "created_at": "2026-07-12T13:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076299069224517984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "コチドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1110364751815598080",
+              "start": 3,
+              "username": "Kingfis48508472"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5H0DDbPO2",
+              "end": 69,
+              "expanded_url": "https://x.com/Kingfis48508472/status/2076215073505472713/photo/1",
+              "media_key": "3_2076215070523326464",
+              "start": 46,
+              "url": "https://t.co/I5H0DDbPO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076299069224517984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076215073505472713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kingfis48508472: 炎天下から我が子を守る親鳥の愛🐦️✨\n#コチドリ https://t.co/I5H0DDbPO2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215070523326464"
+          ]
+        },
+        "author_id": "1110364751815598080",
+        "conversation_id": "2076215073505472713",
+        "created_at": "2026-07-12T08:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076215073505472713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "コチドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I5H0DDbPO2",
+              "end": 48,
+              "expanded_url": "https://x.com/Kingfis48508472/status/2076215073505472713/photo/1",
+              "media_key": "3_2076215070523326464",
+              "start": 25,
+              "url": "https://t.co/I5H0DDbPO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076215073505472713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 6921,
+          "like_count": 630,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "炎天下から我が子を守る親鳥の愛🐦️✨\n#コチドリ https://t.co/I5H0DDbPO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 159,
+          "like_count": 3914,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1831
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-26T02:16:01.000Z",
+        "description": "🐦🦉鳥専用アカウント🦅🦆一瞬だけ見せてくれた野鳥の可愛い表情を切り取りました📷️眺めていると、ふと心がやわらぐひとときを・・✨毎日野鳥の魅了を更新中🎶",
+        "id": "1110364751815598080",
+        "name": "鳥見人🐦",
+        "pinned_tweet_id": "2042875314347610515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780182006695157760/CMDT0fPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6022,
+          "following_count": 549,
+          "like_count": 134546,
+          "listed_count": 89,
+          "media_count": 1518,
+          "tweet_count": 13561
+        },
+        "url": "",
+        "username": "Kingfis48508472",
+        "verified": false
+      }
+    ]
+  }
+}

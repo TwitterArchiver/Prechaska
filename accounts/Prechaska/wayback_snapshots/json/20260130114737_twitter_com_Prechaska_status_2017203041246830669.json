@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2017202896820212141",
+    "created_at": "2026-01-30T11:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017203041246830669"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017203041246830669",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017202896820212141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "腰斩，上午用过需要7h后再用一次才能勉强保证一天不会很焦虑，间断的使用让大脑开始习惯更快地处理这种干扰，然后就是“It’s a story as old as time. You spend the rest of your days as a dope user chasing your first or second high or whatever high was most memorable, but you never get it.”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2017202896820212141",
+        "created_at": "2026-01-30T11:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017203041246830669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017203041246830669",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017202896820212141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腰斩，上午用过需要7h后再用一次才能勉强保证一天不会很焦虑，间断的使用让大脑开始习惯更快地处理这种干扰，然后就是“It’s a story as old as time. You spend the rest of your days as a dope user chasing your first or second high or whatever high was most memorable, but you never get it.”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2017202896820212141",
+        "created_at": "2026-01-30T11:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017202896820212141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Prechaska/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Prechaska/status/2007052708151451899",
+              "start": 141,
+              "url": "https://t.co/1hc6svfd0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017202896820212141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007052708151451899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像有点遭报应了，（尽管变量很多但似乎）一周一次的使用同样影响了情绪调节能力，情绪变得更容易因为轻微的刺激产生巨大波动，并且在两极间快速切换，让本就不好的精神状态雪上加霜，情绪基线的维持开始崩盘。并且抗焦虑的效果似乎也有下降，和之前一样的剂量下尽管欣快感变化不大，但抗焦虑效果几乎 https://t.co/1hc6svfd0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 114,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1253
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

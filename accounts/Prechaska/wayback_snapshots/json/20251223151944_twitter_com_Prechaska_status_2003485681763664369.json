@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2003485681763664369",
+    "created_at": "2025-12-23T15:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T16:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003485681763664369"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003485681763664369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天起进入圣诞期，24日晚有圣诞子时弥撒，25晚是圣诞弥撒，有感兴趣的推友可以在这两天18:30以后（不同堂口的弥撒时间可能不一样，通常在18:00-19:30开始）去当地的天主教堂望望弥撒，应该会挺热闹且有圣诞气氛的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2003485681763664369",
+        "created_at": "2025-12-23T15:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003485681763664369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003485681763664369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天起进入圣诞期，24日晚有圣诞子时弥撒，25晚是圣诞弥撒，有感兴趣的推友可以在这两天18:30以后（不同堂口的弥撒时间可能不一样，通常在18:00-19:30开始）去当地的天主教堂望望弥撒，应该会挺热闹且有圣诞气氛的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 93,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1022
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

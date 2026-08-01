@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2025599508906917959",
+    "created_at": "2026-02-23T00:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T01:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025735376351199592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506521082853216258",
+          "start": 0,
+          "username": "17891956wer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025735376351199592",
+    "in_reply_to_user_id": "1506521082853216258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025622443373867396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17891956wer 这没吧，但能降低耐受减轻戒断也很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2025599508906917959",
+        "created_at": "2026-02-23T00:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025735376351199592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506521082853216258",
+              "start": 0,
+              "username": "17891956wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025735376351199592",
+        "in_reply_to_user_id": "1506521082853216258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025622443373867396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17891956wer 这没吧，但能降低耐受减轻戒断也很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506521082853216258",
+        "conversation_id": "2025599508906917959",
+        "created_at": "2026-02-22T17:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T18:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025622443373867396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025622443373867396",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025599508906917959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 纳曲酮除了可以戒阿片没有娱乐价值吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 117,
+          "like_count": 2287,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1404
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在精神世界中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中（改被迫上学）/中文/其他语言会用翻译器/诗歌/友跨/ACGN/电波系/猫猫/mtx～\n欢迎互粉喵～\n（有时互of没看到的私信）\n匿名私信https://t.co/6s74CaEsDY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Mumu",
+                "end": 136,
+                "expanded_url": "https://miyu.link/Mumu",
+                "start": 113,
+                "url": "https://t.co/6s74CaEsDY"
+              }
+            ]
+          }
+        },
+        "id": "1506521082853216258",
+        "location": "Shanghai",
+        "name": "秋风",
+        "pinned_tweet_id": "2025353338393694611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 198,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 329
+        },
+        "username": "17891956wer",
+        "verified": false
+      }
+    ]
+  }
+}

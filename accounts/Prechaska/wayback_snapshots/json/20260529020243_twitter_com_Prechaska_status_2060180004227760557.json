@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2060180004227760557",
+    "created_at": "2026-05-29T02:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060180004227760557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "764302360097071104",
+          "start": 3,
+          "username": "guttenbirder22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060180004227760557",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060079627574690008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guttenbirder22: Plus if you use the “compare” feature and line up the birds correctly, there is infinite comedy to be had. https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2060079585618956288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbfd-XaEAAnLjv.jpg",
+        "width": 802
+      },
+      {
+        "height": 761,
+        "media_key": "3_2060079585623171072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbfd-YaYAAV78E.jpg",
+        "width": 960
+      },
+      {
+        "height": 716,
+        "media_key": "3_2060079585652555777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbfd-fawAEMSay.jpg",
+        "width": 960
+      },
+      {
+        "height": 770,
+        "media_key": "3_2060079585639972864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbfd-cawAAdEjk.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2060180004227760557",
+        "created_at": "2026-05-29T02:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060180004227760557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "764302360097071104",
+              "start": 3,
+              "username": "guttenbirder22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060180004227760557",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060079627574690008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guttenbirder22: Plus if you use the “compare” feature and line up the birds correctly, there is infinite comedy to be had. https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060079585618956288",
+            "3_2060079585623171072",
+            "3_2060079585652555777",
+            "3_2060079585639972864"
+          ]
+        },
+        "author_id": "764302360097071104",
+        "conversation_id": "2060079627574690008",
+        "created_at": "2026-05-28T19:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060079627574690008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2iE6ewJGl",
+              "end": 130,
+              "expanded_url": "https://x.com/guttenbirder22/status/2060079627574690008/photo/1",
+              "media_key": "3_2060079585618956288",
+              "start": 107,
+              "url": "https://t.co/o2iE6ewJGl"
+            },
+            {
+              "display_url": "pic.x.com/o2iE6ewJGl",
+              "end": 130,
+              "expanded_url": "https://x.com/guttenbirder22/status/2060079627574690008/photo/1",
+              "media_key": "3_2060079585623171072",
+              "start": 107,
+              "url": "https://t.co/o2iE6ewJGl"
+            },
+            {
+              "display_url": "pic.x.com/o2iE6ewJGl",
+              "end": 130,
+              "expanded_url": "https://x.com/guttenbirder22/status/2060079627574690008/photo/1",
+              "media_key": "3_2060079585652555777",
+              "start": 107,
+              "url": "https://t.co/o2iE6ewJGl"
+            },
+            {
+              "display_url": "pic.x.com/o2iE6ewJGl",
+              "end": 130,
+              "expanded_url": "https://x.com/guttenbirder22/status/2060079627574690008/photo/1",
+              "media_key": "3_2060079585639972864",
+              "start": 107,
+              "url": "https://t.co/o2iE6ewJGl"
+            },
+            {
+              "display_url": "x.com/birdmoder/stat…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/birdmoder/status/2060061843608232128",
+              "start": 131,
+              "url": "https://t.co/BcmFZD96WT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060079627574690008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 75893,
+          "like_count": 2699,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060061843608232128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Plus if you use the “compare” feature and line up the birds correctly, there is infinite comedy to be had. https://t.co/o2iE6ewJGl https://t.co/BcmFZD96WT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 125,
+          "like_count": 3268,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1687
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T03:27:37.000Z",
+        "description": "One part Gutten, two parts birder",
+        "id": "764302360097071104",
+        "name": "Andrew Guttenberg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1093309092951613440/poxdB3j6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 370,
+          "like_count": 23120,
+          "listed_count": 17,
+          "media_count": 1812,
+          "tweet_count": 6113
+        },
+        "username": "guttenbirder22",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1989297466274161080",
+    "created_at": "2025-11-14T11:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989297466274161080"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989297466274161080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起在b站刷到的一个医学生做的视频，在急诊室待过一段时间后，他主张人们在选择救别人的命前，先想清楚自己为什么要救，尤其对那些已知无法恢复意识/救不活/只能难受地延长一点生命的病人，需要想清楚自己是因为无法忍受对方在自己面前死去，还是真认为对方有救下来的可能/救下来后对方能生活得更好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989297466274161080",
+        "created_at": "2025-11-14T11:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989297466274161080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989297466274161080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起在b站刷到的一个医学生做的视频，在急诊室待过一段时间后，他主张人们在选择救别人的命前，先想清楚自己为什么要救，尤其对那些已知无法恢复意识/救不活/只能难受地延长一点生命的病人，需要想清楚自己是因为无法忍受对方在自己面前死去，还是真认为对方有救下来的可能/救下来后对方能生活得更好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 80,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 509
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

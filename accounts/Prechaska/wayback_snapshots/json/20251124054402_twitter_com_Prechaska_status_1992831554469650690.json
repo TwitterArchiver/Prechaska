@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1992831554469650690",
+    "created_at": "2025-11-24T05:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992831554469650690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/prechaska/stat…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/prechaska/status/1992336210233286845",
+          "start": 149,
+          "url": "https://t.co/rCGubMvY2I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992831554469650690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992336210233286845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尽管无人在意但还是提一下（。\n这位天使是从一幅天使报喜中抠出来的加百列，手指象征一切精神活性物质的胶囊，脚踏pr；右侧丢勒的祈祷之手实际象征着oder对od的崇奉，旁边还有个dpt😋；而那句福音的引用实际是对oder的诘问，我们是被诱惑的，或是被蒙骗的，还是自愿的，我们对一切又*知晓*到什么程度 https://t.co/rCGubMvY2I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992336198623481856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YzN4Aa0AAwM_f.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1992831554469650690",
+        "created_at": "2025-11-24T05:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992831554469650690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/prechaska/status/1992336210233286845",
+              "start": 149,
+              "url": "https://t.co/rCGubMvY2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992831554469650690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992336210233286845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽管无人在意但还是提一下（。\n这位天使是从一幅天使报喜中抠出来的加百列，手指象征一切精神活性物质的胶囊，脚踏pr；右侧丢勒的祈祷之手实际象征着oder对od的崇奉，旁边还有个dpt😋；而那句福音的引用实际是对oder的诘问，我们是被诱惑的，或是被蒙骗的，还是自愿的，我们对一切又*知晓*到什么程度 https://t.co/rCGubMvY2I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992336198623481856"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1992336210233286845",
+        "created_at": "2025-11-22T20:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992336210233286845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbXcDhMNop",
+              "end": 60,
+              "expanded_url": "https://x.com/Prechaska/status/1992336210233286845/photo/1",
+              "media_key": "3_1992336198623481856",
+              "start": 37,
+              "url": "https://t.co/CbXcDhMNop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992336210233286845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“如此，新神代替旧神，化学极乐凭其强大的篡改能力毋庸置疑地成为了新神。” https://t.co/CbXcDhMNop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 90,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 651
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

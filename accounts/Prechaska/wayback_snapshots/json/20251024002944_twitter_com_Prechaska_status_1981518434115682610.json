@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1981510554130010541",
+    "created_at": "2025-10-24T00:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T01:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981518434115682610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1135060772222951424",
+          "start": 0,
+          "username": "rb_merganser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981518434115682610",
+    "in_reply_to_user_id": "1135060772222951424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981510554130010541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rb_merganser Oh, little elf chasing the waves⊂⁠(⁠´⁠･⁠◡⁠･⁠⊂⁠ ⁠)⁠∘⁠˚⁠˳⁠°"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2600,
+        "media_key": "3_1981509591486627840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3-8eZeXAAA6Afb.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1981510554130010541",
+        "created_at": "2025-10-24T00:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T01:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981518434115682610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1135060772222951424",
+              "start": 0,
+              "username": "rb_merganser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981518434115682610",
+        "in_reply_to_user_id": "1135060772222951424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981510554130010541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rb_merganser Oh, little elf chasing the waves⊂⁠(⁠´⁠･⁠◡⁠･⁠⊂⁠ ⁠)⁠∘⁠˚⁠˳⁠°"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981509591486627840"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "1981510554130010541",
+        "created_at": "2025-10-23T23:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T00:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981510554130010541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TOz2EKp9AF",
+              "end": 144,
+              "expanded_url": "https://x.com/rb_merganser/status/1981510554130010541/photo/1",
+              "media_key": "3_1981509591486627840",
+              "start": 121,
+              "url": "https://t.co/TOz2EKp9AF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981510554130010541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "こんな感じで濁りのある海の波が寄せてくる画像は、今でもダメって方が結構みえると思います。大きなモニターで画像調整していて自分でも「う～ん💦」ってなることがあるもの。小さな鳥なので波が大きく見えている、荒ぶる海ではないということで、御容赦を。 https://t.co/TOz2EKp9AF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 71,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 372
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 689,
+          "like_count": 81479,
+          "listed_count": 72,
+          "media_count": 14747,
+          "tweet_count": 55271
+        },
+        "username": "rb_merganser",
+        "verified": true
+      }
+    ]
+  }
+}

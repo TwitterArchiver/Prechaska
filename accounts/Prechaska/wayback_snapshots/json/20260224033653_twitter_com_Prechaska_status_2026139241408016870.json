@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2026139241408016870",
+    "created_at": "2026-02-24T03:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026139241408016870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/prechaska/stat…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/prechaska/status/2026129659575058904",
+          "start": 154,
+          "url": "https://t.co/L6IY51IE4E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026139241408016870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026129659575058904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以似乎可以这样理解：MOR作为GPCR被阿片激活后，产生了构象的变化，于是内部能结合G蛋白的位置露了出来，然后和能与其结合的G蛋白结合，激动它，通过用GTP取代GDP，G蛋白原本的三聚体被打破进入活动态开始发挥抑制/兴奋的效果，而通常MOR会招募抑制性的Gi/o，使得cAMP浓度下降，产生镇痛的抑制效果 https://t.co/L6IY51IE4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2026129637966061568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5CK7vboAA8LsT.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2026139241408016870",
+        "created_at": "2026-02-24T03:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026139241408016870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/prechaska/status/2026129659575058904",
+              "start": 154,
+              "url": "https://t.co/L6IY51IE4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026139241408016870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026129659575058904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以似乎可以这样理解：MOR作为GPCR被阿片激活后，产生了构象的变化，于是内部能结合G蛋白的位置露了出来，然后和能与其结合的G蛋白结合，激动它，通过用GTP取代GDP，G蛋白原本的三聚体被打破进入活动态开始发挥抑制/兴奋的效果，而通常MOR会招募抑制性的Gi/o，使得cAMP浓度下降，产生镇痛的抑制效果 https://t.co/L6IY51IE4E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026129637966061568"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2026129659575058904",
+        "created_at": "2026-02-24T02:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026129659575058904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdA8xbBGFe",
+              "end": 164,
+              "expanded_url": "https://x.com/Prechaska/status/2026129659575058904/photo/1",
+              "media_key": "3_2026129637966061568",
+              "start": 141,
+              "url": "https://t.co/qdA8xbBGFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026129659575058904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个真的好性感……仅仅是一个磷酸基团的变化，就能造成如此庞大而必然的连锁反应，仅仅是这样微小的变化，这样一个开关被按了下去，事情就发生了，此后的所有改变都遵循着这绝对的规则，恰到好处，没有丝毫冗余，像骨牌一个推动着另一个，一个刚好能嵌入另一个之中，完完全全的必然性，精确而绝对的美 https://t.co/qdA8xbBGFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 119,
+          "like_count": 2309,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1417
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

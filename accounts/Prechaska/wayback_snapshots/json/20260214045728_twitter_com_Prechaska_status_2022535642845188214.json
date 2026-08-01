@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022353717404798981"
+      ],
+      "media_source_tweet_id": [
+        "2022353723209716215"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2022535642845188214",
+    "created_at": "2026-02-14T04:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022535642845188214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1374721093634830336",
+          "start": 3,
+          "username": "NycPlover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7tqX0SVYxg",
+          "end": 43,
+          "expanded_url": "https://x.com/NycPlover/status/2022353723209716215/photo/1",
+          "media_key": "3_2022353717404798981",
+          "start": 20,
+          "url": "https://t.co/7tqX0SVYxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022535642845188214",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022353723209716215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NycPlover: ❤️‍🔥 https://t.co/7tqX0SVYxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2022353717404798981",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDX_bgakAUxU5Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022353717404798981"
+          ],
+          "media_source_tweet_id": [
+            "2022353723209716215"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2022535642845188214",
+        "created_at": "2026-02-14T04:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022535642845188214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1374721093634830336",
+              "start": 3,
+              "username": "NycPlover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tqX0SVYxg",
+              "end": 43,
+              "expanded_url": "https://x.com/NycPlover/status/2022353723209716215/photo/1",
+              "media_key": "3_2022353717404798981",
+              "start": 20,
+              "url": "https://t.co/7tqX0SVYxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022535642845188214",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022353723209716215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NycPlover: ❤️‍🔥 https://t.co/7tqX0SVYxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022353717404798981"
+          ]
+        },
+        "author_id": "1374721093634830336",
+        "conversation_id": "2022353723209716215",
+        "created_at": "2026-02-13T16:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022353723209716215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tqX0SVYxg",
+              "end": 28,
+              "expanded_url": "https://x.com/NycPlover/status/2022353723209716215/photo/1",
+              "media_key": "3_2022353717404798981",
+              "start": 5,
+              "url": "https://t.co/7tqX0SVYxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022353723209716215",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 20079,
+          "like_count": 1302,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "❤️‍🔥 https://t.co/7tqX0SVYxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 118,
+          "like_count": 2180,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1377
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T13:53:54.000Z",
+        "description": "New Yorkers working to fiercely protect endangered Piping Plovers & other shorebirds nesting on our city’s beaches • Join us to #protecttheplovers •",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 128,
+                "tag": "protecttheplovers"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nycploverproje…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nycploverproject",
+                "start": 0,
+                "url": "https://t.co/3vFfJrFNMO"
+              }
+            ]
+          }
+        },
+        "id": "1374721093634830336",
+        "location": "Queens, NY",
+        "name": "NYC Plover Project",
+        "pinned_tweet_id": "1374806053557272579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379461694834020353/X_uWIoQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3711,
+          "following_count": 233,
+          "like_count": 7197,
+          "listed_count": 38,
+          "media_count": 1324,
+          "tweet_count": 4339
+        },
+        "url": "https://t.co/3vFfJrFNMO",
+        "username": "NycPlover",
+        "verified": false
+      }
+    ]
+  }
+}

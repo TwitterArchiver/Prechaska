@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2081708279835857074",
+    "created_at": "2026-07-28T09:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082033102831202610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929782343889248257",
+          "start": 0,
+          "username": "ZhanSJRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082033102831202610",
+    "in_reply_to_user_id": "1929782343889248257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082022654744105270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhanSJRT 嗯，只是当遇到自己也感兴趣却在认知方式上与自己大相径庭的人时，会惊觉世界有如此多种可能性，就像发现了丢失的另一块拼图，获得了另一双眼睛的视角，让世界以两副模样展现在面前。而我们经验与思考的方式如此不同，几乎像在用两种语言沟通，如此试着理解对方、扩展自己认识的边界实在是诱人啊;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2081708279835857074",
+        "created_at": "2026-07-28T09:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082033102831202610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929782343889248257",
+              "start": 0,
+              "username": "ZhanSJRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082033102831202610",
+        "in_reply_to_user_id": "1929782343889248257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082022654744105270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhanSJRT 嗯，只是当遇到自己也感兴趣却在认知方式上与自己大相径庭的人时，会惊觉世界有如此多种可能性，就像发现了丢失的另一块拼图，获得了另一双眼睛的视角，让世界以两副模样展现在面前。而我们经验与思考的方式如此不同，几乎像在用两种语言沟通，如此试着理解对方、扩展自己认识的边界实在是诱人啊;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929782343889248257",
+        "conversation_id": "2081708279835857074",
+        "created_at": "2026-07-28T08:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082022654744105270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082022654744105270",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081712145629372811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 有些差异是有趣的 有些差异是主观上不可接受的，有个说法叫听而不闻，有些观点听就听了，不要让潜意识认知它就可以了。世界太大了，我们的生命形式也没有办法认知到每一种实体，所以还是 选择 向美，向明媚，这是我的一点主观思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 164,
+          "like_count": 4445,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1974
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T06:09:27.000Z",
+        "description": "我不会害人，因为那是在害我自己。这是我的信标，是我精神的支柱。 万物长靈，各得其所。",
+        "id": "1929782343889248257",
+        "location": "ego death",
+        "name": "amensa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989307794369970177/RtYFOw7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 188,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "ZhanSJRT",
+        "verified": true
+      }
+    ]
+  }
+}

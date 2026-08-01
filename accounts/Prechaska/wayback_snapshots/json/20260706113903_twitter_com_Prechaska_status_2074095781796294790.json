@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2074095781796294790",
+    "created_at": "2026-07-06T11:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074095781796294790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973237730311081984",
+          "start": 3,
+          "username": "hitakibitaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074095781796294790",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073894785379901942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitakibitaki: おはようございます！\nサーマルスコープでエナガさんを発見したので、少し追いかけてみた動画です。\n結構わかりやすくないですか？\nサーマルスコープにハマって、今4台持ってますが、日本で買うなら断然NOCPIXがおすすめです。… https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11950,
+        "height": 960,
+        "media_key": "13_2073894731332067328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073894731332067328/img/wvysR86vwlmC9Dsi.jpg",
+        "public_metrics": {
+          "view_count": 4679
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073894731332067328/pl/ZntBtxUkqy6axYlj.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073894731332067328/vid/avc1/960x960/SU48_WCUg424DMQ1.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073894731332067328/vid/avc1/720x720/NHSuRmDQCwVjRL-h.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073894731332067328/vid/avc1/320x320/ocf2iWtg_uZCqcdP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073894731332067328/vid/avc1/540x540/Zao78ZtwdBiMmOk7.mp4"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2074095781796294790",
+        "created_at": "2026-07-06T11:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074095781796294790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973237730311081984",
+              "start": 3,
+              "username": "hitakibitaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074095781796294790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073894785379901942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitakibitaki: おはようございます！\nサーマルスコープでエナガさんを発見したので、少し追いかけてみた動画です。\n結構わかりやすくないですか？\nサーマルスコープにハマって、今4台持ってますが、日本で買うなら断然NOCPIXがおすすめです。… https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073894731332067328"
+          ]
+        },
+        "author_id": "1973237730311081984",
+        "conversation_id": "2073894785379901942",
+        "created_at": "2026-07-05T22:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073894785379901942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZmuISGVUGB",
+              "end": 134,
+              "expanded_url": "https://x.com/hitakibitaki/status/2073894785379901942/video/1",
+              "media_key": "13_2073894731332067328",
+              "start": 111,
+              "url": "https://t.co/ZmuISGVUGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073894785379901942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 228,
+                "start": 221,
+                "tag": "NOCPIX"
+              },
+              {
+                "end": 239,
+                "start": 229,
+                "tag": "VISTAH50R"
+              },
+              {
+                "end": 244,
+                "start": 240,
+                "tag": "エナガ"
+              }
+            ]
+          },
+          "text": "おはようございます！\nサーマルスコープでエナガさんを発見したので、少し追いかけてみた動画です。\n結構わかりやすくないですか？\nサーマルスコープにハマって、今4台持ってますが、日本で買うなら断然NOCPIXがおすすめです。\nHIKMICROも良いのですが、日本だと価格高すぎるし、画質もNOCPIXの方が良いです。\nサーマルは無駄に詳しいので、購入相談とかして頂いても大丈夫です🙆\nカメラやレンズと同じで、焦点距離とセンサーサイズが重要です。\n#NOCPIX\n#VISTAH50R\n#エナガ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 11745,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます！\nサーマルスコープでエナガさんを発見したので、少し追いかけてみた動画です。\n結構わかりやすくないですか？\nサーマルスコープにハマって、今4台持ってますが、日本で買うなら断然NOCPIXがおすすめです。 https://t.co/ZmuISGVUGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 152,
+          "like_count": 3702,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1779
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T04:05:26.000Z",
+        "description": "BIRDER 36歳 既婚\nジョウビタキが特に好きで一年中追ってます。📷🔭α1ii/α9iii/RX1Riii/ロクヨン/サンニッパ/NL PURE 10×42&8×32/ZEISS SF 8×42&10×32/PVS-14🚗AMG A45s/AMG SL43",
+        "id": "1973237730311081984",
+        "location": "Japan",
+        "name": "🕊️アイザック🐤",
+        "pinned_tweet_id": "2057370305350582647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034227150933663744/0UUbFfUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 146,
+          "like_count": 3246,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 1037
+        },
+        "url": "",
+        "username": "hitakibitaki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1996148690357231887",
+    "created_at": "2025-12-05T02:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996768750373318949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591328081003700224",
+          "start": 0,
+          "username": "kuitiyashva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996768750373318949",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996768698586333685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuitiyashva 只有化学依赖这一种，但我认为也存在着因化学外的其他原因而选择继续吸毒的人，而对于他们，或许他们想要回归正常，但正是社会的不愿接纳迫使他们只能继续吸毒，对这部分人员，社会选择接纳绝对是更有效的办法，但只要恐怖教育和对吸毒者的污名化不停止，这就不可能做到，而这些人也会只能重新复吸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-05T02:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996768750373318949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591328081003700224",
+              "start": 0,
+              "username": "kuitiyashva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996768750373318949",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996768698586333685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuitiyashva 只有化学依赖这一种，但我认为也存在着因化学外的其他原因而选择继续吸毒的人，而对于他们，或许他们想要回归正常，但正是社会的不愿接纳迫使他们只能继续吸毒，对这部分人员，社会选择接纳绝对是更有效的办法，但只要恐怖教育和对吸毒者的污名化不停止，这就不可能做到，而这些人也会只能重新复吸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-05T02:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996768698586333685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591328081003700224",
+              "start": 0,
+              "username": "kuitiyashva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996768698586333685",
+        "in_reply_to_user_id": "1591328081003700224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996739014980956203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuitiyashva 是的，这前提我也支持。\n此处“吸毒者”和“正常人”的区分，显然是为了强调“吸毒者如果愿意改过自新那社会应当帮助他们回归正常生活”，二者的立场不应割裂而互不相干，你的观点则是认为二者就应当割裂，也就是认为社会不应给予吸毒者悔改的机会。谈到复吸的问题，你似乎认为吸毒者继续使用毒品的原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 93,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 833
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T07:12:55.000Z",
+        "description": "",
+        "id": "1591328081003700224",
+        "location": "CNX",
+        "name": "AgueJuana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990330552776548352/Qroco-S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 288
+        },
+        "username": "kuitiyashva",
+        "verified": false
+      }
+    ]
+  }
+}

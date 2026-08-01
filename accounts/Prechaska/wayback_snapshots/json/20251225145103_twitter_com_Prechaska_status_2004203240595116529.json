@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2004126128462811202",
+    "created_at": "2025-12-25T14:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T15:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004203240595116529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1282316537462878208",
+          "start": 0,
+          "username": "QWhyorwhynot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004203240595116529",
+    "in_reply_to_user_id": "1282316537462878208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004199202226950574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWhyorwhynot 不，这尤其指这样一些情况：人们宁愿选择自己掌控自己，获得自己完全的主权，而不愿在一些本可能获得他人帮助的情况下放下这种“自控”。并且爱之所以难也在这里，总要先敞开自己才能够接近，而当敞开反而带来伤害后，想要再次做出这样的选择就需要更多的勇气了，而不向他人敞开就无法爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2004126128462811202",
+        "created_at": "2025-12-25T14:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004203240595116529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1282316537462878208",
+              "start": 0,
+              "username": "QWhyorwhynot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004203240595116529",
+        "in_reply_to_user_id": "1282316537462878208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004199202226950574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWhyorwhynot 不，这尤其指这样一些情况：人们宁愿选择自己掌控自己，获得自己完全的主权，而不愿在一些本可能获得他人帮助的情况下放下这种“自控”。并且爱之所以难也在这里，总要先敞开自己才能够接近，而当敞开反而带来伤害后，想要再次做出这样的选择就需要更多的勇气了，而不向他人敞开就无法爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282316537462878208",
+        "conversation_id": "2004126128462811202",
+        "created_at": "2025-12-25T14:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004199202226950574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004199202226950574",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004180192223429005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 那也得有人來愛我啊 根本沒有人愛我 我只能懲罰自己了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 93,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1044
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-12T14:11:08.000Z",
+        "description": "病み垢   中文🇨🇳 日本語🇯🇵",
+        "id": "1282316537462878208",
+        "name": "クイズ",
+        "pinned_tweet_id": "1298816541538975746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000724140987502592/Mb0D4S_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 24,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 100
+        },
+        "username": "QWhyorwhynot",
+        "verified": false
+      }
+    ]
+  }
+}

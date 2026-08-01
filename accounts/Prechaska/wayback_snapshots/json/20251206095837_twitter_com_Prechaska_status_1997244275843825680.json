@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1997237472909316512",
+    "created_at": "2025-12-06T09:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997244275843825680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1135060772222951424",
+          "start": 0,
+          "username": "rb_merganser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997244275843825680",
+    "in_reply_to_user_id": "1135060772222951424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997237472909316512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rb_merganser It’s so cute (⁠ ⁠≧⁠Д⁠≦⁠)! I won’t let anyone betray it😠！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_1997236433036386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eb9DuaIAAYeO0.jpg",
+        "width": 2050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1997237472909316512",
+        "created_at": "2025-12-06T09:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997244275843825680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1135060772222951424",
+              "start": 0,
+              "username": "rb_merganser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997244275843825680",
+        "in_reply_to_user_id": "1135060772222951424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997237472909316512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rb_merganser It’s so cute (⁠ ⁠≧⁠Д⁠≦⁠)! I won’t let anyone betray it😠！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997236433036386304"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "conversation_id": "1997237472909316512",
+        "created_at": "2025-12-06T09:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997237472909316512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7nI5Ck3yq",
+              "end": 164,
+              "expanded_url": "https://x.com/rb_merganser/status/1997237472909316512/photo/1",
+              "media_key": "3_1997236433036386304",
+              "start": 141,
+              "url": "https://t.co/C7nI5Ck3yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997237472909316512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "休憩中の小群から、ゆるい片足跳びで手前へ寄って来てくれる子。そーゆー鳥からの「許容」を得るのに年単位の時間をかけて、撮影時も怖がらせないようにン十分単位でじわじわ這いよっている、それを「撮ってるじゃん、行ったれーｗ」の卑しく雑な接近で簡単に邪魔されるわけです。以下四文字語の羅列。 https://t.co/C7nI5Ck3yq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 94,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 877
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 685,
+          "like_count": 82376,
+          "listed_count": 74,
+          "media_count": 15013,
+          "tweet_count": 56335
+        },
+        "username": "rb_merganser",
+        "verified": true
+      }
+    ]
+  }
+}

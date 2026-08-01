@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Chicago",
+          "id": "1012378946615181312",
+          "name": "Chicago"
+        }
+      }
+    ],
+    "conversation_id": "2067779404466663445",
+    "created_at": "2026-06-19T01:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067779404466663445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1402792488943984659",
+          "start": 3,
+          "username": "ChicagoPiping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067779404466663445",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067764207932604771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChicagoPiping: Is there room for me, Papa?\n\n📸: Chicago Piping Plovers (Imani brooding his chicks, Montrose Protected Beach, June 17, 20…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1245,
+        "media_key": "3_2067764203205562368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIslltWEAAUzA3.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2067779404466663445",
+        "created_at": "2026-06-19T01:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067779404466663445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1402792488943984659",
+              "start": 3,
+              "username": "ChicagoPiping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067779404466663445",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067764207932604771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChicagoPiping: Is there room for me, Papa?\n\n📸: Chicago Piping Plovers (Imani brooding his chicks, Montrose Protected Beach, June 17, 20…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067764203205562368"
+          ]
+        },
+        "author_id": "1402792488943984659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Chicago",
+              "id": "1012378946615181312",
+              "name": "Chicago"
+            }
+          }
+        ],
+        "conversation_id": "2067764207932604771",
+        "created_at": "2026-06-19T00:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067764207932604771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PpNs0UBZB",
+              "end": 147,
+              "expanded_url": "https://x.com/ChicagoPiping/status/2067764207932604771/photo/1",
+              "media_key": "3_2067764203205562368",
+              "start": 124,
+              "url": "https://t.co/4PpNs0UBZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067764207932604771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 424,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Is there room for me, Papa?\n\n📸: Chicago Piping Plovers (Imani brooding his chicks, Montrose Protected Beach, June 17, 2026) https://t.co/4PpNs0UBZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 129,
+          "like_count": 3431,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T01:03:54.000Z",
+        "description": "The offical account for Chicago Piping Plover (PIPL) news and content. Media inquiries email piperwatch@chicagobirder.org.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chicagopipingplovers.org",
+                "end": 23,
+                "expanded_url": "https://www.chicagopipingplovers.org",
+                "start": 0,
+                "url": "https://t.co/ak052q37uD"
+              }
+            ]
+          }
+        },
+        "id": "1402792488943984659",
+        "name": "Chicago Piping Plovers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402794805202128900/1iHOYp33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 200,
+          "like_count": 5493,
+          "listed_count": 28,
+          "media_count": 1070,
+          "tweet_count": 3921
+        },
+        "url": "https://t.co/ak052q37uD",
+        "username": "ChicagoPiping",
+        "verified": false
+      }
+    ]
+  }
+}

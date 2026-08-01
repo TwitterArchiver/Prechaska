@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Missouri",
+          "id": "1004449411504590848",
+          "name": "Missouri"
+        }
+      }
+    ],
+    "conversation_id": "2053477071901655385",
+    "created_at": "2026-05-10T14:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053477071901655385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bymortalhand/s…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/bymortalhand/status/2053471459423433060",
+          "start": 142,
+          "url": "https://t.co/3nsNxSqnH1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053477071901655385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053471459423433060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尽管这根本算不上我见过最震撼的教堂，但几乎是镜头转向穹顶的那刻就感到了一种强烈的想要跪下亲吻地面的狂喜，甚至远超刚才普瑞唤起的那种渴望。如此崇高，但又没有分毫“人凭理性胜过自然”的优越，不如说正因为它是压倒性的，远超人类如此之多的事物，如此庄严宏大…我现在只想走进去，跪下、痛哭流涕 https://t.co/3nsNxSqnH1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25543,
+        "height": 1280,
+        "media_key": "7_2053471253340585984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053471253340585984/pu/img/Vq038cap3XCiweaL.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053471253340585984/pu/vid/avc1/320x568/_fe4qCzKMyDwVw3K.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053471253340585984/pu/vid/avc1/480x852/bExrZG6sB8yBywzf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053471253340585984/pu/vid/avc1/720x1280/zkG8aFEviYwOMSWh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053471253340585984/pu/pl/mzAQqw1x-XgTk6DQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Missouri",
+              "id": "1004449411504590848",
+              "name": "Missouri"
+            }
+          }
+        ],
+        "conversation_id": "2053477071901655385",
+        "created_at": "2026-05-10T14:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053477071901655385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bymortalhand/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/bymortalhand/status/2053471459423433060",
+              "start": 142,
+              "url": "https://t.co/3nsNxSqnH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053477071901655385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053471459423433060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽管这根本算不上我见过最震撼的教堂，但几乎是镜头转向穹顶的那刻就感到了一种强烈的想要跪下亲吻地面的狂喜，甚至远超刚才普瑞唤起的那种渴望。如此崇高，但又没有分毫“人凭理性胜过自然”的优越，不如说正因为它是压倒性的，远超人类如此之多的事物，如此庄严宏大…我现在只想走进去，跪下、痛哭流涕 https://t.co/3nsNxSqnH1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053471253340585984"
+          ]
+        },
+        "author_id": "1348142053490831361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Missouri",
+              "id": "1004449411504590848",
+              "name": "Missouri"
+            }
+          }
+        ],
+        "conversation_id": "2053471459423433060",
+        "created_at": "2026-05-10T13:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053471459423433060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZHrX1IJSO",
+              "end": 260,
+              "expanded_url": "https://x.com/bymortalhand/status/2053471459423433060/video/1",
+              "media_key": "7_2053471253340585984",
+              "start": 237,
+              "url": "https://t.co/YZHrX1IJSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053471459423433060",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 189,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "The Cathedral Basilica of St. Louis in Missouri houses one of the largest mosaic installations in the Americas.\n\n41.5 million pieces of glass tesserae cover over 83,000 sqft, each meticulously placed by hand over the course of 76 years. https://t.co/YZHrX1IJSO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 124,
+          "like_count": 3102,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1642
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T05:38:20.000Z",
+        "description": "Poetry of architecture",
+        "id": "1348142053490831361",
+        "location": "Credit in comments ",
+        "name": "ʙʏ ᴍᴏʀᴛᴀʟ ʜᴀɴᴅ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967141838264913920/AvaDO8Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13347,
+          "following_count": 277,
+          "like_count": 19630,
+          "listed_count": 88,
+          "media_count": 1241,
+          "tweet_count": 2189
+        },
+        "username": "bymortalhand",
+        "verified": true
+      }
+    ]
+  }
+}

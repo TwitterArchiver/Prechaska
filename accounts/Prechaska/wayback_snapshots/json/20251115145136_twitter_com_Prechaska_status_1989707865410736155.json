@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989707858582347776"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1989707405077483538",
+    "created_at": "2025-11-15T14:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989707865410736155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U6bU30FatE",
+          "end": 28,
+          "expanded_url": "https://x.com/Prechaska/status/1989707865410736155/photo/1",
+          "media_key": "3_1989707858582347776",
+          "start": 5,
+          "url": "https://t.co/U6bU30FatE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989707865410736155",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989707405077483538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "专辑封面 https://t.co/U6bU30FatE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_1989707858582347776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zcwWWaoAAbVA-.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989707858582347776"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989707405077483538",
+        "created_at": "2025-11-15T14:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989707865410736155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U6bU30FatE",
+              "end": 28,
+              "expanded_url": "https://x.com/Prechaska/status/1989707865410736155/photo/1",
+              "media_key": "3_1989707858582347776",
+              "start": 5,
+              "url": "https://t.co/U6bU30FatE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989707865410736155",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989707405077483538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "专辑封面 https://t.co/U6bU30FatE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989707405077483538",
+        "created_at": "2025-11-15T14:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989707405077483538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《Harmageddon (Instrumental Version)》，由 Apocalyptica 演唱，收录于《Inquisition Symphony》专辑中",
+              "display_url": "music.163.com/song/16500723?…",
+              "end": 133,
+              "expanded_url": "http://music.163.com/song/16500723?userid=81480350",
+              "images": [
+                {
+                  "height": 792,
+                  "url": "https://pbs.twimg.com/news_img/1989707421477175297/C0lafrvN?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989707421477175297/C0lafrvN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "Harmageddon (Instrumental Version)",
+              "unwound_url": "https://music.163.com/song?id=16500723&userid=81480350",
+              "url": "https://t.co/DRsUvjQk8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989707405077483538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大提琴金属，非常之爽，弦乐就是该这么用，还有中提琴，请务必亲眼看看中提琴锯木头，那种姿态和音色有种不安焦虑的潜质\n分享Apocalyptica的单曲《Harmageddon (Instrumental Version)》https://t.co/DRsUvjQk8u (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 515
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

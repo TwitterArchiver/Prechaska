@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2046503582409912575",
+    "created_at": "2026-04-21T08:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046504702293233782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046504702293233782",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046503582409912575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "犹豫就会败北😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2046503579461275648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGakKaVa0AAg_NO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1619,
+        "media_key": "3_2046503577380864000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGakKSlaQAAmjA0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2046503582409912575",
+        "created_at": "2026-04-21T08:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046504702293233782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046504702293233782",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046503582409912575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "犹豫就会败北😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046503579461275648",
+            "3_2046503577380864000"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2046503582409912575",
+        "created_at": "2026-04-21T08:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046503582409912575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nknvkp1rB",
+              "end": 25,
+              "expanded_url": "https://x.com/Prechaska/status/2046503582409912575/photo/1",
+              "media_key": "3_2046503579461275648",
+              "start": 2,
+              "url": "https://t.co/2nknvkp1rB"
+            },
+            {
+              "display_url": "pic.x.com/2nknvkp1rB",
+              "end": 25,
+              "expanded_url": "https://x.com/Prechaska/status/2046503582409912575/photo/1",
+              "media_key": "3_2046503577380864000",
+              "start": 2,
+              "url": "https://t.co/2nknvkp1rB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046503582409912575",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙂 https://t.co/2nknvkp1rB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 122,
+          "like_count": 2663,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1494
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

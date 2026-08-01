@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1989704189816045757",
+    "created_at": "2025-11-15T14:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989709694194389078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989709694194389078",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989704189816045757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实可以说是因为自己太软弱，所以希望能够和更加有力的、确定无疑的东西结合在一起，那对确定性的要求啊。实际上就是选择放弃自己而融入海，选择那个自己更加强大的、显而易见绝对确定的东西。我的确是软弱到这种程度。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27066,
+        "height": 720,
+        "media_key": "13_1989704118928302080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989704118928302080/img/mqLmbmw0AdSCb_qC.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989704118928302080/vid/avc1/480x270/D2pjggudNftfBlJV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989704118928302080/vid/avc1/640x360/XiZlhcJf2q4twhIB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989704118928302080/vid/avc1/1280x720/1_FrNBGyLIsuexro.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989704118928302080/pl/XAZdogrVt7yKXQjJ.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1537,
+        "media_key": "3_1989704118928379905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zZWrDbkAE9pPn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1291,
+        "media_key": "3_1989704118915796994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zZWrAbkAIL8gS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989704189816045757",
+        "created_at": "2025-11-15T14:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989709694194389078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989709694194389078",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989704189816045757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实可以说是因为自己太软弱，所以希望能够和更加有力的、确定无疑的东西结合在一起，那对确定性的要求啊。实际上就是选择放弃自己而融入海，选择那个自己更加强大的、显而易见绝对确定的东西。我的确是软弱到这种程度。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989704118928302080",
+            "3_1989704118928379905",
+            "3_1989704118915796994"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989704189816045757",
+        "created_at": "2025-11-15T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989704189816045757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bot2ODtcAI",
+              "end": 147,
+              "expanded_url": "https://x.com/Prechaska/status/1989704189816045757/video/1",
+              "media_key": "13_1989704118928302080",
+              "start": 124,
+              "url": "https://t.co/Bot2ODtcAI"
+            },
+            {
+              "display_url": "pic.x.com/Bot2ODtcAI",
+              "end": 147,
+              "expanded_url": "https://x.com/Prechaska/status/1989704189816045757/video/1",
+              "media_key": "3_1989704118928379905",
+              "start": 124,
+              "url": "https://t.co/Bot2ODtcAI"
+            },
+            {
+              "display_url": "pic.x.com/Bot2ODtcAI",
+              "end": 147,
+              "expanded_url": "https://x.com/Prechaska/status/1989704189816045757/video/1",
+              "media_key": "3_1989704118915796994",
+              "start": 124,
+              "url": "https://t.co/Bot2ODtcAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989704189816045757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美好的夜晚，剧场、海和普瑞巴林\n隔着很远就能听到海浪的声音，轰鸣，甚至盖过了这天气下狂风和降噪耳机音乐的声音，漆黑地只在边缘画出一道白色的长线，是这样极其庞大的存在。就是这样的海，宏大、恐怖、令人敬畏又美丽，仅仅是看到就很难控制住想要走进去的欲望 https://t.co/Bot2ODtcAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 515
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

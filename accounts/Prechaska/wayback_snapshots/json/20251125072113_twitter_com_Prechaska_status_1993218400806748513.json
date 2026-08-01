@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1993217766292398101",
+    "created_at": "2025-11-25T07:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993218400806748513"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993218400806748513",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993217766292398101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回溯到已经记不清有多少个宇宙这样诞生又消失。只是这个“宇宙”是从所有体验到的主观角度来说的宇宙，不如说是每一分每一秒，真的是每一个连续的最微小的时刻都在感受着，人的确承受不了这种程度的信息量，感谢天主，不然人真的会疯掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1993217766292398101",
+        "created_at": "2025-11-25T07:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993218400806748513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993218400806748513",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993217766292398101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回溯到已经记不清有多少个宇宙这样诞生又消失。只是这个“宇宙”是从所有体验到的主观角度来说的宇宙，不如说是每一分每一秒，真的是每一个连续的最微小的时刻都在感受着，人的确承受不了这种程度的信息量，感谢天主，不然人真的会疯掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1993217766292398101",
+        "created_at": "2025-11-25T07:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993217766292398101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993217766292398101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的完全折服于dpt，是它完完全全地支配了我，完完全全的恐怖……与宏大？那种整个世界在不同尺度上轮回反复的过程实在是太……决定论了，想来应该是自己对时间感知的尺度在反复变化，当下这刻的自己不过是在自己的感觉上最为细小的部分而已（微积分？），无论向下还是向上都还可以无限回溯，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 91,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 726
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

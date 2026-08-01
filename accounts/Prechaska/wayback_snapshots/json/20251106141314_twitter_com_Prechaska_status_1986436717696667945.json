@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1986432142872912336",
+    "created_at": "2025-11-06T14:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986436717696667945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986436717696667945",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986432142872912336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了反制药效外没啥滥用价值，玩点好的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1433,
+        "media_key": "3_1986432133154603008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E5gCMaAAAJS8D.jpg",
+        "width": 1610
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986432133720899585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E5gETbAAEyxzm.jpg",
+        "width": 569
+      },
+      {
+        "height": 799,
+        "media_key": "3_1986432133175648257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E5gCRbIAEhUdU.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1986432142872912336",
+        "created_at": "2025-11-06T14:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986436717696667945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986436717696667945",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986432142872912336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了反制药效外没啥滥用价值，玩点好的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986432133154603008",
+            "3_1986432133720899585",
+            "3_1986432133175648257"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1986432142872912336",
+        "created_at": "2025-11-06T13:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986432142872912336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2yYu62kZGe",
+              "end": 165,
+              "expanded_url": "https://x.com/Prechaska/status/1986432142872912336/photo/1",
+              "media_key": "3_1986432133154603008",
+              "start": 142,
+              "url": "https://t.co/2yYu62kZGe"
+            },
+            {
+              "display_url": "pic.x.com/2yYu62kZGe",
+              "end": 165,
+              "expanded_url": "https://x.com/Prechaska/status/1986432142872912336/photo/1",
+              "media_key": "3_1986432133720899585",
+              "start": 142,
+              "url": "https://t.co/2yYu62kZGe"
+            },
+            {
+              "display_url": "pic.x.com/2yYu62kZGe",
+              "end": 165,
+              "expanded_url": "https://x.com/Prechaska/status/1986432142872912336/photo/1",
+              "media_key": "3_1986432133175648257",
+              "start": 142,
+              "url": "https://t.co/2yYu62kZGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986432142872912336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平的滥用潜力\n\n作为镇静剂、提高睡眠质量；在联用中增强低剂量可卡因的药效（其他联用效果未知\n有案例表明人们通过滥用喹硫平以获得镇静的效果；还有一起试图混合喹硫平和可卡因以增强后者药效的案例，在一个对恒河猴进行的实验中，结果证明了与低剂量的可卡因联用时，喹硫平的确能够增强其药效。 https://t.co/2yYu62kZGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 78,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 445
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

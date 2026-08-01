@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1986968838169370717",
+    "created_at": "2025-11-09T06:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987411683929956626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1394987817843847170",
+          "start": 0,
+          "username": "hiroyohl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987411683929956626",
+    "in_reply_to_user_id": "1394987817843847170",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986968838169370717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiroyohl Thank you for burying him. Good night, little bird😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1986968801712480259",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MhmQXbIAMYDpX.jpg",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "media_key": "3_1986968809576730624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MhmtqaEAAh3dc.jpg",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "media_key": "3_1986968819726954496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MhnTeaMAAdhs3.jpg",
+        "width": 1512
+      },
+      {
+        "height": 2016,
+        "media_key": "3_1986968827062816768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MhnuzakAAATHw.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1986968838169370717",
+        "created_at": "2025-11-09T06:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987411683929956626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1394987817843847170",
+              "start": 0,
+              "username": "hiroyohl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987411683929956626",
+        "in_reply_to_user_id": "1394987817843847170",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986968838169370717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiroyohl Thank you for burying him. Good night, little bird😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986968801712480259",
+            "3_1986968809576730624",
+            "3_1986968819726954496",
+            "3_1986968827062816768"
+          ]
+        },
+        "author_id": "1394987817843847170",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1986968838169370717",
+        "created_at": "2025-11-08T01:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986968838169370717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiAVTQsuPo",
+              "end": 118,
+              "expanded_url": "https://x.com/hiroyohl/status/1986968838169370717/photo/1",
+              "media_key": "3_1986968801712480259",
+              "start": 95,
+              "url": "https://t.co/jiAVTQsuPo"
+            },
+            {
+              "display_url": "pic.x.com/jiAVTQsuPo",
+              "end": 118,
+              "expanded_url": "https://x.com/hiroyohl/status/1986968838169370717/photo/1",
+              "media_key": "3_1986968809576730624",
+              "start": 95,
+              "url": "https://t.co/jiAVTQsuPo"
+            },
+            {
+              "display_url": "pic.x.com/jiAVTQsuPo",
+              "end": 118,
+              "expanded_url": "https://x.com/hiroyohl/status/1986968838169370717/photo/1",
+              "media_key": "3_1986968819726954496",
+              "start": 95,
+              "url": "https://t.co/jiAVTQsuPo"
+            },
+            {
+              "display_url": "pic.x.com/jiAVTQsuPo",
+              "end": 118,
+              "expanded_url": "https://x.com/hiroyohl/status/1986968838169370717/photo/1",
+              "media_key": "3_1986968827062816768",
+              "start": 95,
+              "url": "https://t.co/jiAVTQsuPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986968838169370717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 28475,
+          "like_count": 206,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "訃報です。\n今朝、我家の玄関フードの外に…\nウソさんの雄が…\nフードに激突して即死だったのでしょう。残念です😔　自宅で…と思うと、切な過ぎます。庭木の根元に埋葬しました。どうか安らかに…🙏 https://t.co/jiAVTQsuPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 78,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 463
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T12:07:45.000Z",
+        "description": "マイペースで野鳥撮影を楽しむオッサンです。野鳥をメインにしていますが、気に入ったものは何でもシャッターを押したくなります。撮ったばかりのものから蔵出しまで、いろいろ投稿します。　\n愛機はD500と500ｍｍf5.6PFなど。 よろしくお願いします。\n写真の無断使用は厳禁です。報告、ブロック、訴えます。",
+        "id": "1394987817843847170",
+        "location": "日本 北海道",
+        "name": "Hiroyoshi abe",
+        "pinned_tweet_id": "1896168931125330176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741445800734134272/ohX4kiCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 706,
+          "like_count": 103100,
+          "listed_count": 20,
+          "media_count": 119,
+          "tweet_count": 34124
+        },
+        "username": "hiroyohl",
+        "verified": false
+      }
+    ]
+  }
+}

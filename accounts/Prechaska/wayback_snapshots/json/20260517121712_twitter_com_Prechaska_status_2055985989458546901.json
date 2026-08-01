@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2055985989458546901",
+    "created_at": "2026-05-17T12:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055985989458546901"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055985989458546901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听神父讲道说到“哪怕看不到未来”也要在不确定性中祈祷时，在想这坚信就是勇气的来源，如果有这样的坚信或许我也能更勇敢些，然后突然意识到“信仰的飞跃”是什么了。坚信本身没有任何超越的，是人们无论如何*选择*去相信造就了一切，就是这不依靠任何依据、哪怕没有任何依据也选择相信造就了信仰本身，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2055985989458546901",
+        "created_at": "2026-05-17T12:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055985989458546901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055985989458546901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听神父讲道说到“哪怕看不到未来”也要在不确定性中祈祷时，在想这坚信就是勇气的来源，如果有这样的坚信或许我也能更勇敢些，然后突然意识到“信仰的飞跃”是什么了。坚信本身没有任何超越的，是人们无论如何*选择*去相信造就了一切，就是这不依靠任何依据、哪怕没有任何依据也选择相信造就了信仰本身，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 126,
+          "like_count": 3181,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1673
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

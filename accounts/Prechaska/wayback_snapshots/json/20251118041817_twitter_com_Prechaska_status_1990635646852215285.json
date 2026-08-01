@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1990635646852215285",
+    "created_at": "2025-11-18T04:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T05:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990635646852215285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lizaadamczewsk…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/lizaadamczewski/status/1990348411028095337",
+          "start": 30,
+          "url": "https://t.co/QWRElBmQYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990635646852215285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990348411028095337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还以为在讲什么长尾缝叶莺学会人类书写的什么黑猫穆尔……故事 https://t.co/QWRElBmQYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_1990348399644667904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58jUvwWcAA342-.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1990635646852215285",
+        "created_at": "2025-11-18T04:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990635646852215285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lizaadamczewsk…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/lizaadamczewski/status/1990348411028095337",
+              "start": 30,
+              "url": "https://t.co/QWRElBmQYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990635646852215285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990348411028095337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还以为在讲什么长尾缝叶莺学会人类书写的什么黑猫穆尔……故事 https://t.co/QWRElBmQYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990348399644667904"
+          ]
+        },
+        "author_id": "113463672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "1990348411028095337",
+        "created_at": "2025-11-17T09:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990348411028095337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCLHZtadbs",
+              "end": 117,
+              "expanded_url": "https://x.com/lizaadamczewski/status/1990348411028095337/photo/1",
+              "media_key": "3_1990348399644667904",
+              "start": 94,
+              "url": "https://t.co/DCLHZtadbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990348411028095337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 21782,
+          "like_count": 1588,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "Putting brushes and such down because the sun is out so off to the beach for a good long walk https://t.co/DCLHZtadbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 83,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 532
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-11T21:08:42.000Z",
+        "description": "Artist inspired by 58 acres of rewilding. #1000postcards project depicting its biodiversity….website https://t.co/Edz1rGYb4d",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 42,
+                "tag": "1000postcards"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "LizaAdamczewski.Art",
+                "end": 124,
+                "expanded_url": "http://LizaAdamczewski.Art",
+                "start": 101,
+                "url": "https://t.co/Edz1rGYb4d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lizaadamczewski.art",
+                "end": 23,
+                "expanded_url": "http://lizaadamczewski.art",
+                "start": 0,
+                "url": "https://t.co/1NZ4uLlmLn"
+              }
+            ]
+          }
+        },
+        "id": "113463672",
+        "location": "Wales ",
+        "name": "Liza Adamczewski or the accidental ecologist",
+        "pinned_tweet_id": "1983135530041700759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967802445246906368/SNn2UNQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17345,
+          "following_count": 3793,
+          "like_count": 55241,
+          "listed_count": 137,
+          "media_count": 8716,
+          "tweet_count": 22339
+        },
+        "url": "https://t.co/1NZ4uLlmLn",
+        "username": "lizaadamczewski",
+        "verified": false
+      }
+    ]
+  }
+}

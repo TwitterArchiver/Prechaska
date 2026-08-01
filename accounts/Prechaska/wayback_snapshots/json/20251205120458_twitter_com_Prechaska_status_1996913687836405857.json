@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996913680353792000"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1996885692740411660",
+    "created_at": "2025-12-05T12:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996913687836405857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UURxr0J7Xn",
+          "end": 121,
+          "expanded_url": "https://x.com/Prechaska/status/1996913687836405857/photo/1",
+          "media_key": "3_1996913680353792000",
+          "start": 98,
+          "url": "https://t.co/UURxr0J7Xn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996913687836405857",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996905217431064849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么，进行静脉注射时，请首先选择手臂的上肢浅静脉，这是所有部位中相对来说比较安全的。这其中的首选是肘正中静脉，其次头静脉，最后是贵要静脉。它们位置较浅，相对粗，远离重要神经，感染时也更容易发现。 https://t.co/UURxr0J7Xn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_1996913680353792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Z2aYSbEAAL7fU.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996913680353792000"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996885692740411660",
+        "created_at": "2025-12-05T12:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996913687836405857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UURxr0J7Xn",
+              "end": 121,
+              "expanded_url": "https://x.com/Prechaska/status/1996913687836405857/photo/1",
+              "media_key": "3_1996913680353792000",
+              "start": 98,
+              "url": "https://t.co/UURxr0J7Xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996913687836405857",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996905217431064849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么，进行静脉注射时，请首先选择手臂的上肢浅静脉，这是所有部位中相对来说比较安全的。这其中的首选是肘正中静脉，其次头静脉，最后是贵要静脉。它们位置较浅，相对粗，远离重要神经，感染时也更容易发现。 https://t.co/UURxr0J7Xn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996885692740411660",
+        "created_at": "2025-12-05T11:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996905217431064849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996905217431064849",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996891477113544705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又试了两次，一次是对侧胳膊的相同位置，一次是臂弯处。似乎是这样：血管其实没有在很深的地方；当针扎进血管后最好让它的角度平一些，和血管的方向平行，甚至可以往上挑一下。第二次就是扎得太深了，回抽时没有血，第三次则十分顺利。也的确选择粗一些的血管更好，更能在注射时感受到“我扎进血管了”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 94,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 849
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

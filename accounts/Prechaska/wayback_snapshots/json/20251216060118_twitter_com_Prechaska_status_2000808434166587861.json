@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2000773935357682067",
+    "created_at": "2025-12-16T06:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T07:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000808434166587861"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000808434166587861",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000802590616100953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦，当我想要在抽象上理解0-&gt;1的过程时，却是借助了图像，而一旦我理解了一个图像，也必然意味着其中已经经过了抽象的编码，那么甚至“图像”和“抽象”两个东西都不是截然分开的。不如说是dpt激起的这些思考好玩捏，缓解抑郁来自于焦虑问题的转移，以及在这0与1的问题间自己简直是无关紧要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2000773935357682067",
+        "created_at": "2025-12-16T06:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000808434166587861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000808434166587861",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000802590616100953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦，当我想要在抽象上理解0-&gt;1的过程时，却是借助了图像，而一旦我理解了一个图像，也必然意味着其中已经经过了抽象的编码，那么甚至“图像”和“抽象”两个东西都不是截然分开的。不如说是dpt激起的这些思考好玩捏，缓解抑郁来自于焦虑问题的转移，以及在这0与1的问题间自己简直是无关紧要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2000773935357682067",
+        "created_at": "2025-12-16T05:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000802590616100953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000802590616100953",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000800391110516987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至说“本质”这个东西也是基于0与1的区分，或许根本不存在什么能够完全区分开的东西，一个不断放大的点是这样，概念也是这样，正如…？总之是上面，卧槽dpt谜语人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 91,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 985
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

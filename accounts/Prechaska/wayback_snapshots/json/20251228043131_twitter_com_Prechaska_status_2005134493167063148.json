@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005132631349043200"
+      ],
+      "media_source_tweet_id": [
+        "2005132820633854238"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2005134493167063148",
+    "created_at": "2025-12-28T04:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T05:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005134493167063148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135060772222951424",
+          "start": 3,
+          "username": "rb_merganser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MoJY7aV8Y",
+          "end": 43,
+          "expanded_url": "https://x.com/rb_merganser/status/2005132820633854238/video/1",
+          "media_key": "13_2005132631349043200",
+          "start": 20,
+          "url": "https://t.co/3MoJY7aV8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005134493167063148",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005132820633854238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rb_merganser: 🐥 https://t.co/3MoJY7aV8Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41933,
+        "height": 1080,
+        "media_key": "13_2005132631349043200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005132631349043200/img/3YRsmcCiH0nk6sDu.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005132631349043200/vid/avc1/1280x720/oVnJG9IreHRyoiab.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005132631349043200/vid/avc1/640x360/1SNtIditGuy-YaOL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005132631349043200/pl/YIOLC2SqlfSCULC1.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005132631349043200/vid/avc1/480x270/X6vQem_6tBM8ydoe.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005132631349043200/vid/avc1/1920x1080/e7eOcFH9FLEDu06w.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005132631349043200"
+          ],
+          "media_source_tweet_id": [
+            "2005132820633854238"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2005134493167063148",
+        "created_at": "2025-12-28T04:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005134493167063148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135060772222951424",
+              "start": 3,
+              "username": "rb_merganser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MoJY7aV8Y",
+              "end": 43,
+              "expanded_url": "https://x.com/rb_merganser/status/2005132820633854238/video/1",
+              "media_key": "13_2005132631349043200",
+              "start": 20,
+              "url": "https://t.co/3MoJY7aV8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005134493167063148",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005132820633854238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rb_merganser: 🐥 https://t.co/3MoJY7aV8Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005132631349043200"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "conversation_id": "2005132820633854238",
+        "created_at": "2025-12-28T04:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005132820633854238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MoJY7aV8Y",
+              "end": 25,
+              "expanded_url": "https://x.com/rb_merganser/status/2005132820633854238/video/1",
+              "media_key": "13_2005132631349043200",
+              "start": 2,
+              "url": "https://t.co/3MoJY7aV8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005132820633854238",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🐥 https://t.co/3MoJY7aV8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 95,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1054
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 685,
+          "like_count": 82749,
+          "listed_count": 79,
+          "media_count": 15136,
+          "tweet_count": 56791
+        },
+        "username": "rb_merganser",
+        "verified": true
+      }
+    ]
+  }
+}

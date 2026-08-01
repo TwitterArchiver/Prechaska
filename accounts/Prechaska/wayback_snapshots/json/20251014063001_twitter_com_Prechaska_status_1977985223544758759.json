@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1977880851359862793",
+    "created_at": "2025-10-14T06:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T07:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977985223544758759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1135060772222951424",
+          "start": 0,
+          "username": "rb_merganser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977985223544758759",
+    "in_reply_to_user_id": "1135060772222951424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977880851359862793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rb_merganser 哈哈哈还沾了一腿泥！小鸻萌萌😚😚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1977880749002149888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3LYD9xbUAAx5ok.jpg",
+        "width": 2063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1977880851359862793",
+        "created_at": "2025-10-14T06:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T07:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977985223544758759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1135060772222951424",
+              "start": 0,
+              "username": "rb_merganser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977985223544758759",
+        "in_reply_to_user_id": "1135060772222951424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977880851359862793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rb_merganser 哈哈哈还沾了一腿泥！小鸻萌萌😚😚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977880749002149888"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "conversation_id": "1977880851359862793",
+        "created_at": "2025-10-13T23:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T00:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977880851359862793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhj3RxNGm6",
+              "end": 30,
+              "expanded_url": "https://x.com/rb_merganser/status/1977880851359862793/photo/1",
+              "media_key": "3_1977880749002149888",
+              "start": 7,
+              "url": "https://t.co/yhj3RxNGm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977880851359862793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1067,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "「きゅ？🐥」 https://t.co/yhj3RxNGm6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 279
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 690,
+          "like_count": 81327,
+          "listed_count": 72,
+          "media_count": 14720,
+          "tweet_count": 55117
+        },
+        "username": "rb_merganser",
+        "verified": true
+      }
+    ]
+  }
+}

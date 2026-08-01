@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2006381608522445059",
+    "created_at": "2026-01-08T11:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009219770173018375"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009219770173018375",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006381608522445059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【】DPT推荐的使用方式是口服或鼻吸，以上报告中使用的IV/IM（静脉/肌肉注射）属于高风险给药途径，存在低至感染高至死亡的风险，也有易用药过量强度过大的危险，还请不要随意模仿😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1458,
+        "media_key": "3_2006381597176848385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gZbq-bYAEqduG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2006381608522445059",
+        "created_at": "2026-01-08T11:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009219770173018375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009219770173018375",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006381608522445059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【】DPT推荐的使用方式是口服或鼻吸，以上报告中使用的IV/IM（静脉/肌肉注射）属于高风险给药途径，存在低至感染高至死亡的风险，也有易用药过量强度过大的危险，还请不要随意模仿😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006381597176848385"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2006381608522445059",
+        "created_at": "2025-12-31T15:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006381608522445059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 57,
+              "expanded_url": "https://x.com/prechaska/status/1993570792647590274?s=61&t=fDMgm1beCaZNNfxkLpBXRw",
+              "start": 34,
+              "url": "https://t.co/0sfHXoJecW"
+            },
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 93,
+              "expanded_url": "https://x.com/prechaska/status/1993217766292398101?s=61&t=fDMgm1beCaZNNfxkLpBXRw",
+              "start": 70,
+              "url": "https://t.co/sbGtlh4Mrp"
+            },
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 128,
+              "expanded_url": "https://x.com/prechaska/status/1997316804948213822?s=61&t=fDMgm1beCaZNNfxkLpBXRw",
+              "start": 105,
+              "url": "https://t.co/OvZwyJT0Oj"
+            },
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 166,
+              "expanded_url": "https://x.com/prechaska/status/2000773935357682067?s=61&t=fDMgm1beCaZNNfxkLpBXRw",
+              "start": 143,
+              "url": "https://t.co/8TlxjQ7QYU"
+            },
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 208,
+              "expanded_url": "https://x.com/prechaska/status/1998011543901069759?s=61&t=fDMgm1beCaZNNfxkLpBXRw",
+              "start": 185,
+              "url": "https://t.co/ZW65aRbJp2"
+            },
+            {
+              "display_url": "pic.x.com/Jp5AgoQVHo",
+              "end": 232,
+              "expanded_url": "https://x.com/Prechaska/status/2006381608522445059/photo/1",
+              "media_key": "3_2006381597176848385",
+              "start": 209,
+              "url": "https://t.co/Jp5AgoQVHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006381608522445059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2314,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998011543901069759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如此，我这一年啊。\n\n整理一下：\n【DPT报告】\n第一次，恐怖循环\nhttps://t.co/0sfHXoJecW\n最初的trip后的震撼\nhttps://t.co/sbGtlh4Mrp\n第二次，音乐欣赏加强\nhttps://t.co/OvZwyJT0Oj\n最近一次使用dpt的直播楼\nhttps://t.co/8TlxjQ7QYU\n另一次dpt trip中的一点感悟\nhttps://t.co/ZW65aRbJp2 https://t.co/Jp5AgoQVHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 97,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1150
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

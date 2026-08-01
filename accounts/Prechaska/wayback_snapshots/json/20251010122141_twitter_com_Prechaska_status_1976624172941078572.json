@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1976593043852857659",
+    "created_at": "2025-10-10T12:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976624172941078572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1352818648826560512",
+          "start": 0,
+          "username": "emuBitaki321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976624172941078572",
+    "in_reply_to_user_id": "1352818648826560512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976593043852857659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emuBitaki321 好漂亮的戴菊(⁠☆⁠▽⁠☆⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1781,
+        "media_key": "3_1976593035795542016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25E5MQasAAjmOw.jpg",
+        "width": 1187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1976593043852857659",
+        "created_at": "2025-10-10T12:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976624172941078572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1352818648826560512",
+              "start": 0,
+              "username": "emuBitaki321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976624172941078572",
+        "in_reply_to_user_id": "1352818648826560512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976593043852857659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emuBitaki321 好漂亮的戴菊(⁠☆⁠▽⁠☆⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976593035795542016"
+          ]
+        },
+        "author_id": "1352818648826560512",
+        "conversation_id": "1976593043852857659",
+        "created_at": "2025-10-10T10:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976593043852857659"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "日本最小の野鳥"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "キクイタダキ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCnAXZ9wsA",
+              "end": 99,
+              "expanded_url": "https://x.com/emuBitaki321/status/1976593043852857659/photo/1",
+              "media_key": "3_1976593035795542016",
+              "start": 76,
+              "url": "https://t.co/SCnAXZ9wsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976593043852857659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1146,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "ペタッと水に浸ったあんよがかわいい😍\n濁りのないピュアな瞳がかわいい💕\nクチバシから下に伸びる黒い線もかわいい❣️\n\n#日本最小の野鳥\n#キクイタダキ https://t.co/SCnAXZ9wsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 51,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 265
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-23T03:21:29.000Z",
+        "description": "野鳥を見ているだけで幸せです🐦ファインダー越しで見るともっと幸せです😀ヒタキ科等の小鳥、ツグミ科、キツツキ科など、クチバシが細い野鳥が大好き😄 トリミング、編集アプリに助けられUPしています😅 写真はタイムラグあり、撮影地は非公開、DMは返信しない事があります。お気軽にフォローしてください✨",
+        "id": "1352818648826560512",
+        "location": "関東地方",
+        "name": "えむビタキ",
+        "pinned_tweet_id": "1352933400429039616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1413074165205135363/_9-6DBFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9912,
+          "following_count": 583,
+          "like_count": 6332,
+          "listed_count": 127,
+          "media_count": 7903,
+          "tweet_count": 26213
+        },
+        "username": "emuBitaki321",
+        "verified": false
+      }
+    ]
+  }
+}

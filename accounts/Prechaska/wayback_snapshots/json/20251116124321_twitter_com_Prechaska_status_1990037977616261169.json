@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1990036586852204644",
+    "created_at": "2025-11-16T12:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T13:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990037977616261169"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990037977616261169",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990036586852204644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相比之下溶液的药效来得慢些，体验也好得多，负面效果比较轻微甚至没有。但在不引发高血压情况下Cmax和Tmax对药效主观体验的影响目前还不确定。\n如果有推油用胶囊pea没效果，可以泡水喝试试看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1990036586852204644",
+        "created_at": "2025-11-16T12:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990037977616261169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990037977616261169",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990036586852204644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相比之下溶液的药效来得慢些，体验也好得多，负面效果比较轻微甚至没有。但在不引发高血压情况下Cmax和Tmax对药效主观体验的影响目前还不确定。\n如果有推油用胶囊pea没效果，可以泡水喝试试看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1990036586852204644",
+        "created_at": "2025-11-16T12:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990036586852204644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990036586852204644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "个人经验中，用胶囊吃苯乙胺100%bad trip，会高血压，而泡水喝药效正常。似乎是二者在胃中的浓度不同、进入小肠的速度和由此导致Cmax不同而产生的差异。胶囊在胃中溶解后立刻产生高浓度的pea刺激胃壁，也比溶液形态更快进入小肠，导致Cmax增大Tmax提前，而Cmax大到这种程度就只能体会到强烈的副作用了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 81,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 519
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

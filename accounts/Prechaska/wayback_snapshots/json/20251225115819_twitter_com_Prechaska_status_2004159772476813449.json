@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2004126128462811202",
+    "created_at": "2025-12-25T11:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T12:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004159772476813449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1775535230973247488",
+          "start": 0,
+          "username": "YUELILAGELAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004159772476813449",
+    "in_reply_to_user_id": "1775535230973247488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004151104096154057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YUELILAGELAN 😢其实我认为这只能通过进入有爱的人际交往中、在爱中学习让自己变得更有力量面对这些情绪、并与他人彼此支持着共渡难关的方式解决，孤立的我们只拥有我们自己，而这种情况下想要不被情绪压垮并不是十分容易的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2004126128462811202",
+        "created_at": "2025-12-25T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004159772476813449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1775535230973247488",
+              "start": 0,
+              "username": "YUELILAGELAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004159772476813449",
+        "in_reply_to_user_id": "1775535230973247488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004151104096154057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YUELILAGELAN 😢其实我认为这只能通过进入有爱的人际交往中、在爱中学习让自己变得更有力量面对这些情绪、并与他人彼此支持着共渡难关的方式解决，孤立的我们只拥有我们自己，而这种情况下想要不被情绪压垮并不是十分容易的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775535230973247488",
+        "conversation_id": "2004126128462811202",
+        "created_at": "2025-12-25T11:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004151104096154057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004151104096154057",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004126128462811202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 自残确实是一种镇静的方式，但只能持续很短的时间，有些时间也无法自残只能艰难的熬过去，我希望有能够让自己不再拥有这些情绪的方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 93,
+          "like_count": 1321,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1039
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T14:46:10.000Z",
+        "description": "正常就是最好的，人类全友好",
+        "id": "1775535230973247488",
+        "location": "距离你很近",
+        "name": "月璃LAGELAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001517074519314432/CdiLJL9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 235
+        },
+        "username": "YUELILAGELAN",
+        "verified": false
+      }
+    ]
+  }
+}

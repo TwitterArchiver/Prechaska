@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2024413353389806021",
+    "created_at": "2026-02-19T09:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024415619161215062"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024415619161215062",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024413353389806021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等等，“精神高过身体”，“我可以自由改变自己的意识状态”，这就是僭越的一步，这就是一直认为精神应该也能够完全控制身体的那个起点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2024413353389806021",
+        "created_at": "2026-02-19T09:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024415619161215062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024415619161215062",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024413353389806021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等等，“精神高过身体”，“我可以自由改变自己的意识状态”，这就是僭越的一步，这就是一直认为精神应该也能够完全控制身体的那个起点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2024413353389806021",
+        "created_at": "2026-02-19T09:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024413353389806021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024413353389806021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停普瑞的第17天，脑子终于开始回来了，重新简单地被与“现代性美学”的关联击中，这种连接的瞬间就是创世纪的那个触碰，狂喜就在其中诞生，立刻回忆起从前是如何无可避免地喜欢上它，这压倒一切的狂喜根本不容辩驳，我的脑子想要它，精神上的愉悦超过一切身体所给予的欢愉，就是这个啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 117,
+          "like_count": 2238,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1394
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

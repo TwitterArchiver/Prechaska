@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2005904644019831070",
+    "created_at": "2025-12-30T07:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T08:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005906647873450211"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005906647873450211",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005904644019831070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尽管从完全功利的角度来看或许自保会占优势，但放弃申诉的代价同样很大，首先是正义的丧失，生命的尊严被践踏，其次是彻底的混乱，因为它会成为一个先例，之后如果有人遇到同样的不公，就可以援引这一案例，那么此圈子中的所有受害者就只能永远被献祭出去，作为维持圈子的代价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2005904644019831070",
+        "created_at": "2025-12-30T07:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T08:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005906647873450211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005906647873450211",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005904644019831070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽管从完全功利的角度来看或许自保会占优势，但放弃申诉的代价同样很大，首先是正义的丧失，生命的尊严被践踏，其次是彻底的混乱，因为它会成为一个先例，之后如果有人遇到同样的不公，就可以援引这一案例，那么此圈子中的所有受害者就只能永远被献祭出去，作为维持圈子的代价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2005904644019831070",
+        "created_at": "2025-12-30T07:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T08:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005904644019831070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005904644019831070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本是两难啊，如果要为当事人寻求正义，只能经由法律介入调查，这是绝对的程序正义，但代价是药物更快被列管。可如果因为“药圈一旦有人被调查就会加速列管”而放弃，那么实际上这个圈子里除了吸毒之外任何违法的行为都无法得到惩戒，有这一次就还会有下一次，最终人们会丧失通过法律保卫自己权利的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 95,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1056
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

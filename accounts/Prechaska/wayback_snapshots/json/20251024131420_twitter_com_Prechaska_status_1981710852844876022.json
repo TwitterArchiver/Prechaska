@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1981330727531958414",
+    "created_at": "2025-10-24T13:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T14:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981710852844876022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819530573779742720",
+          "start": 0,
+          "username": "liyuqing970413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981710852844876022",
+    "in_reply_to_user_id": "1819530573779742720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981693875778617437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyuqing970413 在当今学生正常时间点上下学、学习压力相对较小的地区，是否同样有着类似的情况呢？我认为学生素质并不与学习的压力程度直接相关，单论成绩算不上是素质，素质也是需要靠相关的教育而非仅仅增大学习强度获得的，而压力对那些素质不高的学生而言，似乎也仅仅是约束，一种暂时的“缰绳”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1981330727531958414",
+        "created_at": "2025-10-24T13:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981710852844876022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819530573779742720",
+              "start": 0,
+              "username": "liyuqing970413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981710852844876022",
+        "in_reply_to_user_id": "1819530573779742720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981693875778617437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyuqing970413 在当今学生正常时间点上下学、学习压力相对较小的地区，是否同样有着类似的情况呢？我认为学生素质并不与学习的压力程度直接相关，单论成绩算不上是素质，素质也是需要靠相关的教育而非仅仅增大学习强度获得的，而压力对那些素质不高的学生而言，似乎也仅仅是约束，一种暂时的“缰绳”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819530573779742720",
+        "conversation_id": "1981330727531958414",
+        "created_at": "2025-10-24T12:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981693875778617437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981693875778617437",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981688827036283029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 那么我们就要面对一个事实，那就是人的滑落——天才是很少受影响的，一般的和天赋不好的会一落千丈。压力不那么大的版本，可以参考中国二十年前，每年，每个乡镇高中都有男生打架斗殴到死，或者是女生在厕所里生孩子。压力更降低一些的话可以参考美国，大部分人甚至无法正常提炼段落句意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 71,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 387
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T00:28:14.000Z",
+        "description": "Blacked Kafka|很荣幸被黑人开苞&三通|已婚人妻|有女友|双性恋|轻社恐|Sub|♠️BNOW|欢迎大家分享甜甜的QOS/DDLG/le/各类恋爱故事",
+        "id": "1819530573779742720",
+        "name": "blacked_kafka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819548009190858752/O6fep9_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 420,
+          "like_count": 5688,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2883
+        },
+        "username": "liyuqing970413",
+        "verified": false
+      }
+    ]
+  }
+}

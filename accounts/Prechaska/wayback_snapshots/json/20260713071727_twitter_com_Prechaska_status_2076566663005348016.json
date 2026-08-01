@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2076248285099311586",
+    "created_at": "2026-07-13T07:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076566663005348016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1667059783185367040",
+          "start": 0,
+          "username": "lnkyunxiaoxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076566663005348016",
+    "in_reply_to_user_id": "1667059783185367040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076505278959477001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnkyunxiaoxia 还在洒😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2076248285099311586",
+        "created_at": "2026-07-13T07:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076566663005348016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1667059783185367040",
+              "start": 0,
+              "username": "lnkyunxiaoxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076566663005348016",
+        "in_reply_to_user_id": "1667059783185367040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076505278959477001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnkyunxiaoxia 还在洒😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667059783185367040",
+        "conversation_id": "2076248285099311586",
+        "created_at": "2026-07-13T03:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076505278959477001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076505278959477001",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076248285099311586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 然后开始发红起疹子了吗（洒圣水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 161,
+          "like_count": 3959,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T06:43:58.000Z",
+        "description": "*僵尸进入了你的房间",
+        "id": "1667059783185367040",
+        "location": "地獄",
+        "name": "田绪",
+        "pinned_tweet_id": "1770613093544120645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930113607783854082/Yj8Vibyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 219,
+          "like_count": 8960,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 6450
+        },
+        "url": "",
+        "username": "lnkyunxiaoxia",
+        "verified": false
+      }
+    ]
+  }
+}

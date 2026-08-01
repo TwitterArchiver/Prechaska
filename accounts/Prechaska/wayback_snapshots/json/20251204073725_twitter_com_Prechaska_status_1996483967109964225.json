@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1996444197076033831",
+    "created_at": "2025-12-04T07:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T08:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996483967109964225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1135060772222951424",
+          "start": 0,
+          "username": "rb_merganser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996483967109964225",
+    "in_reply_to_user_id": "1135060772222951424",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996444197076033831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rb_merganser ヽ(●´∀`●)ﾉ Keep eating, little ones!"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36400,
+        "height": 1080,
+        "media_key": "13_1996444084681220096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996444084681220096/img/fjq3THEiFlX0b5e4.jpg",
+        "public_metrics": {
+          "view_count": 125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996444084681220096/vid/avc1/1920x1080/918fEQH0wyQdmiZB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996444084681220096/vid/avc1/1280x720/R4un4LjomdNjfDUk.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996444084681220096/vid/avc1/480x270/6KUBMflM3_ow7rgH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996444084681220096/vid/avc1/640x360/XPO1SQEiAMiuf7q0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996444084681220096/pl/pjWk1MXZzPBpYeWL.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996444197076033831",
+        "created_at": "2025-12-04T07:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996483967109964225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1135060772222951424",
+              "start": 0,
+              "username": "rb_merganser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996483967109964225",
+        "in_reply_to_user_id": "1135060772222951424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996444197076033831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rb_merganser ヽ(●´∀`●)ﾉ Keep eating, little ones!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996444084681220096"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "conversation_id": "1996444197076033831",
+        "created_at": "2025-12-04T04:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996444197076033831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDpxPQpY6L",
+              "end": 34,
+              "expanded_url": "https://x.com/rb_merganser/status/1996444197076033831/video/1",
+              "media_key": "13_1996444084681220096",
+              "start": 11,
+              "url": "https://t.co/eDpxPQpY6L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996444197076033831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 275,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "近すぎ (;・∀・) https://t.co/eDpxPQpY6L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 92,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 820
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 686,
+          "like_count": 82331,
+          "listed_count": 74,
+          "media_count": 15002,
+          "tweet_count": 56265
+        },
+        "username": "rb_merganser",
+        "verified": true
+      }
+    ]
+  }
+}

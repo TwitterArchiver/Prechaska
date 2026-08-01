@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1990684839205613747",
+    "created_at": "2025-11-18T07:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990685630683398599"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990685630683398599",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990684839205613747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打个比方的话就是 在杂乱无章的生活里唯一能把握住的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1990684839205613747",
+        "created_at": "2025-11-18T07:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990685630683398599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990685630683398599",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990684839205613747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打个比方的话就是 在杂乱无章的生活里唯一能把握住的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1990684839205613747",
+        "created_at": "2025-11-18T07:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990684839205613747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990684839205613747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次体验还真挺……不错的，依赖于一个可预测的时间跨度较短的循环周期——副作用、药效、退散，每次尝试都能得到及时的反馈，药效期够短，短到可以多次尝试，又不至于在主观角度显得太短，负面效果也会在周期中随着药效的消退而减弱，并且甚至存在感越来越低。嗯，十分能够满足探索欲的即时反馈体验。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 84,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 554
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

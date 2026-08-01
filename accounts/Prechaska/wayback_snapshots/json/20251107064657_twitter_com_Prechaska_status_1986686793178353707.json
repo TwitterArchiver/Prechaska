@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1986459614293164479",
+    "created_at": "2025-11-07T06:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T07:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986686793178353707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753042880162299904",
+          "start": 0,
+          "username": "zhang_jia57877"
+        },
+        {
+          "end": 27,
+          "id": "1971208789853675520",
+          "start": 16,
+          "username": "seroglumax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986686793178353707",
+    "in_reply_to_user_id": "1753042880162299904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986685850856636643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhang_jia57877 @seroglumax 嗯……关键是它所有那些指令和记忆都是一直沿用的，没有动过，开始那会儿就挺好的，但后来就会时不时的突然风格大变呢(。_。)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1986459614293164479",
+        "created_at": "2025-11-07T06:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T07:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986686793178353707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753042880162299904",
+              "start": 0,
+              "username": "zhang_jia57877"
+            },
+            {
+              "end": 27,
+              "id": "1971208789853675520",
+              "start": 16,
+              "username": "seroglumax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986686793178353707",
+        "in_reply_to_user_id": "1753042880162299904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986685850856636643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang_jia57877 @seroglumax 嗯……关键是它所有那些指令和记忆都是一直沿用的，没有动过，开始那会儿就挺好的，但后来就会时不时的突然风格大变呢(。_。)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753042880162299904",
+        "conversation_id": "1986459614293164479",
+        "created_at": "2025-11-07T06:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T07:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986685850856636643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 22,
+              "id": "1462208415837655043",
+              "start": 12,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986685850856636643",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986683717918859452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @Prechaska 我的GPT设置了一大堆指令，就超级好用😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 80,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 454
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T13:09:39.000Z",
+        "description": "令人惊异的理知世界  希望你天天开心🤝🫂",
+        "id": "1753042880162299904",
+        "name": "荆棘我冠 .",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480538272169984/4Cyy6NjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 76,
+          "like_count": 5519,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9993
+        },
+        "username": "zhang_jia57877",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 102,
+          "like_count": 446,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 430
+        },
+        "username": "seroglumax",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1976453212317340121",
+    "created_at": "2025-10-10T12:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976623738025341068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "54103892",
+          "start": 0,
+          "username": "incognito9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976623738025341068",
+    "in_reply_to_user_id": "54103892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976453212317340121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@incognito9 宝宝你好漂亮(⁠*⁠´⁠ω⁠｀⁠*⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_1976453201646731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23FtxdWQAADbD9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1976453212317340121",
+        "created_at": "2025-10-10T12:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976623738025341068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "54103892",
+              "start": 0,
+              "username": "incognito9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976623738025341068",
+        "in_reply_to_user_id": "54103892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976453212317340121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@incognito9 宝宝你好漂亮(⁠*⁠´⁠ω⁠｀⁠*⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976453201646731264"
+          ]
+        },
+        "author_id": "54103892",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "1976453212317340121",
+        "created_at": "2025-10-10T01:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976453212317340121"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Bulbul",
+              "probability": 0.8177,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Sattal",
+              "probability": 0.8619,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 121,
+              "normalized_text": "indiaves",
+              "probability": 0.4762,
+              "start": 114,
+              "type": "Place"
+            },
+            {
+              "end": 135,
+              "normalized_text": "ThePhotoHour",
+              "probability": 0.56,
+              "start": 124,
+              "type": "Other"
+            },
+            {
+              "end": 152,
+              "normalized_text": "BBCWildlifePOTD",
+              "probability": 0.4649,
+              "start": 138,
+              "type": "Organization"
+            },
+            {
+              "end": 182,
+              "normalized_text": "Canon",
+              "probability": 0.528,
+              "start": 178,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 113,
+              "tag": "indiaves"
+            },
+            {
+              "end": 136,
+              "start": 123,
+              "tag": "ThePhotoHour"
+            },
+            {
+              "end": 153,
+              "start": 137,
+              "tag": "BBCWildlifePOTD"
+            },
+            {
+              "end": 160,
+              "start": 154,
+              "tag": "birds"
+            },
+            {
+              "end": 176,
+              "start": 161,
+              "tag": "birdsoftwitter"
+            },
+            {
+              "end": 183,
+              "start": 177,
+              "tag": "Canon"
+            },
+            {
+              "end": 191,
+              "start": 184,
+              "tag": "Friday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWETvOXC4f",
+              "end": 215,
+              "expanded_url": "https://x.com/incognito9/status/1976453212317340121/photo/1",
+              "media_key": "3_1976453201646731264",
+              "start": 192,
+              "url": "https://t.co/YWETvOXC4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976453212317340121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 889,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "The mountain Bulbul, a lifer from Sattal. Got it with low light and still managed a good capture with 6400 ISO.\n\n#indiaves #ThePhotoHour #BBCWildlifePOTD #birds #birdsoftwitter #Canon #Friday https://t.co/YWETvOXC4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 51,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 264
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-06T03:43:24.000Z",
+        "description": "Nature lover 🌿 | Foodie 🍽️ | Martial arts 🥋 | Photographer 📸 | Wildlife enthusiast 🦁 | Music fan 🎶 | Logistician | All photos are mine. RTs aren’t endorse",
+        "id": "54103892",
+        "location": "Gurgaon",
+        "name": "Arun Kamath🕊",
+        "pinned_tweet_id": "1399538308716265481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878018815138873345/G6N-_jHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5435,
+          "following_count": 1298,
+          "like_count": 253679,
+          "listed_count": 39,
+          "media_count": 2849,
+          "tweet_count": 142484
+        },
+        "username": "incognito9",
+        "verified": false
+      }
+    ]
+  }
+}

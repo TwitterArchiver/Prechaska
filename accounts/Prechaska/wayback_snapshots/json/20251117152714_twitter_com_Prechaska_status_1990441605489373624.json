@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1990441605489373624",
+    "created_at": "2025-11-17T15:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990441605489373624"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "山本タカト",
+          "probability": 0.9069,
+          "start": 27,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/solas_na_grein…",
+          "end": 207,
+          "expanded_url": "https://twitter.com/solas_na_greine/status/1989637932182073500",
+          "start": 184,
+          "url": "https://t.co/52x8gQABzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990441605489373624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989637932182073500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天使报喜 「聖告  The Annunciation」山本タカト 1998年\n日本现代画家山本タカト的风格深受浮世绘版画、象征主义和唯美主义的影响，他将自己的风格称为 “平成唯美主义”。他举办过“诺斯费拉图”（2018）等多场画展，近期还在Span Art Gallery办有画展『アリス物語 ~Alice’s Adventures in Wonderland ~』 https://t.co/52x8gQABzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3324,
+        "media_key": "3_1989637905854144512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ydIkIWoAAhNjN.jpg",
+        "width": 2240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1990441605489373624",
+        "created_at": "2025-11-17T15:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990441605489373624"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "山本タカト",
+              "probability": 0.9069,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/solas_na_grein…",
+              "end": 207,
+              "expanded_url": "https://twitter.com/solas_na_greine/status/1989637932182073500",
+              "start": 184,
+              "url": "https://t.co/52x8gQABzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990441605489373624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989637932182073500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天使报喜 「聖告  The Annunciation」山本タカト 1998年\n日本现代画家山本タカト的风格深受浮世绘版画、象征主义和唯美主义的影响，他将自己的风格称为 “平成唯美主义”。他举办过“诺斯费拉图”（2018）等多场画展，近期还在Span Art Gallery办有画展『アリス物語 ~Alice’s Adventures in Wonderland ~』 https://t.co/52x8gQABzl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989637905854144512"
+          ]
+        },
+        "author_id": "4155707207",
+        "conversation_id": "1989637932182073500",
+        "created_at": "2025-11-15T10:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989637932182073500"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "The Annunciation",
+              "probability": 0.8986,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Takato Yamamoto",
+              "probability": 0.962,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFzaLcUfUe",
+              "end": 60,
+              "expanded_url": "https://x.com/solas_na_greine/status/1989637932182073500/photo/1",
+              "media_key": "3_1989637905854144512",
+              "start": 37,
+              "url": "https://t.co/BFzaLcUfUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989637932182073500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2418,
+          "impression_count": 213907,
+          "like_count": 16037,
+          "quote_count": 71,
+          "reply_count": 55,
+          "retweet_count": 2809
+        },
+        "reply_settings": "everyone",
+        "text": "The Annunciation, by Takato Yamamoto https://t.co/BFzaLcUfUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 83,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 524
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-10T10:14:15.000Z",
+        "description": "'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me' John 14:6",
+        "id": "4155707207",
+        "location": "Glastonbury, England",
+        "name": "Solas",
+        "pinned_tweet_id": "1896947196182036731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886400469473366016/EnHqMSWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70942,
+          "following_count": 1485,
+          "like_count": 4687,
+          "listed_count": 515,
+          "media_count": 7485,
+          "tweet_count": 8033
+        },
+        "username": "solas_na_greine",
+        "verified": true
+      }
+    ]
+  }
+}

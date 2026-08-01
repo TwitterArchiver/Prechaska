@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1994361324223201634",
+    "created_at": "2025-11-28T11:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994361324223201634"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994361324223201634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不太好，突然意识到我想自杀这事并不是在负责任，而是一种屈服于恐惧的行动，这不论在哪点上都不符合真正的“对父母负责”，毕竟真要当个好的工具，显然留下来等待之后的使用是更符合利益的，而不该是一举把工具摧毁。我只是恐惧来自父母的审视和期望，我只是想要逃避这种重负所以才想死，并且仅此而已，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1994361324223201634",
+        "created_at": "2025-11-28T11:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994361324223201634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994361324223201634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不太好，突然意识到我想自杀这事并不是在负责任，而是一种屈服于恐惧的行动，这不论在哪点上都不符合真正的“对父母负责”，毕竟真要当个好的工具，显然留下来等待之后的使用是更符合利益的，而不该是一举把工具摧毁。我只是恐惧来自父母的审视和期望，我只是想要逃避这种重负所以才想死，并且仅此而已，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 92,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 755
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

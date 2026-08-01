@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1995231118052995412",
+    "created_at": "2025-11-30T20:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T21:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995234902745420100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995234902745420100",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995231118052995412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们这边还好一些，隔壁繁殖地被人类破坏得更严重，新建的各种设施侵占了原有的合适繁殖的地方，繁殖鸟类的数量下降得更是明显。\n就是说能不能别闲的没事建那么些没啥用的东西和破坏原有生态的所谓项目，人类应当放下自己的傲慢，为其他生物留出生存的空间。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1995231118052995412",
+        "created_at": "2025-11-30T20:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T21:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995234902745420100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995234902745420100",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995231118052995412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们这边还好一些，隔壁繁殖地被人类破坏得更严重，新建的各种设施侵占了原有的合适繁殖的地方，繁殖鸟类的数量下降得更是明显。\n就是说能不能别闲的没事建那么些没啥用的东西和破坏原有生态的所谓项目，人类应当放下自己的傲慢，为其他生物留出生存的空间。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "1995231118052995412",
+        "created_at": "2025-11-30T20:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T21:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995231118052995412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GrahamFAppleto…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/GrahamFAppleton/status/1995084683294687330",
+              "start": 142,
+              "url": "https://t.co/PqSFf6NzkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995231118052995412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995084683294687330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至近十年也能明显看出下降，学姐说过几年前kp繁殖地那儿的巢还多得如果用麻袋装蛋可以装一袋子，随便往哪条埂上走都有巢，但现在就少到只能到处去找巢了。尽管不确定最终原因，但人类对它们的影响是毋庸置疑的，气候变暖就是其中之一，现在到了七月中下旬八月，已经会热到孵不了蛋频繁弃巢的程度了。 https://t.co/PqSFf6NzkU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 92,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 773
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

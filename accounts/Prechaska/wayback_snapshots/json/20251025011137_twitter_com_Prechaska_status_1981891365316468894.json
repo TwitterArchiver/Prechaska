@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1981769153901212073",
+    "created_at": "2025-10-25T01:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T02:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981891365316468894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3579621921",
+          "start": 0,
+          "username": "CarlBovisNature"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981891365316468894",
+    "in_reply_to_user_id": "3579621921",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981769153901212073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlBovisNature Beautiful♡⁠(⁠˃͈⁠ ⁠દ⁠ ⁠˂͈⁠ ⁠༶⁠ ⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2098,
+        "media_key": "3_1981497218113634304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3-xOLEWgAAEWyJ.jpg",
+        "width": 1725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1981769153901212073",
+        "created_at": "2025-10-25T01:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T02:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981891365316468894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3579621921",
+              "start": 0,
+              "username": "CarlBovisNature"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981891365316468894",
+        "in_reply_to_user_id": "3579621921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981769153901212073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlBovisNature Beautiful♡⁠(⁠˃͈⁠ ⁠દ⁠ ⁠˂͈⁠ ⁠༶⁠ ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981497218113634304"
+          ]
+        },
+        "author_id": "3579621921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          }
+        ],
+        "conversation_id": "1981769153901212073",
+        "created_at": "2025-10-24T17:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981769153901212073"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Scarce Little Gull",
+              "probability": 0.6463,
+              "start": 2,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Durleigh reservoir",
+              "probability": 0.6021,
+              "start": 24,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Ccx7QUvtm",
+              "end": 124,
+              "expanded_url": "https://x.com/CarlBovisNature/status/1981769153901212073/photo/1",
+              "media_key": "3_1981497218113634304",
+              "start": 101,
+              "url": "https://t.co/5Ccx7QUvtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981769153901212073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4534,
+          "like_count": 517,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "A Scarce Little Gull at Durleigh reservoir recently... only the 3rd time I've seen this species! 😍😊🐦 https://t.co/5Ccx7QUvtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 71,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 390
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-07T18:48:44.000Z",
+        "description": "On a mission to make the world love birds! 😍\nAuthor and photographer of the books '100 Birds' & '100 More Birds', which you can buy here; ⬇️🐦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/carlbovis",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/carlbovis",
+                "start": 0,
+                "url": "https://t.co/TQV9E9lagA"
+              }
+            ]
+          }
+        },
+        "id": "3579621921",
+        "location": "Somerset",
+        "name": "Carl Bovis",
+        "pinned_tweet_id": "1981609098769580372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516051337649307654/Mlwnltm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191027,
+          "following_count": 103604,
+          "like_count": 246797,
+          "listed_count": 1525,
+          "media_count": 17303,
+          "tweet_count": 104470
+        },
+        "url": "https://t.co/TQV9E9lagA",
+        "username": "CarlBovisNature",
+        "verified": true
+      }
+    ]
+  }
+}

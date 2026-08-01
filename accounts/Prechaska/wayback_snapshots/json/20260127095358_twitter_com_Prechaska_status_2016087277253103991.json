@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015570423401021440"
+      ],
+      "media_source_tweet_id": [
+        "2015570626858402212"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2016087277253103991",
+    "created_at": "2026-01-27T09:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T10:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016087277253103991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135060772222951424",
+          "start": 3,
+          "username": "rb_merganser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VGWICuQjAj",
+          "end": 68,
+          "expanded_url": "https://x.com/rb_merganser/status/2015570626858402212/photo/1",
+          "media_key": "3_2015570423401021440",
+          "start": 45,
+          "url": "https://t.co/VGWICuQjAj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016087277253103991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015570626858402212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rb_merganser: このフォルム。これが「野鳥」であるという衝撃の事実😆 https://t.co/VGWICuQjAj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2015570423401021440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_i-nwKaAAAyI87.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015570423401021440"
+          ],
+          "media_source_tweet_id": [
+            "2015570626858402212"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2016087277253103991",
+        "created_at": "2026-01-27T09:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016087277253103991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135060772222951424",
+              "start": 3,
+              "username": "rb_merganser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGWICuQjAj",
+              "end": 68,
+              "expanded_url": "https://x.com/rb_merganser/status/2015570626858402212/photo/1",
+              "media_key": "3_2015570423401021440",
+              "start": 45,
+              "url": "https://t.co/VGWICuQjAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016087277253103991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015570626858402212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rb_merganser: このフォルム。これが「野鳥」であるという衝撃の事実😆 https://t.co/VGWICuQjAj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015570423401021440"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "conversation_id": "2015570626858402212",
+        "created_at": "2026-01-25T23:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T00:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015570626858402212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VGWICuQjAj",
+              "end": 50,
+              "expanded_url": "https://x.com/rb_merganser/status/2015570626858402212/photo/1",
+              "media_key": "3_2015570423401021440",
+              "start": 27,
+              "url": "https://t.co/VGWICuQjAj"
+            },
+            {
+              "display_url": "x.com/rb_merganser/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/rb_merganser/status/2015012243545751636",
+              "start": 51,
+              "url": "https://t.co/Wip9uOfXNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015570626858402212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 40212,
+          "like_count": 1716,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015012243545751636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "このフォルム。これが「野鳥」であるという衝撃の事実😆 https://t.co/VGWICuQjAj https://t.co/Wip9uOfXNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 111,
+          "like_count": 1740,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1241
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 685,
+          "like_count": 83258,
+          "listed_count": 80,
+          "media_count": 15288,
+          "tweet_count": 57400
+        },
+        "username": "rb_merganser",
+        "verified": true
+      }
+    ]
+  }
+}

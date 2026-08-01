@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1981330727531958414",
+    "created_at": "2025-10-24T01:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T02:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981531454657220877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1185642976254611461",
+          "start": 0,
+          "username": "deerbengdeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981531454657220877",
+    "in_reply_to_user_id": "1185642976254611461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981524671473602716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deerbengdeer 确实，不知道有这条路自然就不会选择它，但此处似乎也有一个类似“od不扩散”的困境：正因为“不知道所以不会选”，而大力宣传常见被滥用药物的危害与知识，反而会起到令人们“知晓”的效果。正如wiki们分享药物知识用以减害，可让人们知晓更多，某种程度上却是造成了od的扩散。因而是困境，也是棘手的问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1981330727531958414",
+        "created_at": "2025-10-24T01:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T02:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981531454657220877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1185642976254611461",
+              "start": 0,
+              "username": "deerbengdeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981531454657220877",
+        "in_reply_to_user_id": "1185642976254611461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981524671473602716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deerbengdeer 确实，不知道有这条路自然就不会选择它，但此处似乎也有一个类似“od不扩散”的困境：正因为“不知道所以不会选”，而大力宣传常见被滥用药物的危害与知识，反而会起到令人们“知晓”的效果。正如wiki们分享药物知识用以减害，可让人们知晓更多，某种程度上却是造成了od的扩散。因而是困境，也是棘手的问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185642976254611461",
+        "conversation_id": "1981330727531958414",
+        "created_at": "2025-10-24T00:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T01:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981524671473602716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981524671473602716",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981330727531958414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 大部分说得挺对的，那些因为压力、家庭和人际交往原因痛苦的青少年如果不知道od也许不会od。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 373
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T19:44:57.000Z",
+        "description": "Permanent Head Damage student/毛米🐱大王/因为保存太多高清猫图而内存不足",
+        "id": "1185642976254611461",
+        "location": "猫猫头村",
+        "name": "蹦得儿 ☭正在经历永久性头部损伤",
+        "pinned_tweet_id": "1932788205260320821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830597238185476096/WIjVeXpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 585,
+          "like_count": 157358,
+          "listed_count": 12,
+          "media_count": 1517,
+          "tweet_count": 17250
+        },
+        "username": "deerbengdeer",
+        "verified": false
+      }
+    ]
+  }
+}

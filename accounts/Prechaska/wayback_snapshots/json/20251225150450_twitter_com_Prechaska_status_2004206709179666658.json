@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2004206709179666658",
+    "created_at": "2025-12-25T15:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T16:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004206709179666658"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004206709179666658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是为什么需要先明确各自用语的定义再开始讨论，不然之后的一切对话都是无意义的。从这个角度来看，语言实在是太匮乏了，太难传递真实的意图，真不愧是误解的源泉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2004206709179666658",
+        "created_at": "2025-12-25T15:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004206709179666658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004206709179666658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是为什么需要先明确各自用语的定义再开始讨论，不然之后的一切对话都是无意义的。从这个角度来看，语言实在是太匮乏了，太难传递真实的意图，真不愧是误解的源泉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 93,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1045
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

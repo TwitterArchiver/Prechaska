@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2001591628721803363",
+    "created_at": "2025-12-18T10:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T11:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001593746740384228"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001593746740384228",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001591628721803363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而本来就处在这种糟糕状态的心理/精神疾病患者根本是物质使用障碍的天选之子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2001591628721803363",
+        "created_at": "2025-12-18T10:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001593746740384228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001593746740384228",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001591628721803363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而本来就处在这种糟糕状态的心理/精神疾病患者根本是物质使用障碍的天选之子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2001591628721803363",
+        "created_at": "2025-12-18T09:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001591628721803363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001591628721803363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关键在于对比和落差啊，物质有多大程度能改善初始状态，就有多大成瘾的潜力。想要人为制造成瘾，就让自己陷入与物质效果相反的状态中吧，制造疼痛、抑郁、空虚，再让自己孤立，只有在这种对比之下，物质的使用才会显得那么必要而令人难以忘怀，只有当它是唯一的解决方式时，人才会更难以克制自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 91,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1005
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

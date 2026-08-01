@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1997067886196887767",
+    "created_at": "2025-12-05T22:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T23:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997067886196887767"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "Pileated Woodpecker",
+          "probability": 0.8178,
+          "start": 45,
+          "type": "Other"
+        },
+        {
+          "end": 74,
+          "normalized_text": "Grand Pic",
+          "probability": 0.4906,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "bird"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734170933298876416",
+          "start": 3,
+          "username": "DelattreMia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997067886196887767",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996606144450556358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DelattreMia: Watch (and listen) as these Pileated Woodpecker (Grand Pic) nestlings experience their very first heavy rain. 🌧️ 🐣\n\n#bird…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59071,
+        "height": 1280,
+        "media_key": "13_1996605659702243328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996605659702243328/img/7ThZ6EQZ_8b_rYvY.jpg",
+        "public_metrics": {
+          "view_count": 5522
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996605659702243328/vid/avc1/320x568/jpGHBLoD8-nTZIis.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996605659702243328/vid/avc1/480x852/BBvy7qYOTbDEYrDB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996605659702243328/vid/avc1/720x1280/Sp3VH8RdqxfYEwm8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996605659702243328/pl/JubxonsDunupDU5L.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1997067886196887767",
+        "created_at": "2025-12-05T22:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T23:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997067886196887767"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "Pileated Woodpecker",
+              "probability": 0.8178,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "Grand Pic",
+              "probability": 0.4906,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "bird"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734170933298876416",
+              "start": 3,
+              "username": "DelattreMia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997067886196887767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996606144450556358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DelattreMia: Watch (and listen) as these Pileated Woodpecker (Grand Pic) nestlings experience their very first heavy rain. 🌧️ 🐣\n\n#bird…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996605659702243328"
+          ]
+        },
+        "author_id": "1734170933298876416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "1996606144450556358",
+        "created_at": "2025-12-04T15:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996606144450556358"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Pileated Woodpecker",
+              "probability": 0.8578,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Pic",
+              "probability": 0.5304,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "bird"
+            },
+            {
+              "end": 135,
+              "start": 122,
+              "tag": "NatureBeauty"
+            },
+            {
+              "end": 142,
+              "start": 136,
+              "tag": "short"
+            },
+            {
+              "end": 153,
+              "start": 143,
+              "tag": "wildearth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yRjQ5vXeQ4",
+              "end": 177,
+              "expanded_url": "https://x.com/DelattreMia/status/1996606144450556358/video/1",
+              "media_key": "13_1996605659702243328",
+              "start": 154,
+              "url": "https://t.co/yRjQ5vXeQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996606144450556358",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 11208,
+          "like_count": 1043,
+          "quote_count": 15,
+          "reply_count": 14,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "Watch (and listen) as these Pileated Woodpecker (Grand Pic) nestlings experience their very first heavy rain. 🌧️ 🐣\n\n#bird #NatureBeauty #short #wildearth https://t.co/yRjQ5vXeQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 94,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 856
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T11:19:21.000Z",
+        "description": "✨ Le beau, c’est la splendeur du vrai. ~ Platon\n✨ Beauty is the splendor of truth. ~  Plato",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/WatchStateOrga…",
+                "end": 23,
+                "expanded_url": "https://bit.ly/WatchStateOrgans",
+                "start": 0,
+                "url": "https://t.co/qjQnobtuTu"
+              }
+            ]
+          }
+        },
+        "id": "1734170933298876416",
+        "name": "🎨 Arts - Nature 🕊️",
+        "pinned_tweet_id": "1843662502833340745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842100630292193280/TdcmAgVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5938,
+          "following_count": 4673,
+          "like_count": 26449,
+          "listed_count": 18,
+          "media_count": 3485,
+          "tweet_count": 6965
+        },
+        "url": "https://t.co/qjQnobtuTu",
+        "username": "DelattreMia",
+        "verified": true
+      }
+    ]
+  }
+}

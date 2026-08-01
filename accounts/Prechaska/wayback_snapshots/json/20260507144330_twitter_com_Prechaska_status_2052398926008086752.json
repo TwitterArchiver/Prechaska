@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2052396441704997180",
+    "created_at": "2026-05-07T14:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052398926008086752"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052398926008086752",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052396441704997180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是时候承认主体的有限性了，承认自己有时无能为力，把无限还给真正的无限者。于是对这种倾向的一种批判最终走向了爱的概念与神学。此处爱要求敞开，要求向他者开放，首先要冒着一切不可控性将自己给予他人，因为爱无法来自于自身，而他人并非主体所能控制，那么爱首先伴随着风险，且只此才能够接近爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2052396441704997180",
+        "created_at": "2026-05-07T14:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052398926008086752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052398926008086752",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052396441704997180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是时候承认主体的有限性了，承认自己有时无能为力，把无限还给真正的无限者。于是对这种倾向的一种批判最终走向了爱的概念与神学。此处爱要求敞开，要求向他者开放，首先要冒着一切不可控性将自己给予他人，因为爱无法来自于自身，而他人并非主体所能控制，那么爱首先伴随着风险，且只此才能够接近爱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2052396441704997180",
+        "created_at": "2026-05-07T14:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052396441704997180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052396441704997180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现代性害人不浅，从那时主动选择笛卡尔作为辩护开始，不断膨胀的现代性主体最终发展到无法忍受任何不确定性，因为一切都本该能被主体分析、定义、理解、分门别类、使用，但世界并非如此，他人也不是，所谓的我思主体过分高看了自己，绝对的掌控是不可能的，如此对自身存在的保证也无处寻得。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 126,
+          "like_count": 3035,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1602
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

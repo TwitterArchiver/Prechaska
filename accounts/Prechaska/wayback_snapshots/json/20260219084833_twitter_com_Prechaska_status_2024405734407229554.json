@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2024400916213092849",
+    "created_at": "2026-02-19T08:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T09:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024405734407229554"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024405734407229554",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024403963609829849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（4/n）人类当然无法知道什么是真理，也不知道什么更接近它，绝对的“正确”是无从判断的，从一种准则转向另一种准则并接受其结果不过是一个选择，或者更过分地说是水流在重力之下的流向，这就是它的真相，如今不过是决定优先保证生存，而不再是浪漫主义所要求的强度和崇高，一个决定，或一种流动的趋势"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2024400916213092849",
+        "created_at": "2026-02-19T08:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024405734407229554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024405734407229554",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024403963609829849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（4/n）人类当然无法知道什么是真理，也不知道什么更接近它，绝对的“正确”是无从判断的，从一种准则转向另一种准则并接受其结果不过是一个选择，或者更过分地说是水流在重力之下的流向，这就是它的真相，如今不过是决定优先保证生存，而不再是浪漫主义所要求的强度和崇高，一个决定，或一种流动的趋势"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2024400916213092849",
+        "created_at": "2026-02-19T08:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024403963609829849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024403963609829849",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024402271380087229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（3/n）崇高，早在知道它名字前就已经爱着的崇高啊，尽管现在这具身体已经无法继续承担崇高所需要的强度，“你现在的哀悼，是对崇高体验的戒断反应”，这绝不是能够轻易被放下的东西。以及离开康德定义后崇高另一种可能的形式：“仅仅去纯粹地观测自身这张骨牌倒下时的轨迹、速度与必然性。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 117,
+          "like_count": 2238,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1392
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

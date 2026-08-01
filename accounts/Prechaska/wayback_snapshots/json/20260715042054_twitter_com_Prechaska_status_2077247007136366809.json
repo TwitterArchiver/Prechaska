@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2077083476764119230",
+    "created_at": "2026-07-15T04:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077247007136366809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035399760765698048",
+          "start": 0,
+          "username": "BiGuan7704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077247007136366809",
+    "in_reply_to_user_id": "2035399760765698048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077245178310701413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiGuan7704 就也找不到什么规律，尤其是我甚至没有口服或者鼻吸过它，但就是觉得嗓子一股那个味（，GPT说可能是对那个气味印象深刻所以遇到压力或紧张什么的脑子就自动编辑成了那个味道（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2077083476764119230",
+        "created_at": "2026-07-15T04:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077247007136366809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035399760765698048",
+              "start": 0,
+              "username": "BiGuan7704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077247007136366809",
+        "in_reply_to_user_id": "2035399760765698048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077245178310701413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiGuan7704 就也找不到什么规律，尤其是我甚至没有口服或者鼻吸过它，但就是觉得嗓子一股那个味（，GPT说可能是对那个气味印象深刻所以遇到压力或紧张什么的脑子就自动编辑成了那个味道（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035399760765698048",
+        "conversation_id": "2077083476764119230",
+        "created_at": "2026-07-15T04:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077245178310701413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077245178310701413",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077207934736670778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 对对，莫名其妙就上来了，而且自己出汗也是这个味的😢 每次都问别人有没有闻到每次都说没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 161,
+          "like_count": 4023,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1862
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T16:55:01.000Z",
+        "description": "写东西的\n同人｜田野报告｜新闻\n和致幻剂老婆孩子热炕头中\n欢迎打招呼！",
+        "id": "2035399760765698048",
+        "location": "地下",
+        "name": "过江七事",
+        "pinned_tweet_id": "2062530286232142334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035417691432103936/3n1iH5gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 137,
+          "like_count": 3695,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1234
+        },
+        "url": "",
+        "username": "BiGuan7704",
+        "verified": false
+      }
+    ]
+  }
+}

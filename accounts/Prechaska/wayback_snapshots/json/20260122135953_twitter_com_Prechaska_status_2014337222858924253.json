@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014337218081390592"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2014337222858924253",
+    "created_at": "2026-01-22T13:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014337222858924253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "music.163.com/album/433228/?…",
+          "end": 174,
+          "expanded_url": "http://music.163.com/album/433228/?userid=81480350",
+          "start": 151,
+          "status": 200,
+          "unwound_url": "https://music.163.com/album?id=433228&userid=81480350",
+          "url": "https://t.co/aV8M50nZco"
+        },
+        {
+          "display_url": "pic.x.com/gmAty9ymcv",
+          "end": 209,
+          "expanded_url": "https://x.com/Prechaska/status/2014337222858924253/photo/1",
+          "media_key": "3_2014337218081390592",
+          "start": 186,
+          "url": "https://t.co/gmAty9ymcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014337222858924253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "另一本瘾君子自传《The Heroin Diaries: A Year in the Life of a Shattered Rock Star》，其实还没读完，但如下所述，其实感觉更不错的是他的同名专辑（。分享Sixx:A.M.的专辑《The ****** Diaries Soundtrack》: https://t.co/aV8M50nZco (来自@网易云音乐) https://t.co/gmAty9ymcv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1183,
+        "media_key": "3_2014337218081390592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RdBwWXAAAFDlx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014337218081390592"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2014337222858924253",
+        "created_at": "2026-01-22T13:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014337222858924253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "music.163.com/album/433228/?…",
+              "end": 174,
+              "expanded_url": "http://music.163.com/album/433228/?userid=81480350",
+              "start": 151,
+              "status": 200,
+              "unwound_url": "https://music.163.com/album?id=433228&userid=81480350",
+              "url": "https://t.co/aV8M50nZco"
+            },
+            {
+              "display_url": "pic.x.com/gmAty9ymcv",
+              "end": 209,
+              "expanded_url": "https://x.com/Prechaska/status/2014337222858924253/photo/1",
+              "media_key": "3_2014337218081390592",
+              "start": 186,
+              "url": "https://t.co/gmAty9ymcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014337222858924253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另一本瘾君子自传《The Heroin Diaries: A Year in the Life of a Shattered Rock Star》，其实还没读完，但如下所述，其实感觉更不错的是他的同名专辑（。分享Sixx:A.M.的专辑《The ****** Diaries Soundtrack》: https://t.co/aV8M50nZco (来自@网易云音乐) https://t.co/gmAty9ymcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 105,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1217
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

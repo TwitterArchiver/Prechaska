@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2021767818929484131",
+    "created_at": "2026-02-12T02:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021767818929484131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Prechaska/stat…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/Prechaska/status/2018285177735454960",
+          "start": 143,
+          "url": "https://t.co/lPgrsq1SSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021767818929484131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018285177735454960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。真这样又不乐意了。过分强烈的结果就是被碾碎，不再是“我有一个渴望”，而成了“我就是渴望本身”，全部都是渴望全部都是渴望彻底无法思考此外的任何只剩渴望只能感觉到渴望。它要求的正是这样完全的必然性完全的拥有，真正暴君一样难以承受却不得不承受在无法抗拒中被彻底碾碎，最后难受得去吃了可乐定 https://t.co/lPgrsq1SSl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2021767818929484131",
+        "created_at": "2026-02-12T02:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021767818929484131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Prechaska/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Prechaska/status/2018285177735454960",
+              "start": 143,
+              "url": "https://t.co/lPgrsq1SSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021767818929484131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018285177735454960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。真这样又不乐意了。过分强烈的结果就是被碾碎，不再是“我有一个渴望”，而成了“我就是渴望本身”，全部都是渴望全部都是渴望彻底无法思考此外的任何只剩渴望只能感觉到渴望。它要求的正是这样完全的必然性完全的拥有，真正暴君一样难以承受却不得不承受在无法抗拒中被彻底碾碎，最后难受得去吃了可乐定 https://t.co/lPgrsq1SSl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2018285177735454960",
+        "created_at": "2026-02-02T11:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018285177735454960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018285177735454960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢那种疯狂的爱着什么、每时每刻都在思考它的整个人被完全占据的感觉，不论这个对象是什么。它是那么强烈，强烈到整个世界只剩下它、只有它是重要的，在这种强度面前，只有“爱”才配得上作为它的名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 116,
+          "like_count": 2123,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1347
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

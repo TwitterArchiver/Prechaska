@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1979144343404343353",
+    "created_at": "2025-10-17T11:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979145216784503296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979145216784503296",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979144659675869353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（3/3）将通州湾的鸻鹬高潮停歇地开发掉，会直接导致这些鸟类因缺乏高潮停歇地和食物来源而种群锐减，尤其对于勺嘴鹬来说，这可能会让此前一切的保护措施都前功尽弃，或许它就会成为下一个在我们面前灭绝的鸟类。\n\n除了向南通市政府举报外，我只能说 -- 人类什么时候灭绝啊🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1979144343404343353",
+        "created_at": "2025-10-17T11:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979145216784503296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979145216784503296",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979144659675869353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（3/3）将通州湾的鸻鹬高潮停歇地开发掉，会直接导致这些鸟类因缺乏高潮停歇地和食物来源而种群锐减，尤其对于勺嘴鹬来说，这可能会让此前一切的保护措施都前功尽弃，或许它就会成为下一个在我们面前灭绝的鸟类。\n\n除了向南通市政府举报外，我只能说 -- 人类什么时候灭绝啊🙂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1979144343404343353",
+        "created_at": "2025-10-17T11:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979144659675869353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979144659675869353",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979144343404343353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（2/3）上一次这么干的还是连云港的蓝色海湾项目，准备将滩涂改造成一片“碧海金沙”的人工海滩，只是后来在野保组织的努力下终于使该项目停工。而现在，通州湾的开发则面临更严峻的问题 -- 这里也是黑脸琵鹭、勺嘴鹬、小青脚鹬等极度濒危鸟类的重要栖息地，勺嘴鹬目前的全球种群数甚至不到500。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 58,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 305
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

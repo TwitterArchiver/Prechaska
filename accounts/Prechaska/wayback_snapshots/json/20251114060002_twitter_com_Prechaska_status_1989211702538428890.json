@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1989211702538428890",
+    "created_at": "2025-11-14T06:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989211702538428890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989211702538428890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尽管都是激动μ阿片受体，但中枢和外周神经受体的脱敏能力不同，前者比后者更容易脱敏，更容易在重复给药下建立起耐受。也就是说，当你需要更高剂量才能达到从前的镇静效果时，你胃肠道的反应却并非如此，并不会因为你吃的越来越多而习以为常，而是该怎么恶心还怎么恶心，阿片类你就吃吧，恶心死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989211702538428890",
+        "created_at": "2025-11-14T06:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989211702538428890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989211702538428890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尽管都是激动μ阿片受体，但中枢和外周神经受体的脱敏能力不同，前者比后者更容易脱敏，更容易在重复给药下建立起耐受。也就是说，当你需要更高剂量才能达到从前的镇静效果时，你胃肠道的反应却并非如此，并不会因为你吃的越来越多而习以为常，而是该怎么恶心还怎么恶心，阿片类你就吃吧，恶心死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 80,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 506
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

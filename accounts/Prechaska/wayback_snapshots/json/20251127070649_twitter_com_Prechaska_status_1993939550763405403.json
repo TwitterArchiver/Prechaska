@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1993939550763405403",
+    "created_at": "2025-11-27T07:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993939550763405403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Prechaska/stat…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/Prechaska/status/1993131742316945690",
+          "start": 158,
+          "url": "https://t.co/MqShrH8xkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993939550763405403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993131742316945690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知为何我用阿片类起效非常之慢，尽管psywiki上写口服50min后药效就能上来，但我要再过1h才会感觉到它作为镇静剂的效果，肌肉放松，轻微醉酒样。的确，普瑞和它很像\n这次依旧20mg吗啡，体感与第一次差别不大，看来两周足以恢复相当的耐受。\n前置准备完成，我将于15:10肌肉注射0.5ml（0.2mg）纳洛酮。 https://t.co/MqShrH8xkj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1993939550763405403",
+        "created_at": "2025-11-27T07:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993939550763405403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Prechaska/stat…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Prechaska/status/1993131742316945690",
+              "start": 158,
+              "url": "https://t.co/MqShrH8xkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993939550763405403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993131742316945690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知为何我用阿片类起效非常之慢，尽管psywiki上写口服50min后药效就能上来，但我要再过1h才会感觉到它作为镇静剂的效果，肌肉放松，轻微醉酒样。的确，普瑞和它很像\n这次依旧20mg吗啡，体感与第一次差别不大，看来两周足以恢复相当的耐受。\n前置准备完成，我将于15:10肌肉注射0.5ml（0.2mg）纳洛酮。 https://t.co/MqShrH8xkj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1993131742316945690",
+        "created_at": "2025-11-25T01:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T02:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993131742316945690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993131742316945690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等拿到纳洛酮后，我将测试：\n能否用于缓解阿片类引发的胃肠道问题，如何可以，该如何使用才能发挥这样的效果；\n献祭20mg吗啡体验一把阿片类戒断的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 89,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 737
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

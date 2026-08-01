@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1981330727531958414",
+    "created_at": "2025-10-24T11:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T12:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981684382038659263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819530573779742720",
+          "start": 0,
+          "username": "liyuqing970413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981684382038659263",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981684284168822917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyuqing970413 人们当然可以指责这是软弱而经不起诱惑，但更重要的是，因为他们遭受了创伤并且没有得到合适的救助与对待，导致他们只能一直这样下去。而由这种痛苦所导向的滥用并不能仅仅被归结为个人的软弱。其次，我想现代社会中存在众多结构性问题应该是无可争议的，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1981330727531958414",
+        "created_at": "2025-10-24T11:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981684382038659263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819530573779742720",
+              "start": 0,
+              "username": "liyuqing970413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981684382038659263",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981684284168822917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyuqing970413 人们当然可以指责这是软弱而经不起诱惑，但更重要的是，因为他们遭受了创伤并且没有得到合适的救助与对待，导致他们只能一直这样下去。而由这种痛苦所导向的滥用并不能仅仅被归结为个人的软弱。其次，我想现代社会中存在众多结构性问题应该是无可争议的，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1981330727531958414",
+        "created_at": "2025-10-24T11:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981684284168822917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819530573779742720",
+              "start": 0,
+              "username": "liyuqing970413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981684284168822917",
+        "in_reply_to_user_id": "1819530573779742720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981679723815346182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyuqing970413 啊，所以你也认为不论从前还是现在，因痛苦而选择嗑药的人都是有的，甚至为数不少，但也正是在这个意义上，官方给出了那些评价。那么首先，正如加博马太博士的观察那样，选择嗑药的人相当程度上是有创伤的群体，“谁是那些发展阿片成瘾的人？是那些生活破坏了他们阿片回路的人”，他们做出了这样的选择，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 71,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 382
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T00:28:14.000Z",
+        "description": "Blacked Kafka|很荣幸被黑人开苞&三通|已婚人妻|有女友|双性恋|轻社恐|Sub|♠️BNOW|欢迎大家分享甜甜的QOS/DDLG/le/各类恋爱故事",
+        "id": "1819530573779742720",
+        "name": "blacked_kafka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819548009190858752/O6fep9_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 419,
+          "like_count": 5684,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 2871
+        },
+        "username": "liyuqing970413",
+        "verified": false
+      }
+    ]
+  }
+}

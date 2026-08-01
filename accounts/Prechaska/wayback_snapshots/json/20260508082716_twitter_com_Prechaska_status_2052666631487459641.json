@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2052656301403222270",
+    "created_at": "2026-05-08T08:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052666631487459641"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052666631487459641",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052656301403222270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么跑去看这个了呢，其实本打算试一下右美托咪定助眠，结果搜到了美国消旋体的滥用，果然还是不能频繁使用…比可乐定受体选择性更好半衰期更短效果还强的东西，反跳也会更厉害吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1768,
+        "media_key": "3_2052656271934001152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyAAP6akAAV5Kp.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2052656301403222270",
+        "created_at": "2026-05-08T08:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052666631487459641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052666631487459641",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052656301403222270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么跑去看这个了呢，其实本打算试一下右美托咪定助眠，结果搜到了美国消旋体的滥用，果然还是不能频繁使用…比可乐定受体选择性更好半衰期更短效果还强的东西，反跳也会更厉害吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052656271934001152"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2052656301403222270",
+        "created_at": "2026-05-08T07:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052656301403222270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOxQNSaulc",
+              "end": 151,
+              "expanded_url": "https://x.com/Prechaska/status/2052656301403222270/photo/1",
+              "media_key": "3_2052656271934001152",
+              "start": 128,
+              "url": "https://t.co/SOxQNSaulc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052656301403222270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从美国2025年国家毒品威胁评估报告看美国阿片类，尤其是芬太尼的流行情况：芬太尼依旧为主要滥用阿片，并常伴有高毒性掺杂物。\n\n（24和25年的报告都是在5月发布，或许可以可以期待一下本月发布2026年的报告\n\n附各州向NFLIS提交的前三大毒品类型分布图 https://t.co/SOxQNSaulc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 126,
+          "like_count": 3044,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1606
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

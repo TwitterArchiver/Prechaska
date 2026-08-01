@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1996148690357231887",
+    "created_at": "2025-12-05T02:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996768614138171891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591328081003700224",
+          "start": 0,
+          "username": "kuitiyashva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996768614138171891",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996768570362273916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuitiyashva 帮助他们回归社会不如说更多的是国家的要求，即国家会希望能让吸毒者——这一部分不参与社会劳动又作为社会潜在不安定因素的人员回到正常生活，因为这不仅意味着新劳动力的回归，也消除了一部分不稳定因素，能够间接提高社会幸福度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-05T02:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996768614138171891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591328081003700224",
+              "start": 0,
+              "username": "kuitiyashva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996768614138171891",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996768570362273916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuitiyashva 帮助他们回归社会不如说更多的是国家的要求，即国家会希望能让吸毒者——这一部分不参与社会劳动又作为社会潜在不安定因素的人员回到正常生活，因为这不仅意味着新劳动力的回归，也消除了一部分不稳定因素，能够间接提高社会幸福度。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-05T02:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996768570362273916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591328081003700224",
+              "start": 0,
+              "username": "kuitiyashva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996768570362273916",
+        "in_reply_to_user_id": "1591328081003700224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996734407840092250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuitiyashva 哦，您愿意讨论！那么此处，我的观点是：权利的合法性和正当性是人本身，而不来自于“强大”，后者不具有足够的稳定性无法作为依据的基础，如果弱者不配享有权利那么老人孩子伤残者甚至不拥有人权，而吸毒者作为人自然拥有基本的社会权利。此外，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 93,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 831
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T07:12:55.000Z",
+        "description": "",
+        "id": "1591328081003700224",
+        "location": "CNX",
+        "name": "AgueJuana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990330552776548352/Qroco-S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 288
+        },
+        "username": "kuitiyashva",
+        "verified": false
+      }
+    ]
+  }
+}

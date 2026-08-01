@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1995716418587779347",
+    "created_at": "2025-12-02T07:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T08:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995754182968762620"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995754182968762620",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995721667465637896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥲才发现注射器螺口上有dpt析出，损耗似乎比设想的多。加热了溶液让dpt更多地溶解在生理盐水中，所以最开始只用了0.2ml，之后决定稀释一下结果成混悬液了，遂又加热一次。这样在最终注射前，用注射器排了两次气泡，而每次浓度都很高，这样一并排出（损耗）的dpt也更多，所以最终的用量可能甚至低于30mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1995716418587779347",
+        "created_at": "2025-12-02T07:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T08:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995754182968762620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995754182968762620",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995721667465637896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥲才发现注射器螺口上有dpt析出，损耗似乎比设想的多。加热了溶液让dpt更多地溶解在生理盐水中，所以最开始只用了0.2ml，之后决定稀释一下结果成混悬液了，遂又加热一次。这样在最终注射前，用注射器排了两次气泡，而每次浓度都很高，这样一并排出（损耗）的dpt也更多，所以最终的用量可能甚至低于30mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1995716418587779347",
+        "created_at": "2025-12-02T05:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995721667465637896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995721667465637896",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995719400385601835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个3h来自于我第一次测试时的体验……等等，似乎是2h？准确地说是1h43min……总之在这不到2h的三针中，前两针有强烈的身体反应，第三针有比较明显的视觉变形，到了再过1h的第四针，不论在身体还是幻觉上都没什么特别明显的变化了。所以至少对我而言，2h恐怕是耐受不至于快速建立的补剂量的极限了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 94,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 789
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

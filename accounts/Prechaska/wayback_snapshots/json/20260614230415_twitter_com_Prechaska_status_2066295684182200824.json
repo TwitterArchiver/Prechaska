@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2066292789714080045",
+    "created_at": "2026-06-14T23:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T00:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066295684182200824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066295684182200824",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066292789714080045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是阿片纯粹物理性的舒适，我终于知道该从中期待什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2066292789714080045",
+        "created_at": "2026-06-14T23:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066295684182200824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066295684182200824",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066292789714080045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是阿片纯粹物理性的舒适，我终于知道该从中期待什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2066292789714080045",
+        "created_at": "2026-06-14T22:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066292789714080045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066292789714080045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像是掬起一捧水，水流从手心沿着手臂往下流淌，一直淌到脚趾，然后汇成一个池子，整个人就像尸体那样漂在水面上了，半个身子露出水，半个身子在水里，并随着波浪起伏，就这样摇晃着，水流接触皮肤的地方清凉柔和，最后连呼吸也忘掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 128,
+          "like_count": 3371,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1708
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

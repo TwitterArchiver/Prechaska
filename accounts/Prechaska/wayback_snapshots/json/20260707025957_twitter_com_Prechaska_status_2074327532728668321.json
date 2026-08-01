@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2074327532728668321",
+    "created_at": "2026-07-07T02:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074327532728668321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/freetanyl/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/freetanyl/status/2074310935632654371",
+          "start": 24,
+          "url": "https://t.co/qSzYr3KeS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074327532728668321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074310935632654371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮转，原推主比较急用，有认识的朋友请尽快联系他 https://t.co/qSzYr3KeS0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2074327532728668321",
+        "created_at": "2026-07-07T02:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074327532728668321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/freetanyl/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/freetanyl/status/2074310935632654371",
+              "start": 24,
+              "url": "https://t.co/qSzYr3KeS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074327532728668321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074310935632654371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮转，原推主比较急用，有认识的朋友请尽快联系他 https://t.co/qSzYr3KeS0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106987880566513664",
+        "conversation_id": "2074310935632654371",
+        "created_at": "2026-07-07T01:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074310935632654371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074310935632654371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海的药商谁知道 dm一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 157,
+          "like_count": 3734,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1783
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T18:37:32.000Z",
+        "description": "End the war on drugs！药物文化研究，成瘾问题咨询和支持，匿名DM。安全用药知识，减害信息！药物是欲望的公式，政治是最泛化的药。药物与现代音乐历史，身体政治与情欲痴迷！",
+        "id": "1106987880566513664",
+        "location": "Nowhere",
+        "name": "Freetanyl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074311816952311808/3H0RQJnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "Freetanyl",
+        "verified": false
+      }
+    ]
+  }
+}

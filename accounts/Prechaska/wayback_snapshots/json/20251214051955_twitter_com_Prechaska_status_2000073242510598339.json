@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000073226161152000"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2000073242510598339",
+    "created_at": "2025-12-14T05:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000073242510598339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kNH5t7Lfvk",
+          "end": 47,
+          "expanded_url": "https://x.com/Prechaska/status/2000073242510598339/photo/1",
+          "media_key": "3_2000073226161152000",
+          "start": 24,
+          "url": "https://t.co/kNH5t7Lfvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000073242510598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "150mg安非他酮（看着好少）主包止步于此了🥲 https://t.co/kNH5t7Lfvk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000073226161152000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GwAJoa4AAKu36.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000073226161152000"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2000073242510598339",
+        "created_at": "2025-12-14T05:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000073242510598339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNH5t7Lfvk",
+              "end": 47,
+              "expanded_url": "https://x.com/Prechaska/status/2000073242510598339/photo/1",
+              "media_key": "3_2000073226161152000",
+              "start": 24,
+              "url": "https://t.co/kNH5t7Lfvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000073242510598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "150mg安非他酮（看着好少）主包止步于此了🥲 https://t.co/kNH5t7Lfvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 93,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 931
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

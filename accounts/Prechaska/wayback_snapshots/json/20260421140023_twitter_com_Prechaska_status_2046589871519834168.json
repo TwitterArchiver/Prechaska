@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2046589871519834168",
+    "created_at": "2026-04-21T14:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046589871519834168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046589871519834168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这绝不是个好时候，就算想彻底放飞自我好时机也已经过去了……第一次停普瑞一个月的遗产如今还剩什么？两周前的od重置了一切，再次让药物成为唯一重要的，而这感觉那么好，那么好……我爱这一切，我现在就想要，再也不用考虑耐受或是情绪稳定性的事，不是再等两周、一周、三天，而是现在，就现在……！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2046589871519834168",
+        "created_at": "2026-04-21T14:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046589871519834168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046589871519834168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这绝不是个好时候，就算想彻底放飞自我好时机也已经过去了……第一次停普瑞一个月的遗产如今还剩什么？两周前的od重置了一切，再次让药物成为唯一重要的，而这感觉那么好，那么好……我爱这一切，我现在就想要，再也不用考虑耐受或是情绪稳定性的事，不是再等两周、一周、三天，而是现在，就现在……！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 122,
+          "like_count": 2669,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1496
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

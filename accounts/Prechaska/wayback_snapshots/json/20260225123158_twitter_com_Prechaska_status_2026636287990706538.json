@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2026180957678821647",
+    "created_at": "2026-02-25T12:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026636287990706538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1969051788453003265",
+          "start": 0,
+          "username": "Reedmist_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026636287990706538",
+    "in_reply_to_user_id": "1969051788453003265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026531785786491351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reedmist_ 现在我知道谁是真正的主人了普瑞巴林😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2026180957678821647",
+        "created_at": "2026-02-25T12:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026636287990706538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1969051788453003265",
+              "start": 0,
+              "username": "Reedmist_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026636287990706538",
+        "in_reply_to_user_id": "1969051788453003265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026531785786491351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reedmist_ 现在我知道谁是真正的主人了普瑞巴林😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969051788453003265",
+        "conversation_id": "2026180957678821647",
+        "created_at": "2026-02-25T05:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026531785786491351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026531785786491351",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026180957678821647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 120,
+          "like_count": 2343,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1431
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T14:52:18.000Z",
+        "description": "は林彪に重度に依存しています... ｜もし私が長い間（少なくとも 1 か月間）オンラインになっておらず、X に投稿も返信も何もしていなかったら、私は死んでいる可能性が高いです。",
+        "id": "1969051788453003265",
+        "location": "北京 西城区 毛家湾",
+        "name": "Reedmist",
+        "pinned_tweet_id": "1972972208126664843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986072217172512768/8rNPD6Mt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 77,
+          "like_count": 20076,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 4140
+        },
+        "username": "Reedmist_",
+        "verified": false
+      }
+    ]
+  }
+}

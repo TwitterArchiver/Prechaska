@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2073002115988136328",
+    "created_at": "2026-07-03T14:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073053924987396389"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073053924987396389",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073002115988136328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "饶了我罢思诺思😭记忆基本全部没了，经常容易因为药效被击昏就变成一个一个一切片，混在Nakiiii8哟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073002113173803008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTIcE5b0AAkRty.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1294,
+        "media_key": "3_2073002112959840256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTIcEGbAAA6i_W.jpg",
+        "width": 1294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2073002115988136328",
+        "created_at": "2026-07-03T14:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073053924987396389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073053924987396389",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073002115988136328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "饶了我罢思诺思😭记忆基本全部没了，经常容易因为药效被击昏就变成一个一个一切片，混在Nakiiii8哟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073002113173803008",
+            "3_2073002112959840256"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2073002115988136328",
+        "created_at": "2026-07-03T11:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073002115988136328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bIYDf5oWb",
+              "end": 86,
+              "expanded_url": "https://x.com/Prechaska/status/2073002115988136328/photo/1",
+              "media_key": "3_2073002113173803008",
+              "start": 63,
+              "url": "https://t.co/7bIYDf5oWb"
+            },
+            {
+              "display_url": "pic.x.com/7bIYDf5oWb",
+              "end": 86,
+              "expanded_url": "https://x.com/Prechaska/status/2073002115988136328/photo/1",
+              "media_key": "3_2073002112959840256",
+              "start": 63,
+              "url": "https://t.co/7bIYDf5oWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073002115988136328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 495,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴喷丁+普瑞+加了杨梅味电解质粉的金汤力（但没有冰块😭😭）+思诺思（两小时后\n主包将会度过一个美好的夜晚，欢迎来找我玩🥺！ https://t.co/7bIYDf5oWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 147,
+          "like_count": 3625,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1763
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

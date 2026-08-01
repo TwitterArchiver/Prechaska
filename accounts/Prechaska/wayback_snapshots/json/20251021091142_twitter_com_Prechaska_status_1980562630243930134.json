@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1980561396493611476",
+    "created_at": "2025-10-21T09:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T10:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980562630243930134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980562630243930134",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980561396493611476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主包每天就在看这😅 找工作哇我求你去找工作哇😭👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1980561396493611476",
+        "created_at": "2025-10-21T09:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980562630243930134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980562630243930134",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980561396493611476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主包每天就在看这😅 找工作哇我求你去找工作哇😭👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1980561396493611476",
+        "created_at": "2025-10-21T09:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980561396493611476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ibis_journal/s…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/ibis_journal/status/1980500651516764595",
+              "start": 130,
+              "url": "https://t.co/eKhscEWssw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980561396493611476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980500651516764595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看不懂！但似乎表明目前的城市化进程就足以使城市中生活的大山雀在羽色上产生与农村的种群不同的、具有遗传基础的差异——前者羽色比后者更加暗淡，尤其是城市中的雄鸟反而羽色暗淡的在繁殖成功率上比羽色鲜艳的更高，并且，羽色的变化在其产卵策略及后代成活率上也产生了差异。 https://t.co/eKhscEWssw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 69,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 353
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

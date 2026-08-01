@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1997065152588665028",
+    "created_at": "2025-12-05T22:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T23:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997065152588665028"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "Marbled Murrelet",
+          "probability": 0.4436,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "188444270",
+          "start": 3,
+          "username": "ABCbirds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997065152588665028",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997023291395940498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ABCbirds: 🌳🌊 Meet the Marbled Murrelet — the seabird that nests in trees!\n\nThis “Elevated Auk” flies up to 55 miles inland to nest in o…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43410,
+        "height": 1080,
+        "media_key": "7_1997023187037532160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997023187037532160/pu/img/oqhb74LHbbd0G8NH.jpg",
+        "public_metrics": {
+          "view_count": 101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997023187037532160/pu/vid/avc1/480x270/ElnAvit9bTDk0Blt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997023187037532160/pu/vid/avc1/640x360/9aBuIJXOh6QV2yk0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997023187037532160/pu/vid/avc1/1280x720/6lMrFo7ZM14uemZ_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997023187037532160/pu/pl/Glxn4yREK9W_uAz0.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1997065152588665028",
+        "created_at": "2025-12-05T22:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T23:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997065152588665028"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Marbled Murrelet",
+              "probability": 0.4436,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "188444270",
+              "start": 3,
+              "username": "ABCbirds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997065152588665028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997023291395940498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ABCbirds: 🌳🌊 Meet the Marbled Murrelet — the seabird that nests in trees!\n\nThis “Elevated Auk” flies up to 55 miles inland to nest in o…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997023187037532160"
+          ]
+        },
+        "author_id": "188444270",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          }
+        ],
+        "conversation_id": "1997023291395940498",
+        "created_at": "2025-12-05T19:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T20:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997023291395940498"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Marbled Murrelet",
+              "probability": 0.4977,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The Marbled Murrelet faces many of the threats that endanger all seabirds, but the loss of its old-growth forest nesting habitat is unique among seabirds.",
+              "display_url": "bit.ly/3MfBonW",
+              "end": 269,
+              "expanded_url": "https://bit.ly/3MfBonW",
+              "start": 246,
+              "status": 200,
+              "title": "Marbled Murrelet - American Bird Conservancy",
+              "unwound_url": "https://abcbirds.org/birds/marbled-murrelet/",
+              "url": "https://t.co/vv8ftX1iB5"
+            },
+            {
+              "display_url": "pic.x.com/R8FzkkUh1y",
+              "end": 293,
+              "expanded_url": "https://x.com/ABCbirds/status/1997023291395940498/video/1",
+              "media_key": "7_1997023187037532160",
+              "start": 270,
+              "url": "https://t.co/R8FzkkUh1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997023291395940498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 272,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🌳🌊 Meet the Marbled Murrelet — the seabird that nests in trees!\n\nThis “Elevated Auk” flies up to 55 miles inland to nest in old-growth treetops.\nEndangered due to habitat loss, oil spills, bycatch, and predators.\n\nLearn more in our bird library:\nhttps://t.co/vv8ftX1iB5 https://t.co/R8FzkkUh1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 94,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 855
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T19:06:18.000Z",
+        "description": "🪶 Conserving wild birds and their habitats throughout the Americas.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abcbirds.org",
+                "end": 23,
+                "expanded_url": "http://abcbirds.org",
+                "start": 0,
+                "url": "https://t.co/cSw15Tg4eL"
+              }
+            ]
+          }
+        },
+        "id": "188444270",
+        "location": "Washington, DC",
+        "name": "American Bird Conservancy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851322685814685697/qiWMDshr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77897,
+          "following_count": 4702,
+          "like_count": 20028,
+          "listed_count": 754,
+          "media_count": 7913,
+          "tweet_count": 19434
+        },
+        "url": "https://t.co/cSw15Tg4eL",
+        "username": "ABCbirds",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2000773935357682067",
+    "created_at": "2025-12-16T05:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000795049546879296"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000795049546879296",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000793458848751712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整体看来就是一个“试图做出最恰当的比喻”，但发现当前的视野还可以拉近、拉近，以为最为终结的原子大小同样是可以被……等等，这样的话，整个宇宙是怎么从无到有诞生的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2000773935357682067",
+        "created_at": "2025-12-16T05:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000795049546879296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000795049546879296",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000793458848751712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整体看来就是一个“试图做出最恰当的比喻”，但发现当前的视野还可以拉近、拉近，以为最为终结的原子大小同样是可以被……等等，这样的话，整个宇宙是怎么从无到有诞生的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2000773935357682067",
+        "created_at": "2025-12-16T05:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000793458848751712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000793458848751712",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000792600639627576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样，我也将每一次地对自己的幻觉进行观察，等到我掌握了关于它的一切知识时，那时或许我就厌倦了。只是这“一切知识”在这里能穷尽吗，我能够了解到dpt给予的幻觉的一切真相吗，还是说这也是一个只能逼近1却无法到达的过程？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 91,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 978
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

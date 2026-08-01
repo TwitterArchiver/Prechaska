@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1979547521375776828",
+    "created_at": "2025-10-18T13:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T14:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979547521375776828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Prechaska/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Prechaska/status/1979546439543148712",
+          "start": 56,
+          "url": "https://t.co/SBxGm79fQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979547521375776828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979546439543148712",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么，眼睛不太好的朋友们请谨慎使用能够引起高血压的物质吧！尤其不要选择鼻吸！毕竟我们都不想成为高度近视和瞎子🥺 https://t.co/SBxGm79fQd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1979547521375776828",
+        "created_at": "2025-10-18T13:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979547521375776828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Prechaska/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Prechaska/status/1979546439543148712",
+              "start": 56,
+              "url": "https://t.co/SBxGm79fQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979547521375776828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979546439543148712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么，眼睛不太好的朋友们请谨慎使用能够引起高血压的物质吧！尤其不要选择鼻吸！毕竟我们都不想成为高度近视和瞎子🥺 https://t.co/SBxGm79fQd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1979195370380104033",
+        "created_at": "2025-10-18T13:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979546439543148712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979546439543148712",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979195672726507753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（3/?）关于高血压——由于NE可以激活α1受体，引起血管平滑肌收缩进而升高血压，而中高浓度的DA也可能激活α1受体，且DA作为NE前体，某些情况下还可转化为NE，由此二者可以导致血管收缩、高血压。而血管收缩与高血压能够损害视网膜血管，使得视网膜供血不足，甚至视网膜血管破裂出血，引发视力下降。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 61,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 321
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

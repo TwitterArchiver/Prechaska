@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980921640989974528"
+      ],
+      "media_source_tweet_id": [
+        "1980921644349870206"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1981273759438024846",
+    "created_at": "2025-10-23T08:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T09:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981273759438024846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1272405078683430913",
+          "start": 3,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 74,
+          "id": "1743637177630601216",
+          "start": 62,
+          "username": "zhngl180356"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvzTCEKuFd",
+          "end": 109,
+          "expanded_url": "https://x.com/PaitangOfficial/status/1980921644349870206/photo/1",
+          "media_key": "3_1980921640989974528",
+          "start": 86,
+          "url": "https://t.co/rvzTCEKuFd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981273759438024846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980921644349870206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaitangOfficial: 这次我们抽10人！！祝大家好运～ \n【转发+关注】\n抽10人送10仙人掌\n\n中奖找@zhngl180356发送地址以及领取单号！ https://t.co/rvzTCEKuFd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1143,
+        "media_key": "3_1980921640989974528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32lvLMXYAAfJJJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980921640989974528"
+          ],
+          "media_source_tweet_id": [
+            "1980921644349870206"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1981273759438024846",
+        "created_at": "2025-10-23T08:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T09:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981273759438024846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1272405078683430913",
+              "start": 3,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 74,
+              "id": "1743637177630601216",
+              "start": 62,
+              "username": "zhngl180356"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvzTCEKuFd",
+              "end": 109,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1980921644349870206/photo/1",
+              "media_key": "3_1980921640989974528",
+              "start": 86,
+              "url": "https://t.co/rvzTCEKuFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981273759438024846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980921644349870206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaitangOfficial: 这次我们抽10人！！祝大家好运～ \n【转发+关注】\n抽10人送10仙人掌\n\n中奖找@zhngl180356发送地址以及领取单号！ https://t.co/rvzTCEKuFd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980921640989974528"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "1980921644349870206",
+        "created_at": "2025-10-22T08:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980921644349870206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1743637177630601216",
+              "start": 41,
+              "username": "zhngl180356"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvzTCEKuFd",
+              "end": 88,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1980921644349870206/photo/1",
+              "media_key": "3_1980921640989974528",
+              "start": 65,
+              "url": "https://t.co/rvzTCEKuFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980921644349870206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8536,
+          "like_count": 72,
+          "quote_count": 10,
+          "reply_count": 46,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "这次我们抽10人！！祝大家好运～ \n【转发+关注】\n抽10人送10仙人掌\n\n中奖找@zhngl180356发送地址以及领取单号！ https://t.co/rvzTCEKuFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 71,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 361
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1980887590195859503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967686157631987712/DUjlsOQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9665,
+          "following_count": 541,
+          "like_count": 7735,
+          "listed_count": 26,
+          "media_count": 1611,
+          "tweet_count": 13443
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-06T14:15:01.000Z",
+        "description": "肌肥大训练两年|体脂管理｜生物黑客｜合理使用药物｜互帮互助｜劳二次元｜性取向正常｜180cm/85kg",
+        "id": "1743637177630601216",
+        "location": "西伯利亚挖红薯",
+        "name": "☯️🧬大型神经元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859532769594048512/bwdC5h00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 70,
+          "like_count": 335,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 206
+        },
+        "username": "zhngl180356",
+        "verified": false
+      }
+    ]
+  }
+}

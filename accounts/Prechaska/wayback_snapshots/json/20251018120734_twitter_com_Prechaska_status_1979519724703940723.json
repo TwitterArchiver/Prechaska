@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1979519724703940723",
+    "created_at": "2025-10-18T12:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T13:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979519724703940723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979519724703940723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脑袋、肩膀向外辐射出类似pea起效时的微麻，尤其是脑子和手臂感受强烈，依旧像波浪冲刷身体那样一波一波的刺激感，四肢乏力，腿软，无法正常行走，不如说每迈出一步以上症状就会出现，要不是距离上次吃pea已经有几天了……\n所以，这个故事告诉我们——情绪上来的时候可以达到比较低效的od效果🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1979519724703940723",
+        "created_at": "2025-10-18T12:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979519724703940723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979519724703940723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑袋、肩膀向外辐射出类似pea起效时的微麻，尤其是脑子和手臂感受强烈，依旧像波浪冲刷身体那样一波一波的刺激感，四肢乏力，腿软，无法正常行走，不如说每迈出一步以上症状就会出现，要不是距离上次吃pea已经有几天了……\n所以，这个故事告诉我们——情绪上来的时候可以达到比较低效的od效果🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 61,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 318
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

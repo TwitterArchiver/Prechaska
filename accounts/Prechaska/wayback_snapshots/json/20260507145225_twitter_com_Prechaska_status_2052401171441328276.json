@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2052396441704997180",
+    "created_at": "2026-05-07T14:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052401171441328276"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052401171441328276",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052398926008086752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "直到现在才发现许久前读到的一切在此处交汇了，一切都刚刚好，在这个位置上被领悟到，没有od就没有对这个社群的接触没有与人的交往，就没有对自己可能状态的发现，就没有如此真切的疼痛，只有这一切后才能够发现敞开真正的价值（说真的苯巴比妥功不可没啊天知道前额叶免费了有多爽（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2052396441704997180",
+        "created_at": "2026-05-07T14:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052401171441328276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052401171441328276",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052398926008086752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直到现在才发现许久前读到的一切在此处交汇了，一切都刚刚好，在这个位置上被领悟到，没有od就没有对这个社群的接触没有与人的交往，就没有对自己可能状态的发现，就没有如此真切的疼痛，只有这一切后才能够发现敞开真正的价值（说真的苯巴比妥功不可没啊天知道前额叶免费了有多爽（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2052396441704997180",
+        "created_at": "2026-05-07T14:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052398926008086752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052398926008086752",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052396441704997180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是时候承认主体的有限性了，承认自己有时无能为力，把无限还给真正的无限者。于是对这种倾向的一种批判最终走向了爱的概念与神学。此处爱要求敞开，要求向他者开放，首先要冒着一切不可控性将自己给予他人，因为爱无法来自于自身，而他人并非主体所能控制，那么爱首先伴随着风险，且只此才能够接近爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 126,
+          "like_count": 3035,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1603
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

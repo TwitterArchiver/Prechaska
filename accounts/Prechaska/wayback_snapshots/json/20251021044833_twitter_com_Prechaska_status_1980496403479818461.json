@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980496389160210432"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1980496403479818461",
+    "created_at": "2025-10-21T04:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T05:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980496403479818461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fufQXFqQIu",
+          "end": 223,
+          "expanded_url": "https://x.com/Prechaska/status/1980496403479818461/photo/1",
+          "media_key": "3_1980496389160210432",
+          "start": 200,
+          "url": "https://t.co/fufQXFqQIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980496403479818461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来那两条基本原则——只要未危害他人，个人不应被强制使用精神药物；只要未因此伤害他人，个人不应被禁止使用精神药物或因此被定罪——的出处是这儿：\nSententia, W. (2004). Neuroethical considerations: cognitive liberty and converging technologies for improving human cognition. https://t.co/fufQXFqQIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 641,
+        "media_key": "3_1980496389160210432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wi-QrWkAAopye.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980496389160210432"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1980496403479818461",
+        "created_at": "2025-10-21T04:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980496403479818461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fufQXFqQIu",
+              "end": 223,
+              "expanded_url": "https://x.com/Prechaska/status/1980496403479818461/photo/1",
+              "media_key": "3_1980496389160210432",
+              "start": 200,
+              "url": "https://t.co/fufQXFqQIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980496403479818461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来那两条基本原则——只要未危害他人，个人不应被强制使用精神药物；只要未因此伤害他人，个人不应被禁止使用精神药物或因此被定罪——的出处是这儿：\nSententia, W. (2004). Neuroethical considerations: cognitive liberty and converging technologies for improving human cognition. https://t.co/fufQXFqQIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 69,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 348
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1986459614293164479",
+    "created_at": "2025-11-06T16:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T17:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986475964902388042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873046796530020352",
+          "start": 0,
+          "username": "FqQfw35764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986475964902388042",
+    "in_reply_to_user_id": "1873046796530020352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986473338026242464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FqQfw35764 嗯……不知道是不是梯子的问题，gemini总显示我所在的地区不支持使用，含恨退场(⁠ ⁠；⁠∀⁠；⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1986459614293164479",
+        "created_at": "2025-11-06T16:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986475964902388042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873046796530020352",
+              "start": 0,
+              "username": "FqQfw35764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986475964902388042",
+        "in_reply_to_user_id": "1873046796530020352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986473338026242464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FqQfw35764 嗯……不知道是不是梯子的问题，gemini总显示我所在的地区不支持使用，含恨退场(⁠ ⁠；⁠∀⁠；⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873046796530020352",
+        "conversation_id": "1986459614293164479",
+        "created_at": "2025-11-06T16:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986473338026242464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986473338026242464",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986459614293164479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska gemini 2.5pro极其好玩我之前闲鱼18r买的账号玩到要行为成瘾，已经彻底抛弃gpt太说教太爹，每个人都要试试gemini 🥺 惊喜十足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 78,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 450
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T16:42:31.000Z",
+        "description": "新的小小号😵‍💫",
+        "id": "1873046796530020352",
+        "name": "西泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873070626346549248/jC1XoKAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 162,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "FqQfw35764",
+        "verified": false
+      }
+    ]
+  }
+}

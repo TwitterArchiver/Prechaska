@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017398846008299520",
+        "3_2017398846314450947"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2017398849409786326",
+    "created_at": "2026-01-31T00:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T01:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017398849409786326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfLdamDuKz",
+          "end": 27,
+          "expanded_url": "https://x.com/Prechaska/status/2017398849409786326/photo/1",
+          "media_key": "3_2017398846008299520",
+          "start": 4,
+          "url": "https://t.co/pfLdamDuKz"
+        },
+        {
+          "display_url": "pic.x.com/pfLdamDuKz",
+          "end": 27,
+          "expanded_url": "https://x.com/Prechaska/status/2017398849409786326/photo/1",
+          "media_key": "3_2017398846314450947",
+          "start": 4,
+          "url": "https://t.co/pfLdamDuKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017398849409786326",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "じーっ https://t.co/pfLdamDuKz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2017398846008299520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_89j9KbkAA9yGM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2017398846314450947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_89j-TbEAMHvYg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017398846008299520",
+            "3_2017398846314450947"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017398849409786326",
+        "created_at": "2026-01-31T00:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017398849409786326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfLdamDuKz",
+              "end": 27,
+              "expanded_url": "https://x.com/Prechaska/status/2017398849409786326/photo/1",
+              "media_key": "3_2017398846008299520",
+              "start": 4,
+              "url": "https://t.co/pfLdamDuKz"
+            },
+            {
+              "display_url": "pic.x.com/pfLdamDuKz",
+              "end": 27,
+              "expanded_url": "https://x.com/Prechaska/status/2017398849409786326/photo/1",
+              "media_key": "3_2017398846314450947",
+              "start": 4,
+              "url": "https://t.co/pfLdamDuKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017398849409786326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "じーっ https://t.co/pfLdamDuKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 114,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1261
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

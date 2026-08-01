@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081348586319859712"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2081348655668441338",
+    "created_at": "2026-07-26T11:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081348655668441338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RaN4FiqXnm",
+          "end": 165,
+          "expanded_url": "https://x.com/Prechaska/status/2081348655668441338/photo/1",
+          "media_key": "3_2081348586319859712",
+          "start": 142,
+          "url": "https://t.co/RaN4FiqXnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081348655668441338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想到教堂里没有监控，人少的时候似乎也不是不能偷偷吸（，于是回想起吗啡里的这一幕：吗啡成瘾的医生从精神病院逃出来，躲在教堂里扎了一针，有神父来为他祝福，神圣与堕落的交汇之处。电影改编自布尔加科夫的同名短篇小说吗啡，这部的主角或许是“医生瘾君子”最早最经典的形象，“Dr. Junky” https://t.co/RaN4FiqXnm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2081348586319859712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJvgwVbUAAMrVn.jpg",
+        "width": 1995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081348586319859712"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2081348655668441338",
+        "created_at": "2026-07-26T11:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081348655668441338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaN4FiqXnm",
+              "end": 165,
+              "expanded_url": "https://x.com/Prechaska/status/2081348655668441338/photo/1",
+              "media_key": "3_2081348586319859712",
+              "start": 142,
+              "url": "https://t.co/RaN4FiqXnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081348655668441338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到教堂里没有监控，人少的时候似乎也不是不能偷偷吸（，于是回想起吗啡里的这一幕：吗啡成瘾的医生从精神病院逃出来，躲在教堂里扎了一针，有神父来为他祝福，神圣与堕落的交汇之处。电影改编自布尔加科夫的同名短篇小说吗啡，这部的主角或许是“医生瘾君子”最早最经典的形象，“Dr. Junky” https://t.co/RaN4FiqXnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 164,
+          "like_count": 4378,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1957
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

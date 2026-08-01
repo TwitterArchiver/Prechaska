@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2041717742152429843",
+    "created_at": "2026-04-10T08:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042513114605011315"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042513114605011315",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042508855423439123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而之后又该如何生活呢，我的位置又在哪里？我真不想变成现在这个样子，我想吸毒，妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2041717742152429843",
+        "created_at": "2026-04-10T08:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042513114605011315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042513114605011315",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042508855423439123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而之后又该如何生活呢，我的位置又在哪里？我真不想变成现在这个样子，我想吸毒，妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2041717742152429843",
+        "created_at": "2026-04-10T07:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042508855423439123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042508855423439123",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042494455421551003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "期间经历了疼得想死的几十个小时，尽管问医生要了很多次止痛药，但阿片自然是不会给的，其他的也没给，牢中真的存在疼痛管理吗？医生甚至开始质问我哪儿搞的普瑞巴林把自己吃到横纹肌溶解（。活着真的很痛，也不知道以后会怎样\n输液和频繁抽血还损害了我的静脉，我特意保留的静脉资源啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 118,
+          "like_count": 2529,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1468
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

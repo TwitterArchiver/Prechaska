@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1979866446198096207",
+    "created_at": "2025-10-20T04:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T05:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980131383701066061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980131383701066061",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979866446198096207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 啊这个好帅气🥺……想被它撕开吃掉，不再做人类"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1979866407740305408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nmAhAW8AAYh8V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1979866442586521600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nmCi0WAAAO6vT.jpg",
+        "width": 848
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1979866364375339008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nl9_dWEAAXSKH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1979866446198096207",
+        "created_at": "2025-10-20T04:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T05:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980131383701066061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980131383701066061",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979866446198096207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 啊这个好帅气🥺……想被它撕开吃掉，不再做人类"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979866407740305408",
+            "3_1979866442586521600",
+            "3_1979866364375339008"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "conversation_id": "1979866446198096207",
+        "created_at": "2025-10-19T11:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979866446198096207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZ2eftVOzN",
+              "end": 27,
+              "expanded_url": "https://x.com/qngshu988723424/status/1979866446198096207/photo/1",
+              "media_key": "3_1979866407740305408",
+              "start": 4,
+              "url": "https://t.co/OZ2eftVOzN"
+            },
+            {
+              "display_url": "pic.x.com/OZ2eftVOzN",
+              "end": 27,
+              "expanded_url": "https://x.com/qngshu988723424/status/1979866446198096207/photo/1",
+              "media_key": "3_1979866442586521600",
+              "start": 4,
+              "url": "https://t.co/OZ2eftVOzN"
+            },
+            {
+              "display_url": "pic.x.com/OZ2eftVOzN",
+              "end": 27,
+              "expanded_url": "https://x.com/qngshu988723424/status/1979866446198096207/photo/1",
+              "media_key": "3_1979866364375339008",
+              "start": 4,
+              "url": "https://t.co/OZ2eftVOzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979866446198096207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/OZ2eftVOzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 65,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 333
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "和鸟每天抢吃的。\n匿名箱https://t.co/Zk9zfZ9hhM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pome.vip/rotaka",
+                "end": 35,
+                "expanded_url": "https://pome.vip/rotaka",
+                "start": 12,
+                "url": "https://t.co/Zk9zfZ9hhM"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "1940443442192298200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968860278877241344/_1PHGlWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 323,
+          "like_count": 3258,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 4137
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

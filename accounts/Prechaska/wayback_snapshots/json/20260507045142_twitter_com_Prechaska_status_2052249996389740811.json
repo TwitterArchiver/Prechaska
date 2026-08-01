@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052175955834372096"
+      ],
+      "media_source_tweet_id": [
+        "2052176672489980269"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2052249996389740811",
+    "created_at": "2026-05-07T04:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052249996389740811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "144194374",
+          "start": 3,
+          "username": "ako_y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RqD6dcIZev",
+          "end": 111,
+          "expanded_url": "https://x.com/ako_y/status/2052176672489980269/video/1",
+          "media_key": "13_2052175955834372096",
+          "start": 88,
+          "url": "https://t.co/RqD6dcIZev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052249996389740811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052176672489980269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ako_y: 昨日の三きょうだいの続きです。可愛い姿をたくさんみせてくれたので、しばらく続きます☺️\nかなり望遠のため画面がゆらゆら揺れてます。酔わないでくださいね🥲 https://t.co/RqD6dcIZev"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21037,
+        "height": 480,
+        "media_key": "13_2052175955834372096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052175955834372096/img/t0HXcZt17JGh40-l.jpg",
+        "public_metrics": {
+          "view_count": 975
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052175955834372096/vid/avc1/480x270/1tfiJrrLGXhNqrZH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052175955834372096/vid/avc1/640x360/8MpODuqOGx-jON0i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052175955834372096/vid/avc1/854x480/crUACiu_mPxDv2ja.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052175955834372096/pl/boj4sC0GD-QtQv5o.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052175955834372096"
+          ],
+          "media_source_tweet_id": [
+            "2052176672489980269"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2052249996389740811",
+        "created_at": "2026-05-07T04:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052249996389740811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "144194374",
+              "start": 3,
+              "username": "ako_y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqD6dcIZev",
+              "end": 111,
+              "expanded_url": "https://x.com/ako_y/status/2052176672489980269/video/1",
+              "media_key": "13_2052175955834372096",
+              "start": 88,
+              "url": "https://t.co/RqD6dcIZev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052249996389740811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052176672489980269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ako_y: 昨日の三きょうだいの続きです。可愛い姿をたくさんみせてくれたので、しばらく続きます☺️\nかなり望遠のため画面がゆらゆら揺れてます。酔わないでくださいね🥲 https://t.co/RqD6dcIZev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052175955834372096"
+          ]
+        },
+        "author_id": "144194374",
+        "conversation_id": "2052176672489980269",
+        "created_at": "2026-05-07T00:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052176672489980269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqD6dcIZev",
+              "end": 100,
+              "expanded_url": "https://x.com/ako_y/status/2052176672489980269/video/1",
+              "media_key": "13_2052175955834372096",
+              "start": 77,
+              "url": "https://t.co/RqD6dcIZev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052176672489980269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2052,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "昨日の三きょうだいの続きです。可愛い姿をたくさんみせてくれたので、しばらく続きます☺️\nかなり望遠のため画面がゆらゆら揺れてます。酔わないでくださいね🥲 https://t.co/RqD6dcIZev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 126,
+          "like_count": 3026,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1595
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-15T15:29:29.000Z",
+        "description": "大阪市内でフリーのグラフィックデザイナーしてます。主にエディトリアルデザイン。野鳥が大好きです。特にすずめを愛しています。混沌とした懐の深いインドも大好きです。昨年（2025年）になってTHE ALFEEに沼落ち。",
+        "id": "144194374",
+        "name": "やひろあこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650122657990590465/SgA4dkSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2645,
+          "following_count": 479,
+          "like_count": 17382,
+          "listed_count": 61,
+          "media_count": 1332,
+          "tweet_count": 7142
+        },
+        "url": "",
+        "username": "ako_y",
+        "verified": false
+      }
+    ]
+  }
+}

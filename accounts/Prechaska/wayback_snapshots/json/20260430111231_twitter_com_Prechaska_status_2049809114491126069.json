@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2049809114491126069",
+    "created_at": "2026-04-30T11:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049809114491126069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/prechaska/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/prechaska/status/2049466901995438310",
+          "start": 23,
+          "url": "https://t.co/1nIlMfDgnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049809114491126069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049466901995438310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苯巴比妥1.9mg/kg，药效好像就是睡觉（ https://t.co/1nIlMfDgnJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2049809114491126069",
+        "created_at": "2026-04-30T11:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049809114491126069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/prechaska/status/2049466901995438310",
+              "start": 23,
+              "url": "https://t.co/1nIlMfDgnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049809114491126069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049466901995438310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苯巴比妥1.9mg/kg，药效好像就是睡觉（ https://t.co/1nIlMfDgnJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2049466901995438310",
+        "created_at": "2026-04-29T12:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049466901995438310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049466901995438310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次的OD和昏迷肯定多少对脑子产生了点损害，尽管没有完全变成脑残，但有些方面的功能表现在主观感觉上比之前更糟糕了，神经系统稳态肯定也被重调了，打算用点吗氯贝胺/反苯环丙胺看能不能解决动机和快感缺失的问题。\n以及……要不要今晚试试苯巴比妥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 121,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1537
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

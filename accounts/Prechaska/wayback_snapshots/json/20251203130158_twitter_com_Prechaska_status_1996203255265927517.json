@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1996196800827642289",
+    "created_at": "2025-12-03T13:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996203255265927517"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996203255265927517",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996202009918427345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然也可以把自己隐藏在正常人中，但那毕竟是正常人的世界，而我们是异常，那么只要还想寻求接纳和包容，就必然要再回到这个世界中，因为只有同样异常的人才能够没有负担和隐藏地向彼此敞开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996196800827642289",
+        "created_at": "2025-12-03T13:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996203255265927517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996203255265927517",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996202009918427345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然也可以把自己隐藏在正常人中，但那毕竟是正常人的世界，而我们是异常，那么只要还想寻求接纳和包容，就必然要再回到这个世界中，因为只有同样异常的人才能够没有负担和隐藏地向彼此敞开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996196800827642289",
+        "created_at": "2025-12-03T12:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996202009918427345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996202009918427345",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996196800827642289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是从此自己的立场就变了，只要还想继续od，那么立场就必然会和吸毒者站在一起，和普通人的不再一样了，并且是站在了他们的对立面。而这种对立的立场最终就产生了身份的认同，对吸毒的身份的认同。就像精神病和正常人的对立一样，迫使着不接受“正常”的标准的人只能选择以与其对立的身份作为自己的认同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 93,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 807
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

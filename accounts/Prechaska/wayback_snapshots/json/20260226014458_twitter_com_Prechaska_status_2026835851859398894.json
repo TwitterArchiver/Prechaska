@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2026835851859398894",
+    "created_at": "2026-02-26T01:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026835851859398894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Prechaska/stat…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/Prechaska/status/2025854264866931061",
+          "start": 79,
+          "url": "https://t.co/3TVaAsfcrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026835851859398894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025854264866931061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么叫我眼睛没问题视力下降和SSRI以及其他药物没有关系只是我眼镜度数不合适了，您真的觉得稳定了那么多年的视力就这半年突然暴跌只是因为我看电子产品太多了？😃 https://t.co/3TVaAsfcrG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2026835851859398894",
+        "created_at": "2026-02-26T01:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026835851859398894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Prechaska/stat…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/Prechaska/status/2025854264866931061",
+              "start": 79,
+              "url": "https://t.co/3TVaAsfcrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026835851859398894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025854264866931061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫我眼睛没问题视力下降和SSRI以及其他药物没有关系只是我眼镜度数不合适了，您真的觉得稳定了那么多年的视力就这半年突然暴跌只是因为我看电子产品太多了？😃 https://t.co/3TVaAsfcrG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2025854264866931061",
+        "created_at": "2026-02-23T08:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025854264866931061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025854264866931061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o了半年裸眼视物清晰的距离少了至少10cm（已成为滥用最大阻碍！），有点吓人，应该去看看，但又很害怕去医院😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 120,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1433
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

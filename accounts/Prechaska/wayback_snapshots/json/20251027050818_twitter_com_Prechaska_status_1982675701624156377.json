@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982666186182590464"
+      ],
+      "media_source_tweet_id": [
+        "1982666189903175939"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "1982675701624156377",
+    "created_at": "2025-10-27T05:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T06:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982675701624156377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866458229527764992",
+          "start": 3,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 42,
+          "id": "1879395690230738944",
+          "start": 29,
+          "username": "Psych_Angel_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iBK3iEsMcR",
+          "end": 66,
+          "expanded_url": "https://x.com/Citrus_amara/status/1982666189903175939/photo/1",
+          "media_key": "3_1982666186182590464",
+          "start": 43,
+          "url": "https://t.co/iBK3iEsMcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982675701624156377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982666189903175939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Citrus_amara: 帮忙转发一下，消息来源@Psych_Angel_ https://t.co/iBK3iEsMcR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982666186182590464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PYZEeXgAApOrt.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982666186182590464"
+          ],
+          "media_source_tweet_id": [
+            "1982666189903175939"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1982675701624156377",
+        "created_at": "2025-10-27T05:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982675701624156377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866458229527764992",
+              "start": 3,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 42,
+              "id": "1879395690230738944",
+              "start": 29,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBK3iEsMcR",
+              "end": 66,
+              "expanded_url": "https://x.com/Citrus_amara/status/1982666189903175939/photo/1",
+              "media_key": "3_1982666186182590464",
+              "start": 43,
+              "url": "https://t.co/iBK3iEsMcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982675701624156377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982666189903175939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Citrus_amara: 帮忙转发一下，消息来源@Psych_Angel_ https://t.co/iBK3iEsMcR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982666186182590464"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "1982666189903175939",
+        "created_at": "2025-10-27T04:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982666189903175939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1879395690230738944",
+              "start": 11,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBK3iEsMcR",
+              "end": 48,
+              "expanded_url": "https://x.com/Citrus_amara/status/1982666189903175939/photo/1",
+              "media_key": "3_1982666186182590464",
+              "start": 25,
+              "url": "https://t.co/iBK3iEsMcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982666189903175939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "帮忙转发一下，消息来源@Psych_Angel_ https://t.co/iBK3iEsMcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 72,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 392
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 634,
+          "like_count": 10119,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4009
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜soulmate:@BelovedUren8964｜🍧:@Chufeinya 🍜:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPkdm"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1978107837193523387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971805789750022147/X3CZsxHf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 612,
+          "like_count": 16933,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 7368
+        },
+        "url": "https://t.co/nRpYRqPkdm",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

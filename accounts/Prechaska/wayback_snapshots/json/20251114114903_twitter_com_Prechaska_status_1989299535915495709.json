@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1989297466274161080",
+    "created_at": "2025-11-14T11:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989299535915495709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989299535915495709",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989297990138524016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实有人会在自杀失败后更加惜命、热爱生活呢，只是……对于真的活不下去的人，自杀失败的代价实在是太大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989297466274161080",
+        "created_at": "2025-11-14T11:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989299535915495709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989299535915495709",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989297990138524016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实有人会在自杀失败后更加惜命、热爱生活呢，只是……对于真的活不下去的人，自杀失败的代价实在是太大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1989297466274161080",
+        "created_at": "2025-11-14T11:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989297990138524016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989297990138524016",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989297466274161080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉这里可能也差不多，人们总是难以接受有人在自己面前死去，尤其是当自己还能选择抢救对方时，不行动会给人以巨大的压力，将对方的死归结到自己身上，“我那时本能救他的”，只是救下后真的会比原来更好吗，这真的是对方所期望的吗？那么为了规避这种情况，请各位打算自杀时，不要向任何人透露这一消息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 80,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 511
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

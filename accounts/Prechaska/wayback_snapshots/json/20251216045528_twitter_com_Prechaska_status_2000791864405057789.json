@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2000773935357682067",
+    "created_at": "2025-12-16T04:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000791864405057789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000791864405057789",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000790753107497021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的，因为我主要试图用思维理解幻觉，用语言描述它，所以在幻觉中的“不断逼近0”的向下追溯感，就是通过修辞上的不停追溯，来达到精确描述那种“恰到好处”的感觉，并直接地以意象的形式，比如，两个针尖对碰，然后再近，到更微观处，两者若即若离又刚好触碰到位置上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2000773935357682067",
+        "created_at": "2025-12-16T04:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000791864405057789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000791864405057789",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000790753107497021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，因为我主要试图用思维理解幻觉，用语言描述它，所以在幻觉中的“不断逼近0”的向下追溯感，就是通过修辞上的不停追溯，来达到精确描述那种“恰到好处”的感觉，并直接地以意象的形式，比如，两个针尖对碰，然后再近，到更微观处，两者若即若离又刚好触碰到位置上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2000773935357682067",
+        "created_at": "2025-12-16T04:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000790753107497021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000790753107497021",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000789773926195491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对了，刚才说到无限趋向于1也是为了说明，那个以整体的、更大的为方向的……方向，也是向着现实的方向，回到1的尺度上就是回到了现实，而幻觉是于此相反的向0逼近的过程。我是在想，甚至到了慢慢回归现实的这一步都设计得这么精妙，每一步看起来偶然却是必然而完美的、恰到好处的一步（此处在修辞细分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 91,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 975
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

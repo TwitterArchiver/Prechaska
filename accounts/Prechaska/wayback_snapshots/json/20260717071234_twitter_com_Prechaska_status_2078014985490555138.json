@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2077952042837184655",
+    "created_at": "2026-07-17T07:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078014985490555138"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078014985490555138",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077954721881718876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没招了✋😭🤚人啊，你这朝生暮死的东西，白天的誓言到晚上就作了假，从你口中所出的无一可信，你说你几乎和永恒的上帝一样高贵，但你的言行却同那最易朽坏的相比都不如！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2077952042837184655",
+        "created_at": "2026-07-17T07:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078014985490555138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078014985490555138",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077954721881718876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没招了✋😭🤚人啊，你这朝生暮死的东西，白天的誓言到晚上就作了假，从你口中所出的无一可信，你说你几乎和永恒的上帝一样高贵，但你的言行却同那最易朽坏的相比都不如！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2077952042837184655",
+        "created_at": "2026-07-17T03:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077954721881718876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077954721881718876",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077952042837184655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然作用和延长了的pr没什么区别过几个小时该想死还是想死但感觉不应该现在死想想办法吧我说至少不能这么对她也再给阿片一个机会求求了好想死但现在不能死哦不可以不可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 162,
+          "like_count": 4057,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1870
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "1996148690357231887",
+    "created_at": "2025-12-05T03:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996780767658270805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591328081003700224",
+          "start": 0,
+          "username": "kuitiyashva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996780767658270805",
+    "in_reply_to_user_id": "1591328081003700224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996778167777050881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuitiyashva (⁠ ⁠；⁠∀⁠；⁠)确实，但还是希望会有更多尝试改善的实践……无论如何，感谢您的分享与讨论！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-05T03:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996780767658270805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591328081003700224",
+              "start": 0,
+              "username": "kuitiyashva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996780767658270805",
+        "in_reply_to_user_id": "1591328081003700224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996778167777050881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuitiyashva (⁠ ⁠；⁠∀⁠；⁠)确实，但还是希望会有更多尝试改善的实践……无论如何，感谢您的分享与讨论！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591328081003700224",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-05T03:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996778167777050881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996778167777050881",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996768750373318949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 这个问题实在太过复杂，牵涉到所有人类文化制度，不是几个立场的讨论就能有结果的，葡萄牙的例子我以前也经常甩给别人，但后来从葡萄牙人朋友给我反馈来看，依然和其它所有人类政策一样是个笑话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 93,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 836
+        },
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T07:12:55.000Z",
+        "description": "",
+        "id": "1591328081003700224",
+        "location": "CNX",
+        "name": "AgueJuana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990330552776548352/Qroco-S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 91,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 289
+        },
+        "username": "kuitiyashva",
+        "verified": false
+      }
+    ]
+  }
+}
