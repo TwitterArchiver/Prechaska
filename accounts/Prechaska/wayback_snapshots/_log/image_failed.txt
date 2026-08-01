@@ -1,10 +1,7 @@
 https://pbs.twimg.com/media/G32lvLMXYAAfJJJ.jpg
-https://pbs.twimg.com/media/G3OCk7MXMAAuOTL.jpg
 https://pbs.twimg.com/media/G4UpOHUa4AAVqfE.jpg
-https://pbs.twimg.com/media/G3wm2M0XgAAt-tu.png
 https://pbs.twimg.com/media/G4bS4HUbIAAt8eW.png
 https://pbs.twimg.com/media/G4COcD7WYAEnVPB.jpg
-https://pbs.twimg.com/media/G38ZqJUWgAEpDP7.jpg
 https://pbs.twimg.com/media/G3_bFHnXoAA7zjY.jpg
 https://pbs.twimg.com/media/G5MhmQXbIAMYDpX.jpg
 https://pbs.twimg.com/media/G5zcwWWaoAAbVA-.jpg
@@ -24,7 +21,6 @@ https://pbs.twimg.com/media/G7OMzIJaUAErx3X.jpg
 https://pbs.twimg.com/media/G7CBY82asAEp5SH.jpg
 https://pbs.twimg.com/media/G7AHUXga0AAk1i6.jpg
 https://pbs.twimg.com/media/G7YGo2cb0AYA9uq.jpg
-https://pbs.twimg.com/media/G7X5EmoawAAsbGj.jpg
 https://pbs.twimg.com/media/G7PeiypagAACp5u.jpg
 https://pbs.twimg.com/media/G5zZWrAbkAIL8gS.jpg
 https://pbs.twimg.com/media/G7aE0A6bQAALCUv.jpg
@@ -45,7 +41,6 @@ https://pbs.twimg.com/media/G82fZ22agAMkrPF.jpg
 https://pbs.twimg.com/media/G808vkzagAUgEwp.jpg
 https://pbs.twimg.com/media/G5MhnuzakAAATHw.jpg
 https://pbs.twimg.com/media/HAJH7sCaoAEv2Ep.jpg
-https://pbs.twimg.com/media/HAWJagbbEAEdeRd.jpg
 https://pbs.twimg.com/media/G4COe4aXYAAFQjB.jpg
 https://pbs.twimg.com/media/HATFl9ZbEAE40Am.jpg
 https://pbs.twimg.com/media/G_q1DgabAAU6qir.jpg
@@ -78,3 +73,6 @@ https://pbs.twimg.com/media/HATFmBebUAEstn-.jpg
 https://pbs.twimg.com/media/G808vxVbgAEdUQn.jpg
 https://pbs.twimg.com/media/HMg7xDEaIAEZnOQ.jpg
 https://pbs.twimg.com/media/G91JoH9b0AAQB-M.jpg
+https://pbs.twimg.com/media/G9gZA64bAAAwYSy.jpg
+https://pbs.twimg.com/media/G91JpqfaQAAe-AX.jpg
+https://pbs.twimg.com/media/G91JnzIaMAAmT17.png
