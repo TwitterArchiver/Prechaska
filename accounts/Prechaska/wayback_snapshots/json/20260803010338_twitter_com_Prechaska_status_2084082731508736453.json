@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      }
+    ],
+    "conversation_id": "2084075502860480536",
+    "created_at": "2026-08-03T01:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084082731508736453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1402792488943984659",
+          "start": 0,
+          "username": "ChicagoPiping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084082731508736453",
+    "in_reply_to_user_id": "1402792488943984659",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084075502860480536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChicagoPiping Hi — could you clarify what the difference is between Bstar and Rstar in those color-ring codes?🤔They look like two purple rings in the photo, so I’m not sure how to tell the two birds apart from the image alone&gt;⁠.⁠&lt;. Thanks!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1374,
+        "media_key": "3_2084075497240055808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwfn3IW0AA7p0Q.jpg",
+        "width": 1289
+      },
+      {
+        "height": 440,
+        "media_key": "3_2084075497252622336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwfn3LWkAAVbR_.jpg",
+        "width": 573
+      },
+      {
+        "height": 439,
+        "media_key": "3_2084075497252675585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwfn3LXYAEsJHb.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2084075502860480536",
+        "created_at": "2026-08-03T01:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084082731508736453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1402792488943984659",
+              "start": 0,
+              "username": "ChicagoPiping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084082731508736453",
+        "in_reply_to_user_id": "1402792488943984659",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084075502860480536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChicagoPiping Hi — could you clarify what the difference is between Bstar and Rstar in those color-ring codes?🤔They look like two purple rings in the photo, so I’m not sure how to tell the two birds apart from the image alone&gt;⁠.⁠&lt;. Thanks!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084075497240055808",
+            "3_2084075497252622336",
+            "3_2084075497252675585"
+          ]
+        },
+        "author_id": "1402792488943984659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "2084075502860480536",
+        "created_at": "2026-08-03T00:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084075502860480536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1gIvwBlhQ",
+              "end": 203,
+              "expanded_url": "https://x.com/ChicagoPiping/status/2084075502860480536/photo/1",
+              "media_key": "3_2084075497240055808",
+              "start": 180,
+              "url": "https://t.co/O1gIvwBlhQ"
+            },
+            {
+              "display_url": "pic.x.com/O1gIvwBlhQ",
+              "end": 203,
+              "expanded_url": "https://x.com/ChicagoPiping/status/2084075502860480536/photo/1",
+              "media_key": "3_2084075497252622336",
+              "start": 180,
+              "url": "https://t.co/O1gIvwBlhQ"
+            },
+            {
+              "display_url": "pic.x.com/O1gIvwBlhQ",
+              "end": 203,
+              "expanded_url": "https://x.com/ChicagoPiping/status/2084075502860480536/photo/1",
+              "media_key": "3_2084075497252675585",
+              "start": 180,
+              "url": "https://t.co/O1gIvwBlhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084075502860480536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 120,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Just Like Mama and Papa!\nHatch-year plovers may start migration by exploring local and regional beaches and that is exactly what Buddy and Frankie's parents did their hatch years! https://t.co/O1gIvwBlhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 164,
+          "like_count": 4635,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-10T01:03:54.000Z",
+        "description": "The offical account for Chicago Piping Plover (PIPL) news and content. Media inquiries email piperwatch@chicagobirder.org.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chicagopipingplovers.org",
+                "end": 23,
+                "expanded_url": "https://www.chicagopipingplovers.org",
+                "start": 0,
+                "url": "https://t.co/ak052q37uD"
+              }
+            ]
+          }
+        },
+        "id": "1402792488943984659",
+        "name": "Chicago Piping Plovers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402794805202128900/1iHOYp33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 201,
+          "like_count": 5645,
+          "listed_count": 28,
+          "media_count": 1105,
+          "tweet_count": 4026
+        },
+        "url": "https://t.co/ak052q37uD",
+        "username": "ChicagoPiping",
+        "verified": false
+      }
+    ]
+  }
+}
