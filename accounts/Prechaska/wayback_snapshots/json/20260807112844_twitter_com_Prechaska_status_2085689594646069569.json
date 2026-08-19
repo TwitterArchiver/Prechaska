@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015425323530113025"
+      ],
+      "media_source_tweet_id": [
+        "2015425433274065178"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2085689594646069569",
+    "created_at": "2026-08-07T11:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085689594646069569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734170933298876416",
+          "start": 3,
+          "username": "DelattreMia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/78g1GuWOK9",
+          "end": 139,
+          "expanded_url": "https://x.com/DelattreMia/status/2015425433274065178/video/1",
+          "media_key": "13_2015425323530113025",
+          "start": 116,
+          "url": "https://t.co/78g1GuWOK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085689594646069569",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015425433274065178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DelattreMia: Best beach Runner.\n\nNo, this video is not sped up\nYes, plovers can run at 26815 mph, even on sand! https://t.co/78g1GuWOK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13792,
+        "height": 1280,
+        "media_key": "13_2015425323530113025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015425323530113025/img/vWX7atB-ZeA82-2k.jpg",
+        "public_metrics": {
+          "view_count": 32170
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015425323530113025/vid/avc1/320x568/zokX2zXKbUKC_zBf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015425323530113025/vid/avc1/480x852/EQgo7I-HDkL5-6Bw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015425323530113025/vid/avc1/720x1280/z7ptyaeLYHEyPKfV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015425323530113025/pl/p-8beWKpc-bFEfbs.m3u8?v=1e9"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015425323530113025"
+          ]
+        },
+        "author_id": "1734170933298876416",
+        "conversation_id": "2015425433274065178",
+        "created_at": "2026-01-25T14:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015425433274065178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78g1GuWOK9",
+              "end": 122,
+              "expanded_url": "https://x.com/DelattreMia/status/2015425433274065178/video/1",
+              "media_key": "13_2015425323530113025",
+              "start": 99,
+              "url": "https://t.co/78g1GuWOK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015425433274065178",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 18617,
+          "like_count": 1004,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "Best beach Runner.\n\nNo, this video is not sped up\nYes, plovers can run at 26815 mph, even on sand! https://t.co/78g1GuWOK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015425323530113025"
+          ],
+          "media_source_tweet_id": [
+            "2015425433274065178"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2085689594646069569",
+        "created_at": "2026-08-07T11:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085689594646069569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734170933298876416",
+              "start": 3,
+              "username": "DelattreMia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/78g1GuWOK9",
+              "end": 139,
+              "expanded_url": "https://x.com/DelattreMia/status/2015425433274065178/video/1",
+              "media_key": "13_2015425323530113025",
+              "start": 116,
+              "url": "https://t.co/78g1GuWOK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085689594646069569",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015425433274065178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DelattreMia: Best beach Runner.\n\nNo, this video is not sped up\nYes, plovers can run at 26815 mph, even on sand! https://t.co/78g1GuWOK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 161,
+          "like_count": 4783,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2096
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T11:19:21.000Z",
+        "description": "Love Art ❤️ Love Animals\nLe beau, c'est la splendeur du vrai. ~ Platon ✨\nBeauty is the splendor of truth. ~ Plato ✨",
+        "id": "1734170933298876416",
+        "location": "🌎🦋",
+        "name": "Mia",
+        "pinned_tweet_id": "2068361015880740874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068360529790283777/VZaP_yGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9519,
+          "following_count": 4455,
+          "like_count": 32777,
+          "listed_count": 29,
+          "media_count": 3982,
+          "tweet_count": 9422
+        },
+        "url": "",
+        "username": "DelattreMia",
+        "verified": true
+      }
+    ]
+  }
+}

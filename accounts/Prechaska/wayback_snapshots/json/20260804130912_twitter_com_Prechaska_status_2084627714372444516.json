@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2084627714372444516",
+    "created_at": "2026-08-04T13:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084627714372444516"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084627714372444516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一旦停止感受，思考就会开始，而思维的要求永远无法得到满足，所以是为什么呢，一切都是为什么，为什么是这样而不是那样，究竟要做什么，我究竟在做什么？而投身世界的“体验”无法回答任何一个问题，像是被one wish willow附身的nikki，一切突然陌生无比，我不再知道自己在做什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2084627714372444516",
+        "created_at": "2026-08-04T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084627714372444516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084627714372444516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一旦停止感受，思考就会开始，而思维的要求永远无法得到满足，所以是为什么呢，一切都是为什么，为什么是这样而不是那样，究竟要做什么，我究竟在做什么？而投身世界的“体验”无法回答任何一个问题，像是被one wish willow附身的nikki，一切突然陌生无比，我不再知道自己在做什么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 164,
+          "like_count": 4721,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2079
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

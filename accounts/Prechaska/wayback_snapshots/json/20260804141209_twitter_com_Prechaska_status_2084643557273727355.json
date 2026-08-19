@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2084488595751243776"
+      ],
+      "media_source_tweet_id": [
+        "2084488941043171743"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2084643557273727355",
+    "created_at": "2026-08-04T14:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084643557273727355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "957662465101189120",
+          "start": 3,
+          "username": "birdingnotes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vMhZ7pOSko",
+          "end": 63,
+          "expanded_url": "https://x.com/birdingnotes/status/2084488941043171743/video/1",
+          "media_key": "7_2084488595751243776",
+          "start": 40,
+          "url": "https://t.co/vMhZ7pOSko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084643557273727355",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084488941043171743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdingnotes: 나무꾼 시점에서 쪼꼬미들 목욕 훔쳐보기 https://t.co/vMhZ7pOSko"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15040,
+        "height": 720,
+        "media_key": "7_2084488595751243776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2084488595751243776/pu/img/ASFmK9k6Ph4TTjiV.jpg",
+        "public_metrics": {
+          "view_count": 312
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084488595751243776/pu/vid/avc1/320x320/-4bksU8JuMltA-7u.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084488595751243776/pu/vid/avc1/540x540/rm4XqTuA_ktceqHt.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2084488595751243776/pu/vid/avc1/720x720/5dlxk4w-pxtgEGFf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2084488595751243776/pu/pl/rJ8klP5who2j20vv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084488595751243776"
+          ]
+        },
+        "author_id": "957662465101189120",
+        "conversation_id": "2084488941043171743",
+        "created_at": "2026-08-04T03:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:56:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084488626134782116",
+          "2084488941043171743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMhZ7pOSko",
+              "end": 45,
+              "expanded_url": "https://x.com/birdingnotes/status/2084488941043171743/video/1",
+              "media_key": "7_2084488595751243776",
+              "start": 22,
+              "url": "https://t.co/vMhZ7pOSko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084488941043171743",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 847,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "나무꾼 시점에서 쪼꼬미들 목욕 훔쳐보기 https://t.co/vMhZ7pOSko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2084488595751243776"
+          ],
+          "media_source_tweet_id": [
+            "2084488941043171743"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2084643557273727355",
+        "created_at": "2026-08-04T14:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084643557273727355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "957662465101189120",
+              "start": 3,
+              "username": "birdingnotes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMhZ7pOSko",
+              "end": 63,
+              "expanded_url": "https://x.com/birdingnotes/status/2084488941043171743/video/1",
+              "media_key": "7_2084488595751243776",
+              "start": 40,
+              "url": "https://t.co/vMhZ7pOSko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084643557273727355",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084488941043171743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdingnotes: 나무꾼 시점에서 쪼꼬미들 목욕 훔쳐보기 https://t.co/vMhZ7pOSko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 164,
+          "like_count": 4726,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2081
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T17:11:39.000Z",
+        "description": "어쩌다 초보탐조인 🐥📷\n(2026.03.23~)\n발줌이라 발로 찍어요!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "birdingnotes.linkstory.co.kr",
+                "end": 23,
+                "expanded_url": "https://birdingnotes.linkstory.co.kr",
+                "start": 0,
+                "url": "https://t.co/0IHvrTEdlq"
+              }
+            ]
+          }
+        },
+        "id": "957662465101189120",
+        "name": "탐조노트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081000259338240000/WESHsDFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 37,
+          "like_count": 3223,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/0IHvrTEdlq",
+        "username": "birdingnotes",
+        "verified": true
+      }
+    ]
+  }
+}

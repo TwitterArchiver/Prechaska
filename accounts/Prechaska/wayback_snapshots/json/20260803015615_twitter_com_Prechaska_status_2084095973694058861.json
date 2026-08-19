@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083742133970993152"
+      ],
+      "media_source_tweet_id": [
+        "2083742153440911713"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2084095973694058861",
+    "created_at": "2026-08-03T01:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084095973694058861"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 31,
+          "tag": "コザクラインコ"
+        },
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "さくらもち"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "759787013553795073",
+          "start": 3,
+          "username": "LxxTiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GObD0ZJ8u5",
+          "end": 70,
+          "expanded_url": "https://x.com/LxxTiro/status/2083742153440911713/video/1",
+          "media_key": "13_2083742133970993152",
+          "start": 47,
+          "url": "https://t.co/GObD0ZJ8u5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084095973694058861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083742153440911713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LxxTiro: 今日もおめめきゅるるんさくらもち\n\n#コザクラインコ\n#さくらもち https://t.co/GObD0ZJ8u5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5166,
+        "height": 688,
+        "media_key": "13_2083742133970993152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083742133970993152/img/zPj7V8tfkYtPc4tL.jpg",
+        "public_metrics": {
+          "view_count": 4529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083742133970993152/vid/avc1/338x270/75J-WlZibx9dX9VZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083742133970993152/vid/avc1/452x360/PfOrNojgpFhG3n8Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083742133970993152/vid/avc1/866x688/qdWvw8IIGDwIjU1d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083742133970993152/pl/KlP5WfOIlt7-fLNk.m3u8"
+          }
+        ],
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083742133970993152"
+          ]
+        },
+        "author_id": "759787013553795073",
+        "conversation_id": "2083742153440911713",
+        "created_at": "2026-08-02T02:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083742153440911713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "コザクラインコ"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "さくらもち"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GObD0ZJ8u5",
+              "end": 57,
+              "expanded_url": "https://x.com/LxxTiro/status/2083742153440911713/video/1",
+              "media_key": "13_2083742133970993152",
+              "start": 34,
+              "url": "https://t.co/GObD0ZJ8u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083742153440911713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 15792,
+          "like_count": 1156,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "今日もおめめきゅるるんさくらもち\n\n#コザクラインコ\n#さくらもち https://t.co/GObD0ZJ8u5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083742133970993152"
+          ],
+          "media_source_tweet_id": [
+            "2083742153440911713"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2084095973694058861",
+        "created_at": "2026-08-03T01:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084095973694058861"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "コザクラインコ"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "さくらもち"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "759787013553795073",
+              "start": 3,
+              "username": "LxxTiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GObD0ZJ8u5",
+              "end": 70,
+              "expanded_url": "https://x.com/LxxTiro/status/2083742153440911713/video/1",
+              "media_key": "13_2083742133970993152",
+              "start": 47,
+              "url": "https://t.co/GObD0ZJ8u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084095973694058861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083742153440911713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LxxTiro: 今日もおめめきゅるるんさくらもち\n\n#コザクラインコ\n#さくらもち https://t.co/GObD0ZJ8u5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 164,
+          "like_count": 4645,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 2055
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-31T16:25:15.000Z",
+        "description": "さくらもち(コザクラインコ︎︎ ♀ 2023.12生まれ)と菊丸(オカメインコ ♀ 2025.3生まれ)を愛する飼い主 乳がんサバイバー 抗がん剤治療を経て手術も終わりとりあえず一段落",
+        "id": "759787013553795073",
+        "name": "りかちゃん",
+        "pinned_tweet_id": "2058767511827657186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909950698093191168/lhvuDwhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 218,
+          "like_count": 60408,
+          "listed_count": 4,
+          "media_count": 738,
+          "tweet_count": 2121
+        },
+        "url": "",
+        "username": "LxxTiro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2086855813189234813",
+    "created_at": "2026-08-11T00:42:16.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086976459290312754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1728798875593654272",
+          "start": 0,
+          "username": "whydoyouwantlsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086976459290312754",
+    "in_reply_to_user_id": "1728798875593654272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086855813189234813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoyouwantlsd 啊啊啊啊啊难道平时压抑的是食欲吗！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086855813189234813].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086855813189234813",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086855813189234813"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2086855813189234813",
+        "created_at": "2026-08-11T00:42:16.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086976459290312754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1728798875593654272",
+              "start": 0,
+              "username": "whydoyouwantlsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086976459290312754",
+        "in_reply_to_user_id": "1728798875593654272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086855813189234813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoyouwantlsd 啊啊啊啊啊难道平时压抑的是食欲吗！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086976459290312754",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 171,
+          "like_count": 4830,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2105
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-26T15:32:33.000Z",
+        "description": "天空形成的最初形状是纽扣。enby，■TX，退役oder，碎碎念博主，诗歌，文学，精神医学，ASD。永冇正反之分，水中月中月無月。",
+        "id": "1728798875593654272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2045161261013549166",
+        "name": "眼球已死",
+        "pinned_tweet_id": "2076693129374429626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728798875593654272/1769111982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014427806932074496/1KDfhoun_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 254,
+          "like_count": 2466,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "whydoyouwantlsd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

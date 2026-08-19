@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085608387015053312"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2085593958709895653",
+    "created_at": "2026-08-07T06:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085608395915337756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1708493840477458432",
+          "start": 0,
+          "username": "gCdQqjm35088619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xm36zYDymT",
+          "end": 179,
+          "expanded_url": "https://x.com/Prechaska/status/2085608395915337756/photo/1",
+          "media_key": "3_2085608387015053312",
+          "start": 156,
+          "url": "https://t.co/Xm36zYDymT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085608395915337756",
+    "in_reply_to_user_id": "1708493840477458432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085593958709895653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gCdQqjm35088619 搜索了下含量如图，相比之下白兔每t的含量是：DHC2.5mg，甲基麻黄碱盐酸盐4.17mg，氯苯那敏0.67mg，咖啡因7.5mg\n如果白兔吃30t有效的话这个就得吃25t，但它同时含有超高剂量咖啡因，如果没咖啡因耐受的话还是别吃这玩意了吧（甚至还有臭名昭著的愈创木酚甘油醚😇 https://t.co/Xm36zYDymT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2085608387015053312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGRxyibkAAoGDs.jpg",
+        "width": 686
+      },
+      {
+        "height": 690,
+        "media_key": "3_2085593949528563712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGEpataoAAy1Wx.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085608387015053312"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2085593958709895653",
+        "created_at": "2026-08-07T06:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085608395915337756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1708493840477458432",
+              "start": 0,
+              "username": "gCdQqjm35088619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xm36zYDymT",
+              "end": 179,
+              "expanded_url": "https://x.com/Prechaska/status/2085608395915337756/photo/1",
+              "media_key": "3_2085608387015053312",
+              "start": 156,
+              "url": "https://t.co/Xm36zYDymT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085608395915337756",
+        "in_reply_to_user_id": "1708493840477458432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085593958709895653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gCdQqjm35088619 搜索了下含量如图，相比之下白兔每t的含量是：DHC2.5mg，甲基麻黄碱盐酸盐4.17mg，氯苯那敏0.67mg，咖啡因7.5mg\n如果白兔吃30t有效的话这个就得吃25t，但它同时含有超高剂量咖啡因，如果没咖啡因耐受的话还是别吃这玩意了吧（甚至还有臭名昭著的愈创木酚甘油醚😇 https://t.co/Xm36zYDymT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085593949528563712"
+          ]
+        },
+        "author_id": "1708493840477458432",
+        "conversation_id": "2085593958709895653",
+        "created_at": "2026-08-07T05:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085593958709895653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivPg9odpAD",
+              "end": 30,
+              "expanded_url": "https://x.com/gCdQqjm35088619/status/2085593958709895653/photo/1",
+              "media_key": "3_2085593949528563712",
+              "start": 7,
+              "url": "https://t.co/ivPg9odpAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085593958709895653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个怎么o呀 https://t.co/ivPg9odpAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 161,
+          "like_count": 4781,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 2095
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:47:38.000Z",
+        "description": "",
+        "id": "1708493840477458432",
+        "name": "電気サーカス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004188978749345792/74sAh7CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 128,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "gCdQqjm35088619",
+        "verified": false
+      }
+    ]
+  }
+}
