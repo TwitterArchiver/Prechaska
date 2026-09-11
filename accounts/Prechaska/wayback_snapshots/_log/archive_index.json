@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-11T07:19:21",
+  "last_updated": "2026-09-11T07:22:01",
   "html": {
     "https://web.archive.org/web/20251010053153if_/https://twitter.com/Prechaska/status/1976521045688582162": {
       "status": "done",
@@ -15943,9 +15943,9 @@
       "referenced_by": [
         "20251024001402_twitter_com_Prechaska_status_1981514484742263195.json"
       ],
-      "last_updated": "2026-08-19T03:18:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251024001402if_/https://pbs.twimg.com/profile_images/1969969766749384704/sKQm6fe4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2c8b4d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251024001402if_/https://pbs.twimg.com/profile_images/1969969766749384704/sKQm6fe4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770453a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1830597238185476096/WIjVeXpW_normal.jpg": {
       "status": "done",
@@ -15967,9 +15967,9 @@
         "20251024015553_twitter_com_Prechaska_status_1981540116167336376.json",
         "20251024015716_twitter_com_Prechaska_status_1981540463044632681.json"
       ],
-      "last_updated": "2026-08-19T03:18:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251024015716im_/https://pbs.twimg.com/profile_images/1974696682429497344/1ctxEGsf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3c140>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251024015716if_/https://pbs.twimg.com/profile_images/1974696682429497344/1ctxEGsf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177045e20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1819548009190858752/O6fep9_i_normal.jpg": {
       "status": "done",
@@ -16044,9 +16044,9 @@
         "20251107064657_twitter_com_Prechaska_status_1986686793178353707.json",
         "20251107072930_twitter_com_Prechaska_status_1986697504541581573.json"
       ],
-      "last_updated": "2026-08-19T03:18:56",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251107072930if_/https://pbs.twimg.com/profile_images/1982480538272169984/4Cyy6NjR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3c980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251107072930if_/https://pbs.twimg.com/profile_images/1982480538272169984/4Cyy6NjR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177047770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg": {
       "status": "done",
@@ -16064,9 +16064,9 @@
       "referenced_by": [
         "20251109064724_twitter_com_Prechaska_status_1987411683929956626.json"
       ],
-      "last_updated": "2026-08-19T03:18:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251109064724im_/https://pbs.twimg.com/profile_images/1741445800734134272/ohX4kiCD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cc9a60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251109064724if_/https://pbs.twimg.com/profile_images/1741445800734134272/ohX4kiCD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770558e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg": {
       "status": "done",
@@ -16090,9 +16090,9 @@
         "20251113143141_twitter_com_Prechaska_status_1988978074403361056.json",
         "20251122161059_twitter_com_Prechaska_status_1992264555062595775.json"
       ],
-      "last_updated": "2026-08-19T03:19:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122161059im_/https://pbs.twimg.com/profile_images/1985352940517810176/U5hFAjvw_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3eab0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122161059if_/https://pbs.twimg.com/profile_images/1985352940517810176/U5hFAjvw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177047c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1987902676047425536/dZRoz_5P_normal.jpg": {
       "status": "failed",
@@ -16100,9 +16100,9 @@
         "20251115132056_twitter_com_Prechaska_status_1989685049336512804.json",
         "20251122155743_twitter_com_Prechaska_status_1992261217738694946.json"
       ],
-      "last_updated": "2026-08-19T03:19:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122155743im_/https://pbs.twimg.com/profile_images/1987902676047425536/dZRoz_5P_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2c8bf50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122155743if_/https://pbs.twimg.com/profile_images/1987902676047425536/dZRoz_5P_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177086d50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg": {
       "status": "done",
@@ -16202,9 +16202,9 @@
         "20251206092306_twitter_com_Prechaska_status_1997235338700550456.json",
         "20251211052414_twitter_com_Prechaska_status_1998987167314694228.json"
       ],
-      "last_updated": "2026-08-19T03:19:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251211052414if_/https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3fb30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251211052414if_/https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b4200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg": {
       "status": "done",
@@ -16258,9 +16258,9 @@
       "referenced_by": [
         "20251122105611_twitter_com_Prechaska_status_1992185336622129334.json"
       ],
-      "last_updated": "2026-08-19T03:19:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122105611im_/https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cc8350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122105611if_/https://pbs.twimg.com/profile_images/1984036344310722561/qVN-nXWX_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b44d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg": {
       "status": "done",
@@ -16302,9 +16302,9 @@
         "20251208080044_twitter_com_Prechaska_status_1997939388316254338.json",
         "20251208081451_twitter_com_Prechaska_status_1997942941760041204.json"
       ],
-      "last_updated": "2026-08-19T03:19:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251208081451if_/https://pbs.twimg.com/profile_images/1992145336136290304/JambrXeF_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cc8380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251208081451if_/https://pbs.twimg.com/profile_images/1992145336136290304/JambrXeF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770872f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1990963459861983237/EYIW-hxn_normal.jpg": {
       "status": "done",
@@ -16420,9 +16420,9 @@
       "referenced_by": [
         "20251125022051_twitter_com_Prechaska_status_1993142811680702704.json"
       ],
-      "last_updated": "2026-08-19T03:19:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251125022051im_/https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cc83b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251125022051if_/https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177056e70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1414238043557486599/ea7tt6nb_normal.jpg": {
       "status": "done",
@@ -16475,9 +16475,9 @@
         "20251128013501_twitter_com_Prechaska_status_1994218439523918304.json",
         "20251128013830_twitter_com_Prechaska_status_1994219318146371769.json"
       ],
-      "last_updated": "2026-08-19T03:19:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251128013830if_/https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d64440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251128013830if_/https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770873e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1987120556425289728/OM-brEcE_normal.jpg": {
       "status": "done",
@@ -16491,9 +16491,9 @@
       "referenced_by": [
         "20251130192034_twitter_com_Prechaska_status_1995211368224682034.json"
       ],
-      "last_updated": "2026-08-19T03:19:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130192034if_/https://pbs.twimg.com/profile_images/1994704555851091975/BrfZG_4X_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d65250>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251130192034if_/https://pbs.twimg.com/profile_images/1994704555851091975/BrfZG_4X_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177045c40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1765837041/GFA_in_Iceland_normal.JPG": {
       "status": "done",
@@ -16508,18 +16508,18 @@
       "referenced_by": [
         "20251201043959_twitter_com_Prechaska_status_1995352152991277101.json"
       ],
-      "last_updated": "2026-08-19T03:19:43",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201043959im_/https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cc8710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201043959if_/https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b6a20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1972378444081004544/ydC_X6aV_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251201072155_twitter_com_Prechaska_status_1995392905557704750.json"
       ],
-      "last_updated": "2026-08-19T03:19:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201072155if_/https://pbs.twimg.com/profile_images/1972378444081004544/ydC_X6aV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3f560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251201072155if_/https://pbs.twimg.com/profile_images/1972378444081004544/ydC_X6aV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b4530>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1534932237124349953/DfzsDm_G_normal.jpg": {
       "status": "done",
@@ -16545,9 +16545,9 @@
       "referenced_by": [
         "20251203043645_twitter_com_Prechaska_status_1996076113874092206.json"
       ],
-      "last_updated": "2026-08-19T03:19:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251203043645im_/https://pbs.twimg.com/profile_images/1994717962134327297/2KIp9H-T_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2c8baa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251203043645if_/https://pbs.twimg.com/profile_images/1994717962134327297/2KIp9H-T_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770852b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg": {
       "status": "failed",
@@ -16560,9 +16560,9 @@
         "20251231072223_twitter_com_Prechaska_status_2006264656877494665.json",
         "20251231082245_twitter_com_Prechaska_status_2006279849686815033.json"
       ],
-      "last_updated": "2026-08-19T03:19:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251231082245if_/https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3d970>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251231082245if_/https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770871d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1986854330096308224/5ISShw1-_normal.jpg": {
       "status": "failed",
@@ -16571,9 +16571,9 @@
         "20251204102947_twitter_com_Prechaska_status_1996527346153836689.json",
         "20251213152602_twitter_com_Prechaska_status_1999863389066326200.json"
       ],
-      "last_updated": "2026-08-19T03:19:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213152602im_/https://pbs.twimg.com/profile_images/1986854330096308224/5ISShw1-_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a30305c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251213152602if_/https://pbs.twimg.com/profile_images/1986854330096308224/5ISShw1-_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b42c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1996351243594383360/tWKcgTGv_normal.jpg": {
       "status": "failed",
@@ -16582,18 +16582,18 @@
         "20251204052118_twitter_com_Prechaska_status_1996449711910486448.json",
         "20251204053331_twitter_com_Prechaska_status_1996452788394746046.json"
       ],
-      "last_updated": "2026-08-19T03:20:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204053331if_/https://pbs.twimg.com/profile_images/1996351243594383360/tWKcgTGv_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3c800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204053331if_/https://pbs.twimg.com/profile_images/1996351243594383360/tWKcgTGv_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770840b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1994793617890922496/jPbrTG0j_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251204052219_twitter_com_Prechaska_status_1996449968098607193.json"
       ],
-      "last_updated": "2026-08-19T03:20:08",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204052219im_/https://pbs.twimg.com/profile_images/1994793617890922496/jPbrTG0j_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d672f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:20:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251204052219if_/https://pbs.twimg.com/profile_images/1994793617890922496/jPbrTG0j_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b5610>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1818564887292846080/gJThlfF4_normal.jpg": {
       "status": "done",
@@ -16619,9 +16619,9 @@
         "20251205022948_twitter_com_Prechaska_status_1996768942942310734.json",
         "20251205031648_twitter_com_Prechaska_status_1996780767658270805.json"
       ],
-      "last_updated": "2026-08-19T03:20:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251205031648if_/https://pbs.twimg.com/profile_images/1990330552776548352/Qroco-S9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a33f8200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251205031648if_/https://pbs.twimg.com/profile_images/1990330552776548352/Qroco-S9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177085160>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1968414430628290560/1MKf2N9u_normal.jpg": {
       "status": "done",
@@ -16638,9 +16638,9 @@
       "referenced_by": [
         "20251205081313_twitter_com_Prechaska_status_1996855363120021976.json"
       ],
-      "last_updated": "2026-08-19T03:20:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251205081313im_/https://pbs.twimg.com/profile_images/1994917273942007808/XUPRB-WI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3d5b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251205081313if_/https://pbs.twimg.com/profile_images/1994917273942007808/XUPRB-WI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177054ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1851322685814685697/qiWMDshr_normal.jpg": {
       "status": "done",
@@ -16700,9 +16700,9 @@
         "20251208131822_twitter_com_Prechaska_status_1998019323483558078.json",
         "20251208132143_twitter_com_Prechaska_status_1998020165825634309.json"
       ],
-      "last_updated": "2026-08-19T03:20:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251208132143if_/https://pbs.twimg.com/profile_images/1984355934207148033/6lxcDXt4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3fc80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:06",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251208132143if_/https://pbs.twimg.com/profile_images/1984355934207148033/6lxcDXt4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177087a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg": {
       "status": "done",
@@ -16754,9 +16754,9 @@
         "20251214103255_twitter_com_Prechaska_status_2000152013527830993.json",
         "20260102125035_twitter_com_Prechaska_status_2007072025261826413.json"
       ],
-      "last_updated": "2026-08-19T03:20:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102125035im_/https://pbs.twimg.com/profile_images/1988988087721160707/ZYifVWy__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d66660>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260102125035if_/https://pbs.twimg.com/profile_images/1988988087721160707/ZYifVWy__normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b4500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1988474699031187456/iEHSOZ1o_normal.jpg": {
       "status": "done",
@@ -16782,9 +16782,9 @@
         "20251223044128_twitter_com_Prechaska_status_2003325056479568382.json",
         "20251223044258_twitter_com_Prechaska_status_2003325436546458083.json"
       ],
-      "last_updated": "2026-08-19T03:20:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251223044258if_/https://pbs.twimg.com/profile_images/1998043902734110720/aqIraNX2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d64f80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251223044258if_/https://pbs.twimg.com/profile_images/1998043902734110720/aqIraNX2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177056300>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1999357653324341248/uRkSVIJt_normal.jpg": {
       "status": "failed",
@@ -16792,9 +16792,9 @@
         "20251215024520_twitter_com_Prechaska_status_2000396728655364385.json",
         "20251215025423_twitter_com_Prechaska_status_2000399006535754227.json"
       ],
-      "last_updated": "2026-08-19T03:20:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251215025423im_/https://pbs.twimg.com/profile_images/1999357653324341248/uRkSVIJt_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2ccb9e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251215025423if_/https://pbs.twimg.com/profile_images/1999357653324341248/uRkSVIJt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b6f30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1997874617831358464/DcafvHkA_normal.jpg": {
       "status": "done",
@@ -16811,9 +16811,9 @@
         "20251215040526_twitter_com_Prechaska_status_2000416886660772318.json",
         "20251222032613_twitter_com_Prechaska_status_2002943733776674925.json"
       ],
-      "last_updated": "2026-08-19T03:20:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251222032613im_/https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d67f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251222032613if_/https://pbs.twimg.com/profile_images/1999154150693797888/7aGBwxD0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177047fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1997609291507998720/J7qv1WAE_normal.jpg": {
       "status": "done",
@@ -16889,18 +16889,18 @@
       "referenced_by": [
         "20251222092100_twitter_com_Prechaska_status_2003033018756460967.json"
       ],
-      "last_updated": "2026-08-19T03:20:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251222092100if_/https://pbs.twimg.com/profile_images/1983919628167352320/ggx42285_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d64470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251222092100if_/https://pbs.twimg.com/profile_images/1983919628167352320/ggx42285_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177047740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1999753963416248320/_XgSHSia_normal.png": {
       "status": "failed",
       "referenced_by": [
         "20251223065529_twitter_com_Prechaska_status_2003358784060788999.json"
       ],
-      "last_updated": "2026-08-19T03:20:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251223065529im_/https://pbs.twimg.com/profile_images/1999753963416248320/_XgSHSia_400x400.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cca600>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251223065529if_/https://pbs.twimg.com/profile_images/1999753963416248320/_XgSHSia_normal.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177056ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg": {
       "status": "done",
@@ -16930,9 +16930,9 @@
       "referenced_by": [
         "20251225115819_twitter_com_Prechaska_status_2004159772476813449.json"
       ],
-      "last_updated": "2026-08-19T03:20:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225115819if_/https://pbs.twimg.com/profile_images/2001517074519314432/CdiLJL9S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3db80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225115819if_/https://pbs.twimg.com/profile_images/2001517074519314432/CdiLJL9S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177045850>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1392075377099644929/k80-Ta1q_normal.jpg": {
       "status": "done",
@@ -16954,9 +16954,9 @@
         "20251226095556_twitter_com_Prechaska_status_2004491360049709199.json",
         "20260105024359_twitter_com_Prechaska_status_2008006536812244994.json"
       ],
-      "last_updated": "2026-08-19T03:20:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260105024359im_/https://pbs.twimg.com/profile_images/2004246156466180103/gzhYtK4u_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a3030470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:25",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260105024359if_/https://pbs.twimg.com/profile_images/2004246156466180103/gzhYtK4u_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770470b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1982699047233236992/z1-13OzH_normal.jpg": {
       "status": "done",
@@ -16993,18 +16993,18 @@
       "referenced_by": [
         "20251231082832_twitter_com_Prechaska_status_2006281305261220199.json"
       ],
-      "last_updated": "2026-08-19T03:20:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251231082832if_/https://pbs.twimg.com/profile_images/2004230580381315072/3ibA22Du_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2cc87a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251231082832if_/https://pbs.twimg.com/profile_images/2004230580381315072/3ibA22Du_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01773db920>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1994170922090016768/g3q4Z68e_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20251231172003_twitter_com_Prechaska_status_2006415065193558066.json"
       ],
-      "last_updated": "2026-08-19T03:21:03",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251231172003im_/https://pbs.twimg.com/profile_images/1994170922090016768/g3q4Z68e_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3f4a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251231172003if_/https://pbs.twimg.com/profile_images/1994170922090016768/g3q4Z68e_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b4110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg": {
       "status": "done",
@@ -17103,9 +17103,9 @@
       "referenced_by": [
         "20260108084413_twitter_com_Prechaska_status_2009184355177189402.json"
       ],
-      "last_updated": "2026-08-19T03:21:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108084413if_/https://pbs.twimg.com/profile_images/1930112668117221376/skhkwsyZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc0a2d651f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260108084413if_/https://pbs.twimg.com/profile_images/1930112668117221376/skhkwsyZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b48c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2008963881914482688/YLFunx2V_normal.jpg": {
       "status": "done",
@@ -17195,9 +17195,9 @@
         "20260223075016_twitter_com_Prechaska_status_2025840620523368534.json",
         "20260224061619_twitter_com_Prechaska_status_2026179364388552913.json"
       ],
-      "last_updated": "2026-08-19T03:21:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224061619im_/https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cc9a30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224061619if_/https://pbs.twimg.com/profile_images/2006317223414255617/jGT_GZyG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177047200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2009568491171610625/R3Z2flJt_normal.jpg": {
       "status": "done",
@@ -17349,9 +17349,9 @@
       "referenced_by": [
         "20260210082210_twitter_com_Prechaska_status_2021137606067749019.json"
       ],
-      "last_updated": "2026-08-19T03:21:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260210082210im_/https://pbs.twimg.com/profile_images/2021136802833383424/AqMxoumt_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d3ce60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260210082210if_/https://pbs.twimg.com/profile_images/2021136802833383424/AqMxoumt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177044470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2011003169300697088/tOG-ysnA_normal.jpg": {
       "status": "failed",
@@ -17359,9 +17359,9 @@
         "20260211122211_twitter_com_Prechaska_status_2021560396101165456.json",
         "20260211122513_twitter_com_Prechaska_status_2021561156771721413.json"
       ],
-      "last_updated": "2026-08-19T03:21:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211122513if_/https://pbs.twimg.com/profile_images/2011003169300697088/tOG-ysnA_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a3031760>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211122513if_/https://pbs.twimg.com/profile_images/2011003169300697088/tOG-ysnA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b7ef0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2021590169326067712/p1mtNJJY_normal.jpg": {
       "status": "done",
@@ -17388,9 +17388,9 @@
       "referenced_by": [
         "20260223004026_twitter_com_Prechaska_status_2025732448286593355.json"
       ],
-      "last_updated": "2026-08-19T03:21:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223004026if_/https://pbs.twimg.com/profile_images/2020090288107347968/MNW2xQfw_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2ccb350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223004026if_/https://pbs.twimg.com/profile_images/2020090288107347968/MNW2xQfw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177086ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg": {
       "status": "done",
@@ -17423,9 +17423,9 @@
       "referenced_by": [
         "20260228114606_twitter_com_Prechaska_status_2027711907193622538.json"
       ],
-      "last_updated": "2026-08-19T03:21:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260228114606if_/https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2ccb5f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260228114606if_/https://pbs.twimg.com/profile_images/2027047460930023425/YHzQxhYF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177087a70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1910713555806281734/oBUXKSoK_normal.jpg": {
       "status": "done",
@@ -17499,9 +17499,9 @@
       "referenced_by": [
         "20260423000236_twitter_com_Prechaska_status_2047103811043704922.json"
       ],
-      "last_updated": "2026-08-19T03:21:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423000236im_/https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2cca240>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423000236if_/https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177046120>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg": {
       "status": "done",
@@ -17659,9 +17659,9 @@
       "referenced_by": [
         "20260508181555_twitter_com_Prechaska_status_2052814769787429300.json"
       ],
-      "last_updated": "2026-08-19T03:21:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508181555if_/https://pbs.twimg.com/profile_images/2052235062964633600/F1ECdq2-_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2c8b530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508181555if_/https://pbs.twimg.com/profile_images/2052235062964633600/F1ECdq2-_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177087710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg": {
       "status": "done",
@@ -17702,9 +17702,9 @@
       "referenced_by": [
         "20260514144210_twitter_com_Prechaska_status_2054935307955695959.json"
       ],
-      "last_updated": "2026-08-19T03:21:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514144210im_/https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2c8bbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260514144210if_/https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177057bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2054062701526261760/NSLbXR-i_normal.jpg": {
       "status": "done",
@@ -17879,9 +17879,9 @@
       "referenced_by": [
         "20260628062551_twitter_com_Prechaska_status_2071117855861477530.json"
       ],
-      "last_updated": "2026-08-19T03:21:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260628062551im_/https://pbs.twimg.com/profile_images/1097332789978980352/3mtN9sSs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2d67710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:54",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260628062551if_/https://pbs.twimg.com/profile_images/1097332789978980352/3mtN9sSs_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f0177087470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg": {
       "status": "done",
@@ -17916,9 +17916,9 @@
         "20260701013033_twitter_com_Prechaska_status_2072130705774330020.json",
         "20260701013518_twitter_com_Prechaska_status_2072131902069457188.json"
       ],
-      "last_updated": "2026-08-19T03:21:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701013518im_/https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc0a2c8ae70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 10
+      "last_updated": "2026-09-11T07:21:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701013518if_/https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b7590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 12
     },
     "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg": {
       "status": "done",
@@ -18409,284 +18409,333 @@
       "last_updated": "2026-08-19T03:18:37"
     },
     "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818005041_twitter_com_Prechaska_status_2089515293127373087.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:11"
     },
     "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818005041_twitter_com_Prechaska_status_2089515293127373087.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:11"
     },
     "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260818005041_twitter_com_Prechaska_status_2089515293127373087.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:11"
     },
     "https://pbs.twimg.com/profile_images/1947605002245312513/WiOEcQSU_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260819090138_twitter_com_Prechaska_status_2090001230437503289.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1999889013004546055/oANzjmZb_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260819184411_twitter_com_Prechaska_status_2090147834008076531.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:11"
     },
     "https://pbs.twimg.com/profile_images/1738010889981149184/hpqbVRmp_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260820014345_twitter_com_Prechaska_status_2090253423623254348.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:11"
     },
     "https://pbs.twimg.com/profile_images/1277796721070731264/_o26JNJi_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260820132153_twitter_com_Prechaska_status_2090429111584039058.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2045369755167535104/hE7Q4qlM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260820223849_twitter_com_Prechaska_status_2090569271567135143.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1395755860492705793/4HUupxHr_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821224717_twitter_com_Prechaska_status_2090933788310438158.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2066181002284691456/QrwPv6RJ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822010023_twitter_com_Prechaska_status_2090967282176684430.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1085342087162126336/TLfZ4-IC_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822014054_twitter_com_Prechaska_status_2090977480643617067.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822142931_twitter_com_Prechaska_status_2091170909768011945.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1906690752312406016/xo2Wju2I_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260823015840_twitter_com_Prechaska_status_2091344338123112694.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2091296558134513665/TizkhK0g_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260823044145_twitter_com_Prechaska_status_2091385379114893394.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:21:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260823044145if_/https://pbs.twimg.com/profile_images/2091296558134513665/TizkhK0g_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01770b7290>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260823124755_twitter_com_Prechaska_status_2091507728397312058.json",
         "20260901013509_twitter_com_Prechaska_status_2094599910821892480.json",
         "20260901142816_twitter_com_Prechaska_status_2094794472731353538.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1675453707868143617/P3pMtEWy_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260824152332_twitter_com_Prechaska_status_2091909278575780219.json",
         "20260824165731_twitter_com_Prechaska_status_2091932932202222027.json",
         "20260824182941_twitter_com_Prechaska_status_2091956124153156088.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260825125153_twitter_com_Prechaska_status_2092233503379497441.json",
         "20260825131027_twitter_com_Prechaska_status_2092238173833449495.json",
         "20260825132718_twitter_com_Prechaska_status_2092242414832599417.json",
         "20260826130604_twitter_com_Prechaska_status_2092599461910561053.json",
         "20260826132557_twitter_com_Prechaska_status_2092604463957901369.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1943001331930669056/ybjnvvOM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260825133012_twitter_com_Prechaska_status_2092243145379733682.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1964411405098000384/0UHus_Ay_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826022955_twitter_com_Prechaska_status_2092439365880594557.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2088755724906090496/bNYA8uoO_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826141659_twitter_com_Prechaska_status_2092617308149788877.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1670138860863406080/p5x_RwOh_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260827005437_twitter_com_Prechaska_status_2092777772536181108.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260828013608_twitter_com_Prechaska_status_2093150609792962604.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260828123146_twitter_com_Prechaska_status_2093315604124176459.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260828140204_twitter_com_Prechaska_status_2093338327785365778.json",
         "20260828142221_twitter_com_Prechaska_status_2093343433515814982.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260829134302_twitter_com_Prechaska_status_2093695924350701949.json",
         "20260830223526_twitter_com_Prechaska_status_2094192297638559933.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2084102040133988352/fDpSeSZU_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260830024227_twitter_com_Prechaska_status_2093892074504585610.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2092286962027892736/wekn6ZoR_normal.jpg": {
-      "status": "unknown",
+      "status": "failed",
       "referenced_by": [
         "20260831101303_twitter_com_Prechaska_status_2094367858671354212.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:22:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260831101303if_/https://pbs.twimg.com/profile_images/2092286962027892736/wekn6ZoR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f01773dba10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1350336231805050887/eONSukRa_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260831205246_twitter_com_Prechaska_status_2094528848964788228.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1871187648561438720/rySA6hIS_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260901015315_twitter_com_Prechaska_status_2094604466028970224.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2088089558961594368/xv9qoTbS_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260901050816_twitter_com_Prechaska_status_2094653545580843117.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1262547380404027392/XV3R7GQx_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260901074638_twitter_com_Prechaska_status_2094693399479869806.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2064170257518936064/AF6u7wOg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260901121810_twitter_com_Prechaska_status_2094761732392862071.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260901141250_twitter_com_Prechaska_status_2094790587451097577.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2093344189056774144/Emr5Eg92_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260902110200_twitter_com_Prechaska_status_2095104952272355818.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2092699779163918336/DQJ63vMI_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260902110554_twitter_com_Prechaska_status_2095105932145644004.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1762451537278693376/mI_cCFz-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260902110944_twitter_com_Prechaska_status_2095106898358079495.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2076649136280023041/i8puL0mz_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260902111052_twitter_com_Prechaska_status_2095107184422228063.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/1962438597316870144/Od-ZHHVM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260902124819_twitter_com_Prechaska_status_2095131707817214341.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2094950067270811648/R2mCBRVo_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260902215234_twitter_com_Prechaska_status_2095268671526777065.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2048127481484558336/1eBZzhGw_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260903033943_twitter_com_Prechaska_status_2095356035192246595.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2095559876382760960/ULqsJiLq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260904122925_twitter_com_Prechaska_status_2095851728105247220.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260904211123_twitter_com_Prechaska_status_2095983082562310323.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/540272180034957312/HNoPb4FM_normal.jpeg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260905101747_twitter_com_Prechaska_status_2096180989265596727.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2009937545380143105/qVqQi0qT_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260908091218_twitter_com_Prechaska_status_2097251674306068824.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     },
     "https://pbs.twimg.com/profile_images/2095584492266385408/yj-CqckJ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260908091228_twitter_com_Prechaska_status_2097251715477283026.json"
-      ]
+      ],
+      "last_updated": "2026-09-11T07:20:12"
     }
   },
   "media": {
@@ -43202,7 +43251,7 @@
       "last_updated": "2026-09-11T07:14:24"
     },
     "20260818005041_twitter_com_Prechaska_status_2089515293127373087.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43213,7 +43262,7 @@
           "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:11"
     },
     "20260818072029_twitter_com_Prechaska_status_2089613389836513369.json": {
       "status": "done",
@@ -43403,7 +43452,7 @@
       "last_updated": "2026-09-11T07:14:24"
     },
     "20260819090138_twitter_com_Prechaska_status_2090001230437503289.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -43414,7 +43463,7 @@
           "https://pbs.twimg.com/profile_images/1947605002245312513/WiOEcQSU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:21"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260819124429_twitter_com_Prechaska_status_2090057314581840050.json": {
       "status": "done",
@@ -43488,7 +43537,7 @@
       "last_updated": "2026-09-11T07:14:24"
     },
     "20260819184411_twitter_com_Prechaska_status_2090147834008076531.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -43499,7 +43548,7 @@
           "https://pbs.twimg.com/profile_images/1999889013004546055/oANzjmZb_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:19"
+      "last_updated": "2026-09-11T07:20:11"
     },
     "20260820010627_twitter_com_Prechaska_status_2090244033344057560.json": {
       "status": "done",
@@ -43553,7 +43602,7 @@
       "last_updated": "2026-09-11T07:14:25"
     },
     "20260820014345_twitter_com_Prechaska_status_2090253423623254348.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQILI_JWEAAqvn9.jpg"
@@ -43564,7 +43613,7 @@
           "https://pbs.twimg.com/profile_images/1738010889981149184/hpqbVRmp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:11"
     },
     "20260820022402_twitter_com_Prechaska_status_2090263561218269343.json": {
       "status": "done",
@@ -43579,7 +43628,7 @@
       "last_updated": "2026-09-11T07:14:24"
     },
     "20260820132153_twitter_com_Prechaska_status_2090429111584039058.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQKUKmJasAEJnf3.jpg",
@@ -43593,10 +43642,10 @@
           "https://pbs.twimg.com/profile_images/1277796721070731264/_o26JNJi_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260820223849_twitter_com_Prechaska_status_2090569271567135143.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43605,7 +43654,7 @@
           "https://pbs.twimg.com/profile_images/2045369755167535104/hE7Q4qlM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260821071606_twitter_com_Prechaska_status_2090699448511001007.json": {
       "status": "done",
@@ -43729,7 +43778,7 @@
       "last_updated": "2026-09-11T07:14:24"
     },
     "20260821224717_twitter_com_Prechaska_status_2090933788310438158.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQRdm8PXQAAjVAw.jpg"
@@ -43741,10 +43790,10 @@
           "https://pbs.twimg.com/profile_images/1395755860492705793/4HUupxHr_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260822010023_twitter_com_Prechaska_status_2090967282176684430.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQPJt85WMAA1keK.jpg"
@@ -43755,10 +43804,10 @@
           "https://pbs.twimg.com/profile_images/2066181002284691456/QrwPv6RJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260822014054_twitter_com_Prechaska_status_2090977480643617067.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -43769,7 +43818,7 @@
           "https://pbs.twimg.com/profile_images/1085342087162126336/TLfZ4-IC_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:19"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260822033236_twitter_com_Prechaska_status_2091005589275205791.json": {
       "status": "done",
@@ -43853,7 +43902,7 @@
       "last_updated": "2026-09-11T07:14:25"
     },
     "20260822142931_twitter_com_Prechaska_status_2091170909768011945.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43862,7 +43911,7 @@
           "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260822143024_twitter_com_Prechaska_status_2091171133219651899.json": {
       "status": "done",
@@ -43902,7 +43951,7 @@
       "last_updated": "2026-09-11T07:14:25"
     },
     "20260823015840_twitter_com_Prechaska_status_2091344338123112694.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -43913,10 +43962,10 @@
           "https://pbs.twimg.com/profile_images/1906690752312406016/xo2Wju2I_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:19"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260823044145_twitter_com_Prechaska_status_2091385379114893394.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQPTsr5bIAA5qa6.jpg"
@@ -43927,7 +43976,7 @@
           "https://pbs.twimg.com/profile_images/2091296558134513665/TizkhK0g_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:14"
     },
     "20260823083236_twitter_com_Prechaska_status_2091443474939986174.json": {
       "status": "done",
@@ -43943,7 +43992,7 @@
       "last_updated": "2026-09-11T07:14:25"
     },
     "20260823124755_twitter_com_Prechaska_status_2091507728397312058.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43952,7 +44001,7 @@
           "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260823132430_twitter_com_Prechaska_status_2091516937192997024.json": {
       "status": "done",
@@ -44154,7 +44203,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260824152332_twitter_com_Prechaska_status_2091909278575780219.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44164,10 +44213,10 @@
           "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260824165731_twitter_com_Prechaska_status_2091932932202222027.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44176,10 +44225,10 @@
           "https://pbs.twimg.com/profile_images/1675453707868143617/P3pMtEWy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260824182941_twitter_com_Prechaska_status_2091956124153156088.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44189,7 +44238,7 @@
           "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260824185532_twitter_com_Prechaska_status_2091962632265978067.json": {
       "status": "done",
@@ -44233,7 +44282,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260825125153_twitter_com_Prechaska_status_2092233503379497441.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44242,10 +44291,10 @@
           "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260825131027_twitter_com_Prechaska_status_2092238173833449495.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44254,10 +44303,10 @@
           "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260825132718_twitter_com_Prechaska_status_2092242414832599417.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44266,10 +44315,10 @@
           "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260825133012_twitter_com_Prechaska_status_2092243145379733682.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -44280,7 +44329,7 @@
           "https://pbs.twimg.com/profile_images/1943001331930669056/ybjnvvOM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:18"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260825133836_twitter_com_Prechaska_status_2092245257346011156.json": {
       "status": "done",
@@ -44307,7 +44356,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260826022955_twitter_com_Prechaska_status_2092439365880594557.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44316,7 +44365,7 @@
           "https://pbs.twimg.com/profile_images/1964411405098000384/0UHus_Ay_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260826023045_twitter_com_Prechaska_status_2092439576044609995.json": {
       "status": "done",
@@ -44391,7 +44440,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260826130604_twitter_com_Prechaska_status_2092599461910561053.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44400,10 +44449,10 @@
           "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260826132557_twitter_com_Prechaska_status_2092604463957901369.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44412,10 +44461,10 @@
           "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260826141659_twitter_com_Prechaska_status_2092617308149788877.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQp1Wh3XoAA3-5w.jpg"
@@ -44426,10 +44475,10 @@
           "https://pbs.twimg.com/profile_images/2088755724906090496/bNYA8uoO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260827005437_twitter_com_Prechaska_status_2092777772536181108.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -44440,7 +44489,7 @@
           "https://pbs.twimg.com/profile_images/1670138860863406080/p5x_RwOh_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:18"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260827100305_twitter_com_Prechaska_status_2092915798021202140.json": {
       "status": "done",
@@ -44466,7 +44515,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260828013608_twitter_com_Prechaska_status_2093150609792962604.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQxcZKCXsAA_miV.jpg"
@@ -44477,10 +44526,10 @@
           "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260828123146_twitter_com_Prechaska_status_2093315604124176459.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44489,10 +44538,10 @@
           "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260828140204_twitter_com_Prechaska_status_2093338327785365778.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44501,7 +44550,7 @@
           "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260828140653_twitter_com_Prechaska_status_2093339541075550409.json": {
       "status": "done",
@@ -44516,7 +44565,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260828142221_twitter_com_Prechaska_status_2093343433515814982.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44525,7 +44574,7 @@
           "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260829011307_twitter_com_Prechaska_status_2093507205660381487.json": {
       "status": "done",
@@ -44624,7 +44673,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260829134302_twitter_com_Prechaska_status_2093695924350701949.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44633,10 +44682,10 @@
           "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260830024227_twitter_com_Prechaska_status_2093892074504585610.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQ62j1kbcAAJ1Em.jpg"
@@ -44647,7 +44696,7 @@
           "https://pbs.twimg.com/profile_images/2084102040133988352/fDpSeSZU_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260830032513_twitter_com_Prechaska_status_2093902834043634163.json": {
       "status": "done",
@@ -44710,7 +44759,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260830223526_twitter_com_Prechaska_status_2094192297638559933.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRAPhi_b0AAic4p.jpg"
@@ -44721,7 +44770,7 @@
           "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260831025451_twitter_com_Prechaska_status_2094257581602828763.json": {
       "status": "done",
@@ -44784,7 +44833,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260831101303_twitter_com_Prechaska_status_2094367858671354212.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44793,7 +44842,7 @@
           "https://pbs.twimg.com/profile_images/2092286962027892736/wekn6ZoR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:14"
     },
     "20260831120125_twitter_com_Prechaska_status_2094395129134240097.json": {
       "status": "done",
@@ -44830,7 +44879,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260831205246_twitter_com_Prechaska_status_2094528848964788228.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -44841,7 +44890,7 @@
           "https://pbs.twimg.com/profile_images/1350336231805050887/eONSukRa_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:19"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260901001534_twitter_com_Prechaska_status_2094579886367420832.json": {
       "status": "done",
@@ -44856,7 +44905,7 @@
       "last_updated": "2026-09-11T07:14:26"
     },
     "20260901013509_twitter_com_Prechaska_status_2094599910821892480.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -44866,10 +44915,10 @@
           "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260901015315_twitter_com_Prechaska_status_2094604466028970224.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -44880,7 +44929,7 @@
           "https://pbs.twimg.com/profile_images/1871187648561438720/rySA6hIS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:19"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260901024420_twitter_com_Prechaska_status_2094617320773845443.json": {
       "status": "done",
@@ -44908,7 +44957,7 @@
       "last_updated": "2026-09-11T07:14:27"
     },
     "20260901050816_twitter_com_Prechaska_status_2094653545580843117.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQ9nP3tawAAspJF.jpg"
@@ -44919,7 +44968,7 @@
           "https://pbs.twimg.com/profile_images/2088089558961594368/xv9qoTbS_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260901050955_twitter_com_Prechaska_status_2094653958644232639.json": {
       "status": "done",
@@ -45014,7 +45063,7 @@
       "last_updated": "2026-09-11T07:19:18"
     },
     "20260901074638_twitter_com_Prechaska_status_2094693399479869806.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRDLPjcbgAA4IO7.jpg"
@@ -45025,7 +45074,7 @@
           "https://pbs.twimg.com/profile_images/1262547380404027392/XV3R7GQx_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260901092658_twitter_com_Prechaska_status_2094718649450033524.json": {
       "status": "done",
@@ -45128,7 +45177,7 @@
       "last_updated": "2026-09-11T07:14:27"
     },
     "20260901121810_twitter_com_Prechaska_status_2094761732392862071.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -45137,7 +45186,7 @@
           "https://pbs.twimg.com/profile_images/2064170257518936064/AF6u7wOg_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260901132622_twitter_com_Prechaska_status_2094778894834716672.json": {
       "status": "done",
@@ -45152,7 +45201,7 @@
       "last_updated": "2026-09-11T07:14:27"
     },
     "20260901141250_twitter_com_Prechaska_status_2094790587451097577.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HREcYQzaMAApFxs.jpg"
@@ -45163,10 +45212,10 @@
           "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260901142816_twitter_com_Prechaska_status_2094794472731353538.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRIzkxsaMAA-9k2.jpg"
@@ -45177,7 +45226,7 @@
           "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260902033233_twitter_com_Prechaska_status_2094991846220939399.json": {
       "status": "done",
@@ -45204,7 +45253,7 @@
       "last_updated": "2026-09-11T07:14:27"
     },
     "20260902110200_twitter_com_Prechaska_status_2095104952272355818.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRH8VBLaEAADLNv.jpg"
@@ -45215,10 +45264,10 @@
           "https://pbs.twimg.com/profile_images/2093344189056774144/Emr5Eg92_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260902110554_twitter_com_Prechaska_status_2095105932145644004.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -45227,10 +45276,10 @@
           "https://pbs.twimg.com/profile_images/2092699779163918336/DQJ63vMI_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260902110944_twitter_com_Prechaska_status_2095106898358079495.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -45241,10 +45290,10 @@
           "https://pbs.twimg.com/profile_images/1762451537278693376/mI_cCFz-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:18"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260902111052_twitter_com_Prechaska_status_2095107184422228063.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -45255,10 +45304,10 @@
           "https://pbs.twimg.com/profile_images/2076649136280023041/i8puL0mz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:19"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260902124819_twitter_com_Prechaska_status_2095131707817214341.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRNgEGxWkAAQuMc.jpg"
@@ -45269,10 +45318,10 @@
           "https://pbs.twimg.com/profile_images/1962438597316870144/Od-ZHHVM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260902215234_twitter_com_Prechaska_status_2095268671526777065.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -45281,10 +45330,10 @@
           "https://pbs.twimg.com/profile_images/2094950067270811648/R2mCBRVo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260903033943_twitter_com_Prechaska_status_2095356035192246595.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -45295,7 +45344,7 @@
           "https://pbs.twimg.com/profile_images/2048127481484558336/1eBZzhGw_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:18"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260903042047_twitter_com_Prechaska_status_2095366371731480749.json": {
       "status": "done",
@@ -45332,7 +45381,7 @@
       "last_updated": "2026-09-11T07:14:27"
     },
     "20260904122925_twitter_com_Prechaska_status_2095851728105247220.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRXkuzAbEAAaGFv.jpg",
@@ -45346,7 +45395,7 @@
           "https://pbs.twimg.com/profile_images/2095559876382760960/ULqsJiLq_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260904140819_twitter_com_Prechaska_status_2095876618359316775.json": {
       "status": "done",
@@ -45376,7 +45425,7 @@
       "last_updated": "2026-09-11T07:14:28"
     },
     "20260904211123_twitter_com_Prechaska_status_2095983082562310323.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRZl9NRaoAAyYE_.jpg"
@@ -45387,7 +45436,7 @@
           "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260905092854_twitter_com_Prechaska_status_2096168684909990110.json": {
       "status": "done",
@@ -45404,7 +45453,7 @@
       "last_updated": "2026-09-11T07:14:27"
     },
     "20260905101747_twitter_com_Prechaska_status_2096180989265596727.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRX4WOHbQAE6ywm.jpg"
@@ -45416,7 +45465,7 @@
           "https://pbs.twimg.com/profile_images/540272180034957312/HNoPb4FM_normal.jpeg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260906013908_twitter_com_Prechaska_status_2096412853704278185.json": {
       "status": "done",
@@ -45431,7 +45480,7 @@
       "last_updated": "2026-09-11T07:14:27"
     },
     "20260908091218_twitter_com_Prechaska_status_2097251674306068824.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -45440,10 +45489,10 @@
           "https://pbs.twimg.com/profile_images/2009937545380143105/qVqQi0qT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     },
     "20260908091228_twitter_com_Prechaska_status_2097251715477283026.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -45452,7 +45501,7 @@
           "https://pbs.twimg.com/profile_images/2095584492266385408/yj-CqckJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-11T07:19:17"
+      "last_updated": "2026-09-11T07:20:12"
     }
   }
 }
