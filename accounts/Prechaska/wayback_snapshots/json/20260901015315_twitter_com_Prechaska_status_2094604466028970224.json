@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278066760814456832",
+          "name": "Family"
+        }
+      }
+    ],
+    "conversation_id": "2094604466028970224",
+    "created_at": "2026-09-01T01:53:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T02:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094604466028970224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2879579054",
+          "start": 3,
+          "username": "kotori_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094604466028970224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094396323479101604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotori_jp: 鳶田先生とご一緒する機会があり、雑な子育てをするカイツブリの話をして、動画をお見せしたら、まさかのイラスト化…！😂\n「さすがに誇張してない！？」\nいやいや…これが誇張無しなんで、この動画をご覧ください\n※思わず吹き出してしまう声が入ってごめんなさい…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17898,
+        "height": 720,
+        "media_key": "13_2094396286837596160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094396286837596160/img/q9K3F27aGJpuweHy.jpg",
+        "public_metrics": {
+          "view_count": 141523
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094396286837596160/vid/avc1/480x270/Gza8X_59NSHGPyBv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094396286837596160/vid/avc1/640x360/NCqM1Sl2Ui_2Wn73.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094396286837596160/vid/avc1/1280x720/pPJnm4fZuOBHaYDi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094396286837596160/pl/abiobJkz2XStU8aT.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2094604466028970224",
+        "created_at": "2026-09-01T01:53:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094604466028970224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2879579054",
+              "start": 3,
+              "username": "kotori_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094604466028970224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094396323479101604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotori_jp: 鳶田先生とご一緒する機会があり、雑な子育てをするカイツブリの話をして、動画をお見せしたら、まさかのイラスト化…！😂\n「さすがに誇張してない！？」\nいやいや…これが誇張無しなんで、この動画をご覧ください\n※思わず吹き出してしまう声が入ってごめんなさい…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094396286837596160"
+          ]
+        },
+        "author_id": "2879579054",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2094396323479101604",
+        "created_at": "2026-08-31T12:06:10.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094396323479101604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtTVrdX3Ey",
+              "end": 148,
+              "expanded_url": "https://x.com/kotori_jp/status/2094396323479101604/video/1",
+              "media_key": "13_2094396286837596160",
+              "start": 125,
+              "url": "https://t.co/rtTVrdX3Ey"
+            },
+            {
+              "display_url": "x.com/kazuholland_dr…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/kazuholland_dr/status/2094393755789062536",
+              "start": 149,
+              "url": "https://t.co/zfYC6VOpzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094396323479101604",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094396286837596160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1630,
+          "impression_count": 372753,
+          "like_count": 9935,
+          "quote_count": 21,
+          "reply_count": 1,
+          "retweet_count": 2296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094393755789062536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鳶田先生とご一緒する機会があり、雑な子育てをするカイツブリの話をして、動画をお見せしたら、まさかのイラスト化…！😂\n「さすがに誇張してない！？」\nいやいや…これが誇張無しなんで、この動画をご覧ください\n※思わず吹き出してしまう声が入ってごめんなさい https://t.co/rtTVrdX3Ey https://t.co/zfYC6VOpzf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094604466028970224",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 184,
+          "like_count": 5352,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2269
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-27T13:45:50.000Z",
+        "description": "鳥が大好きな独身30代週末バーダー/ジュズカケバトの娘/Nikon Z9 500mm PF",
+        "id": "2879579054",
+        "is_identity_verified": false,
+        "location": "埼玉湾とその周辺",
+        "most_recent_tweet_id": "2094410802476503179",
+        "name": "jp",
+        "pinned_tweet_id": "912261431705329664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2879579054/1596801559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871187648561438720/rySA6hIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15013,
+          "following_count": 511,
+          "like_count": 24518,
+          "listed_count": 258,
+          "media_count": 21203,
+          "tweet_count": 95867
+        },
+        "url": "",
+        "username": "kotori_jp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

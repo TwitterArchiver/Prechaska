@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2090933788310438158",
+    "created_at": "2026-08-21T22:47:17.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T23:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090933788310438158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1402792488943984659",
+          "start": 3,
+          "username": "ChicagoPiping"
+        },
+        {
+          "end": 80,
+          "id": "1395755426193584130",
+          "start": 67,
+          "username": "plovermother"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 143,
+          "start": 130,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090933788310438158",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090899054095904948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChicagoPiping: The Monty &amp; Rose Family Tree\n\nOur thanks to @plovermother for producing and maintaining the family tree. 🤍 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2090899050593730560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRdm8PXQAAjVAw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2090933788310438158",
+        "created_at": "2026-08-21T22:47:17.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T23:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090933788310438158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1402792488943984659",
+              "start": 3,
+              "username": "ChicagoPiping"
+            },
+            {
+              "end": 80,
+              "id": "1395755426193584130",
+              "start": 67,
+              "username": "plovermother"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 143,
+              "start": 130,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090933788310438158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090899054095904948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChicagoPiping: The Monty &amp; Rose Family Tree\n\nOur thanks to @plovermother for producing and maintaining the family tree. 🤍 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090899050593730560"
+          ]
+        },
+        "author_id": "1402792488943984659",
+        "conversation_id": "2090899054095904948",
+        "created_at": "2026-08-21T20:29:16.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090899054095904948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1395755426193584130",
+              "start": 48,
+              "username": "plovermother"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1aTjsTStBQ",
+              "end": 134,
+              "expanded_url": "https://x.com/ChicagoPiping/status/2090899054095904948/photo/1",
+              "media_key": "3_2090899050593730560",
+              "start": 111,
+              "url": "https://t.co/1aTjsTStBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090899054095904948",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090899050593730560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 910,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "The Monty &amp; Rose Family Tree\n\nOur thanks to @plovermother for producing and maintaining the family tree. 🤍 https://t.co/1aTjsTStBQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090933788310438158",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 175,
+          "like_count": 5089,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 2174
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-10T01:03:54.000Z",
+        "description": "The offical account for Chicago Piping Plover (PIPL) news and content. Media inquiries email piperwatch@chicagobirder.org.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chicagopipingplovers.org",
+                "end": 23,
+                "expanded_url": "https://www.chicagopipingplovers.org",
+                "start": 0,
+                "url": "https://t.co/ak052q37uD"
+              }
+            ]
+          }
+        },
+        "id": "1402792488943984659",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090899054095904948",
+        "name": "Chicago Piping Plovers",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402792488943984659/1785209036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402794805202128900/1iHOYp33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3630,
+          "following_count": 200,
+          "like_count": 5683,
+          "listed_count": 28,
+          "media_count": 1114,
+          "tweet_count": 4056
+        },
+        "url": "https://t.co/ak052q37uD",
+        "username": "ChicagoPiping",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T14:56:48.000Z",
+        "description": "Where the adventures of Monty and Rose live",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plovermother.com",
+                "end": 23,
+                "expanded_url": "http://plovermother.com",
+                "start": 0,
+                "url": "https://t.co/wlL6dO3x4l"
+              }
+            ]
+          }
+        },
+        "id": "1395755426193584130",
+        "is_identity_verified": false,
+        "location": "Chicago, IL",
+        "most_recent_tweet_id": "1838663006659498224",
+        "name": "plovermother",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395755426193584130/1622372488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1395755860492705793/4HUupxHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 97,
+          "like_count": 2016,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/wlL6dO3x4l",
+        "username": "plovermother",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

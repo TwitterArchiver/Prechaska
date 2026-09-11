@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2089515293127373087",
+    "created_at": "2026-08-18T00:50:41.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T01:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089515293127373087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1829548387936681984",
+          "start": 3,
+          "username": "Othercypl"
+        },
+        {
+          "end": 104,
+          "id": "2044176423460515840",
+          "start": 94,
+          "username": "dupinkepu"
+        },
+        {
+          "end": 124,
+          "id": "2044496192734666752",
+          "start": 113,
+          "username": "UWATCHLIFE"
+        }
+      ],
+      "urls": [
+        {
+          "description": "在钱包中打开 请确认币种和网络完全一致。部分钱包可能忽略二维码金额，请以页面显示金额为准。 重新创建付款订单 付款已确认，兑换券已生成",
+          "display_url": "de.fanjieli.org/pay.html?produ…",
+          "end": 70,
+          "expanded_url": "https://de.fanjieli.org/pay.html?product_id=907f8e92-6d5c-4185-8c6e-1c35b9d2c82c",
+          "start": 47,
+          "status": 200,
+          "title": "商品付款",
+          "unwound_url": "https://de.fanjieli.org/pay.html?product_id=907f8e92-6d5c-4185-8c6e-1c35b9d2c82c",
+          "url": "https://t.co/WAhNvNd80o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089515293127373087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089287156166471866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Othercypl: 原料革命pr80重新开售，由于上次损耗的经验遂涨价为1U/4g。https://t.co/WAhNvNd80o 自助购买（1数量为1g）\n人民币付款请联系橘 @dupinkepu，橘 不在请联系 @UWATCHLIFE。\n三天内发货。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2089515293127373087",
+        "created_at": "2026-08-18T00:50:41.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089515293127373087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1829548387936681984",
+              "start": 3,
+              "username": "Othercypl"
+            },
+            {
+              "end": 104,
+              "id": "2044176423460515840",
+              "start": 94,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 124,
+              "id": "2044496192734666752",
+              "start": 113,
+              "username": "UWATCHLIFE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在钱包中打开 请确认币种和网络完全一致。部分钱包可能忽略二维码金额，请以页面显示金额为准。 重新创建付款订单 付款已确认，兑换券已生成",
+              "display_url": "de.fanjieli.org/pay.html?produ…",
+              "end": 70,
+              "expanded_url": "https://de.fanjieli.org/pay.html?product_id=907f8e92-6d5c-4185-8c6e-1c35b9d2c82c",
+              "start": 47,
+              "status": 200,
+              "title": "商品付款",
+              "unwound_url": "https://de.fanjieli.org/pay.html?product_id=907f8e92-6d5c-4185-8c6e-1c35b9d2c82c",
+              "url": "https://t.co/WAhNvNd80o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089515293127373087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089287156166471866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Othercypl: 原料革命pr80重新开售，由于上次损耗的经验遂涨价为1U/4g。https://t.co/WAhNvNd80o 自助购买（1数量为1g）\n人民币付款请联系橘 @dupinkepu，橘 不在请联系 @UWATCHLIFE。\n三天内发货。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829548387936681984",
+        "conversation_id": "2089287156166471866",
+        "created_at": "2026-08-17T09:44:09.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T10:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089287156166471866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "2044176423460515840",
+              "start": 79,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 109,
+              "id": "2044496192734666752",
+              "start": 98,
+              "username": "UWATCHLIFE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在钱包中打开 请确认币种和网络完全一致。部分钱包可能忽略二维码金额，请以页面显示金额为准。 重新创建付款订单 付款已确认，兑换券已生成",
+              "display_url": "de.fanjieli.org/pay.html?produ…",
+              "end": 55,
+              "expanded_url": "https://de.fanjieli.org/pay.html?product_id=907f8e92-6d5c-4185-8c6e-1c35b9d2c82c",
+              "start": 32,
+              "status": 200,
+              "title": "商品付款",
+              "unwound_url": "https://de.fanjieli.org/pay.html?product_id=907f8e92-6d5c-4185-8c6e-1c35b9d2c82c",
+              "url": "https://t.co/WAhNvNd80o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089287156166471866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 637,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "原料革命pr80重新开售，由于上次损耗的经验遂涨价为1U/4g。https://t.co/WAhNvNd80o 自助购买（1数量为1g）\n人民币付款请联系橘 @dupinkepu，橘 不在请联系 @UWATCHLIFE。\n三天内发货。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089515293127373087",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 167,
+          "like_count": 4952,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2132
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T15:55:13.000Z",
+        "description": "08 17苦命高中生|OD|不鉴证|互fo|INST|友一切|\n鸽子神万岁！",
+        "id": "1829548387936681984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089288455625052641",
+        "name": "OtherB",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829548387936681984/1784734026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 239,
+          "like_count": 2426,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "Othercypl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089368270025670708",
+        "name": "橘雪莉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044176423460515840/1780542200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 196,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2088983834369101873",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 162,
+          "like_count": 1932,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

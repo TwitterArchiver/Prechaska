@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2091521003885379750",
+    "created_at": "2026-08-24T15:23:32.000Z",
+    "display_text_range": [
+      24,
+      158
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T16:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091909278575780219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1673624341227896833",
+          "start": 0,
+          "username": "XiRuZhaJi"
+        },
+        {
+          "end": 23,
+          "id": "1958507577077342208",
+          "start": 11,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091909278575780219",
+    "in_reply_to_user_id": "1673624341227896833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091884208021020762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiRuZhaJi @Vacue138950 倒没有严格意义上的“迫害”，这里只是想表达国内宗教处于一种生存空间被严格限制、严禁宣传、在“宗教=愚昧”的长期宣传下导致人们普遍对宗教保有反感等的弱势状态，就是说它毫无疑问是在主流之外的受排挤的存在，因此选择信仰的人更多是发自内心的信，而不是为了权力利益之类才选择相信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2091521003885379750",
+        "created_at": "2026-08-24T15:23:32.000Z",
+        "display_text_range": [
+          24,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091909278575780219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1673624341227896833",
+              "start": 0,
+              "username": "XiRuZhaJi"
+            },
+            {
+              "end": 23,
+              "id": "1958507577077342208",
+              "start": 11,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091909278575780219",
+        "in_reply_to_user_id": "1673624341227896833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091884208021020762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiRuZhaJi @Vacue138950 倒没有严格意义上的“迫害”，这里只是想表达国内宗教处于一种生存空间被严格限制、严禁宣传、在“宗教=愚昧”的长期宣传下导致人们普遍对宗教保有反感等的弱势状态，就是说它毫无疑问是在主流之外的受排挤的存在，因此选择信仰的人更多是发自内心的信，而不是为了权力利益之类才选择相信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673624341227896833",
+        "conversation_id": "2091521003885379750",
+        "created_at": "2026-08-24T13:43:55.000Z",
+        "display_text_range": [
+          24,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091884208021020762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            },
+            {
+              "end": 23,
+              "id": "1958507577077342208",
+              "start": 11,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091884208021020762",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091678099620729027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska @Vacue138950 國內天主教怎麼樣受迫害？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091909278575780219",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 180,
+          "like_count": 5175,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2208
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-27T09:28:43.000Z",
+        "description": "@xiruermuzi by 雲岫客 我是护旗手，反洋教。復禮修德、庇我中華；天滅美帝、福祉永泰。西洋鬼子不要关注我，特別犹撒人！Foreign Demons don’t follow me！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "xiruermuzi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiruermuzi",
+                "end": 23,
+                "expanded_url": "https://x.com/xiruermuzi",
+                "start": 0,
+                "url": "https://t.co/dRwuqviFv8"
+              }
+            ]
+          }
+        },
+        "id": "1673624341227896833",
+        "is_identity_verified": false,
+        "location": "Pekin, Chine",
+        "most_recent_tweet_id": "2091904295419494901",
+        "name": "China’s Dream of Western Confucian Journal 西儒中國夢札記",
+        "pinned_tweet_id": "1960215915154284548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673624341227896833/1687861336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675453707868143617/P3pMtEWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1393,
+          "like_count": 46288,
+          "listed_count": 8,
+          "media_count": 3322,
+          "tweet_count": 34801
+        },
+        "url": "https://t.co/dRwuqviFv8",
+        "username": "XiRuZhaJi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "is_identity_verified": false,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2091724871764168765",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958507577077342208/1761901579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 779,
+          "like_count": 4018,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1270
+        },
+        "url": "",
+        "username": "Vacue138950",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

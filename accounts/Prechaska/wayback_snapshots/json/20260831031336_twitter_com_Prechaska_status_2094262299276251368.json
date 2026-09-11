@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093970542189813760"
+      ],
+      "media_source_tweet_id": [
+        "2093970563614277694"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2094262299276251368",
+    "created_at": "2026-08-31T03:13:36.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T04:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094262299276251368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2010929506127851520",
+          "start": 3,
+          "username": "sparrowincrisis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DE7woz8gkN",
+          "end": 44,
+          "expanded_url": "https://x.com/sparrowincrisis/status/2093970563614277694/video/1",
+          "media_key": "13_2093970542189813760",
+          "start": 21,
+          "url": "https://t.co/DE7woz8gkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094262299276251368",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2093970542189813760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093970563614277694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sparrowincrisis: https://t.co/DE7woz8gkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26261,
+        "height": 720,
+        "media_key": "13_2093970542189813760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093970542189813760/img/lA8rhsP8oQT2XFTX.jpg",
+        "public_metrics": {
+          "view_count": 20379
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093970542189813760/vid/avc1/320x320/f2Y7KnJCAcNAyHb8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093970542189813760/vid/avc1/540x540/hRNkw-K20I06xK_r.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093970542189813760/vid/avc1/720x720/a6gnZ-OwzKEZ1_ha.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093970542189813760/pl/9QAt227l0OmrwGmp.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093970542189813760"
+          ],
+          "media_source_tweet_id": [
+            "2093970563614277694"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2094262299276251368",
+        "created_at": "2026-08-31T03:13:36.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094262299276251368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2010929506127851520",
+              "start": 3,
+              "username": "sparrowincrisis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DE7woz8gkN",
+              "end": 44,
+              "expanded_url": "https://x.com/sparrowincrisis/status/2093970563614277694/video/1",
+              "media_key": "13_2093970542189813760",
+              "start": 21,
+              "url": "https://t.co/DE7woz8gkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094262299276251368",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093970542189813760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093970563614277694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sparrowincrisis: https://t.co/DE7woz8gkN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093970542189813760"
+          ]
+        },
+        "author_id": "2010929506127851520",
+        "conversation_id": "2093970563614277694",
+        "created_at": "2026-08-30T07:54:21.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093970563614277694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DE7woz8gkN",
+              "end": 23,
+              "expanded_url": "https://x.com/sparrowincrisis/status/2093970563614277694/video/1",
+              "media_key": "13_2093970542189813760",
+              "start": 0,
+              "url": "https://t.co/DE7woz8gkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093970563614277694",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2093970542189813760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 30930,
+          "like_count": 3760,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DE7woz8gkN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094262299276251368",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 184,
+          "like_count": 5321,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2258
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T04:18:58.000Z",
+        "description": "I am pilot you know, and one day I will fly away from here. \nkinda naughty and endangered species.",
+        "id": "2010929506127851520",
+        "is_identity_verified": false,
+        "location": "Farmland",
+        "most_recent_tweet_id": "2094254782387273828",
+        "name": "Sparrow",
+        "pinned_tweet_id": "2093740713137918037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010929506127851520/1769930709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017596212401344514/1Vl1HfTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15990,
+          "following_count": 289,
+          "like_count": 6091,
+          "listed_count": 75,
+          "media_count": 1774,
+          "tweet_count": 7103
+        },
+        "url": "",
+        "username": "sparrowincrisis",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

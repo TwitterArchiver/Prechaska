@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2090147834008076531",
+    "created_at": "2026-08-19T18:44:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T19:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090147834008076531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "105956287",
+          "start": 3,
+          "username": "MattPaulson28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090147834008076531",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089857643661697485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MattPaulson28: Day #10 in my birds are weird series\nBaby fuzzball Limpkins fighting over who gets the snail. To be fair there was anoth…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10286,
+        "height": 2160,
+        "media_key": "13_2089857368649510912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089857368649510912/img/19u7CptVWQM1bT2j.jpg",
+        "public_metrics": {
+          "view_count": 4345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089857368649510912/vid/avc1/480x270/S0tGsv1m_8M3-xSG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089857368649510912/vid/avc1/640x360/etZjNpNKllrCTsPn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089857368649510912/vid/avc1/1280x720/nfqSxMRg7RidIQOV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089857368649510912/pl/88dw8OygiVCiS4lT.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2090147834008076531",
+        "created_at": "2026-08-19T18:44:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090147834008076531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "105956287",
+              "start": 3,
+              "username": "MattPaulson28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090147834008076531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089857643661697485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MattPaulson28: Day #10 in my birds are weird series\nBaby fuzzball Limpkins fighting over who gets the snail. To be fair there was anoth…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089857368649510912"
+          ]
+        },
+        "author_id": "105956287",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1493177750324056064",
+              "name": "Babies"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "2089857643661697485",
+        "created_at": "2026-08-18T23:31:04.000Z",
+        "display_text_range": [
+          0,
+          215
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089857643661697485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBCwubwLz8",
+              "end": 239,
+              "expanded_url": "https://x.com/MattPaulson28/status/2089857643661697485/video/1",
+              "media_key": "13_2089857368649510912",
+              "start": 216,
+              "url": "https://t.co/BBCwubwLz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089857643661697485",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089857368649510912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 9971,
+          "like_count": 477,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "Day #10 in my birds are weird series\nBaby fuzzball Limpkins fighting over who gets the snail. To be fair there was another parent feeding them also about 5 feet away but apparently the sibling's snail looked better. https://t.co/BBCwubwLz8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090147834008076531",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 170,
+          "like_count": 5012,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2155
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-18T01:56:30.000Z",
+        "description": "Father, Husband, Photographer, sports fan and Tampa native.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "floridaphotomatt.com",
+                "end": 23,
+                "expanded_url": "http://www.floridaphotomatt.com/",
+                "start": 0,
+                "url": "https://t.co/xRqfiftMYX"
+              }
+            ]
+          }
+        },
+        "id": "105956287",
+        "is_identity_verified": false,
+        "location": "Tampa, Florida",
+        "most_recent_tweet_id": "2090032571409146320",
+        "name": "Matthew Paulson",
+        "pinned_tweet_id": "1899779415610884367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/105956287/1615082145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999889013004546055/oANzjmZb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 1518,
+          "like_count": 293722,
+          "listed_count": 57,
+          "media_count": 8374,
+          "tweet_count": 22201
+        },
+        "url": "https://t.co/xRqfiftMYX",
+        "username": "MattPaulson28",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

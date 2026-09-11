@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090245426070818816"
+      ],
+      "media_source_tweet_id": [
+        "2090245437869670772"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2090253423623254348",
+    "created_at": "2026-08-20T01:43:45.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T02:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090253423623254348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1732155676737056768",
+          "start": 3,
+          "username": "Catolicismooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f45qsyU0R4",
+          "end": 82,
+          "expanded_url": "https://x.com/Catolicismooo/status/2090245437869670772/photo/1",
+          "media_key": "3_2090245426070818816",
+          "start": 59,
+          "url": "https://t.co/f45qsyU0R4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090253423623254348",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2090245426070818816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090245437869670772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Catolicismooo: A Veneração de Reliquias na Patristica. https://t.co/f45qsyU0R4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_2090245426070818816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQILI_JWEAAqvn9.jpg",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090245426070818816"
+          ],
+          "media_source_tweet_id": [
+            "2090245437869670772"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2090253423623254348",
+        "created_at": "2026-08-20T01:43:45.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090253423623254348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1732155676737056768",
+              "start": 3,
+              "username": "Catolicismooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f45qsyU0R4",
+              "end": 82,
+              "expanded_url": "https://x.com/Catolicismooo/status/2090245437869670772/photo/1",
+              "media_key": "3_2090245426070818816",
+              "start": 59,
+              "url": "https://t.co/f45qsyU0R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090253423623254348",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090245426070818816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090245437869670772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Catolicismooo: A Veneração de Reliquias na Patristica. https://t.co/f45qsyU0R4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090245426070818816"
+          ]
+        },
+        "author_id": "1732155676737056768",
+        "conversation_id": "2090245437869670772",
+        "created_at": "2026-08-20T01:12:01.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090245437869670772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f45qsyU0R4",
+              "end": 63,
+              "expanded_url": "https://x.com/Catolicismooo/status/2090245437869670772/photo/1",
+              "media_key": "3_2090245426070818816",
+              "start": 40,
+              "url": "https://t.co/f45qsyU0R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090245437869670772",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2090245426070818816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 500,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "A Veneração de Reliquias na Patristica. https://t.co/f45qsyU0R4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090253423623254348",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 172,
+          "like_count": 5041,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2160
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-05T21:51:39.000Z",
+        "description": "Coisas sobre o catolicismo que talvez você não conheça :)",
+        "id": "1732155676737056768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090246087932031013",
+        "name": "Catolicismo 'desconhecido'",
+        "pinned_tweet_id": "2080849350201057327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732155676737056768/1708209859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738010889981149184/hpqbVRmp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38329,
+          "following_count": 537,
+          "like_count": 14539,
+          "listed_count": 51,
+          "media_count": 6014,
+          "tweet_count": 20312
+        },
+        "url": "",
+        "username": "Catolicismooo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

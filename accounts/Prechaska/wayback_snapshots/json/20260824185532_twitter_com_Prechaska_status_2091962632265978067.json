@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091962615975366656",
+        "3_2091962625253076992"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2091962632265978067",
+    "created_at": "2026-08-24T18:55:32.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091962632265978067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sy2Js43eED",
+          "end": 169,
+          "expanded_url": "https://x.com/Prechaska/status/2091962632265978067/photo/1",
+          "media_key": "3_2091962615975366656",
+          "start": 146,
+          "url": "https://t.co/Sy2Js43eED"
+        },
+        {
+          "display_url": "pic.x.com/Sy2Js43eED",
+          "end": 169,
+          "expanded_url": "https://x.com/Prechaska/status/2091962632265978067/photo/1",
+          "media_key": "3_2091962625253076992",
+          "start": 146,
+          "url": "https://t.co/Sy2Js43eED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091962632265978067",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091962615975366656"
+      },
+      {
+        "media_key": "3_2091962625253076992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不行了这个真的好好笑，只是让它解释下自己这么说的原因，然后就破防了开始复读“你没有资格”。接着又上pi那儿继续挑衅，我只是说了句“你不是我的互关，连在这里说话的资格也没有🤓☝️”就又破防大骂，刚准备苦口婆心地劝它“如此傲慢天主不会救你的，你悔过罢！”结果发现被它拉黑了🤣可人家还没讨论够呢🥺 https://t.co/Sy2Js43eED"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3752,
+        "media_key": "3_2091962615975366656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgk6mCb0AA2_i3.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1411,
+        "media_key": "3_2091962625253076992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgk7ImacAALJUg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091962615975366656",
+            "3_2091962625253076992"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2091962632265978067",
+        "created_at": "2026-08-24T18:55:32.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091962632265978067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sy2Js43eED",
+              "end": 169,
+              "expanded_url": "https://x.com/Prechaska/status/2091962632265978067/photo/1",
+              "media_key": "3_2091962615975366656",
+              "start": 146,
+              "url": "https://t.co/Sy2Js43eED"
+            },
+            {
+              "display_url": "pic.x.com/Sy2Js43eED",
+              "end": 169,
+              "expanded_url": "https://x.com/Prechaska/status/2091962632265978067/photo/1",
+              "media_key": "3_2091962625253076992",
+              "start": 146,
+              "url": "https://t.co/Sy2Js43eED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091962632265978067",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091962615975366656"
+          },
+          {
+            "media_key": "3_2091962625253076992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不行了这个真的好好笑，只是让它解释下自己这么说的原因，然后就破防了开始复读“你没有资格”。接着又上pi那儿继续挑衅，我只是说了句“你不是我的互关，连在这里说话的资格也没有🤓☝️”就又破防大骂，刚准备苦口婆心地劝它“如此傲慢天主不会救你的，你悔过罢！”结果发现被它拉黑了🤣可人家还没讨论够呢🥺 https://t.co/Sy2Js43eED"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091962632265978067",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 180,
+          "like_count": 5177,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2211
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

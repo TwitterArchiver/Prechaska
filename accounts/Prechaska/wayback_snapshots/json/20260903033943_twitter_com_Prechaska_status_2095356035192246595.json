@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095107323652182016"
+      ],
+      "media_source_tweet_id": [
+        "2095107541412044827"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2095356035192246595",
+    "created_at": "2026-09-03T03:39:43.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095356035192246595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1154370531258327041",
+          "start": 3,
+          "username": "LUX_FKD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jXapLAILmr",
+          "end": 55,
+          "expanded_url": "https://x.com/LUX_FKD/status/2095107541412044827/video/1",
+          "media_key": "13_2095107323652182016",
+          "start": 32,
+          "url": "https://t.co/jXapLAILmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095356035192246595",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2095107323652182016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2657
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095107541412044827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LUX_FKD: 1989年、幼稚園に通うペリカン🪿😂 https://t.co/jXapLAILmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97620,
+        "height": 920,
+        "media_key": "13_2095107323652182016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095107323652182016/img/2XR4IfGG-4cPiqfD.jpg",
+        "public_metrics": {
+          "view_count": 892194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095107323652182016/pl/ziWLqI-R4orgtwBW.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095107323652182016/vid/avc1/1206x920/mHtZyYbuRrimcqrH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095107323652182016/vid/avc1/942x720/1V9hBvX6hXhAa7kQ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095107323652182016/vid/avc1/352x270/hgsNq5Ii3thReORb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095107323652182016/vid/avc1/470x360/zbdTrOgW0668z5Cs.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095107323652182016"
+          ],
+          "media_source_tweet_id": [
+            "2095107541412044827"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2095356035192246595",
+        "created_at": "2026-09-03T03:39:43.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095356035192246595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1154370531258327041",
+              "start": 3,
+              "username": "LUX_FKD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXapLAILmr",
+              "end": 55,
+              "expanded_url": "https://x.com/LUX_FKD/status/2095107541412044827/video/1",
+              "media_key": "13_2095107323652182016",
+              "start": 32,
+              "url": "https://t.co/jXapLAILmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095356035192246595",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095107323652182016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2657
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095107541412044827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LUX_FKD: 1989年、幼稚園に通うペリカン🪿😂 https://t.co/jXapLAILmr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095107323652182016"
+          ]
+        },
+        "author_id": "1154370531258327041",
+        "conversation_id": "2095107541412044827",
+        "created_at": "2026-09-02T11:12:17.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095107541412044827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXapLAILmr",
+              "end": 42,
+              "expanded_url": "https://x.com/LUX_FKD/status/2095107541412044827/video/1",
+              "media_key": "13_2095107323652182016",
+              "start": 19,
+              "url": "https://t.co/jXapLAILmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095107541412044827",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2095107323652182016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4230,
+          "impression_count": 1554760,
+          "like_count": 24228,
+          "quote_count": 465,
+          "reply_count": 301,
+          "retweet_count": 2657
+        },
+        "reply_settings": "everyone",
+        "text": "1989年、幼稚園に通うペリカン🪿😂 https://t.co/jXapLAILmr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095356035192246595",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 186,
+          "like_count": 5432,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2299
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-25T12:39:16.000Z",
+        "description": "LUX🐈‍⬛🐶👑 猫犬の癒し📽️\n投資、AI、Tesla, SpaceX 🚀 Ouster \n哲学📕YouTube登録宜しくお願いします\n彌榮🎉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lux_stdio?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lux_stdio?si=RtsrM1SMMTFPBWmD",
+                "start": 0,
+                "url": "https://t.co/lIxkdAlOkg"
+              }
+            ]
+          }
+        },
+        "id": "1154370531258327041",
+        "is_identity_verified": false,
+        "location": "japan",
+        "most_recent_tweet_id": "2095353685119492179",
+        "name": "LUX🐈🐶📽️AIや投資🐢",
+        "pinned_tweet_id": "1961234269298462909",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154370531258327041/1769215885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048127481484558336/1eBZzhGw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73371,
+          "following_count": 1581,
+          "like_count": 194323,
+          "listed_count": 109,
+          "media_count": 70676,
+          "tweet_count": 118081
+        },
+        "url": "https://t.co/lIxkdAlOkg",
+        "username": "LUX_FKD",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

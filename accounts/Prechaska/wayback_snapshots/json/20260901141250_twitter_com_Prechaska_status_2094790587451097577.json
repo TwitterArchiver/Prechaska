@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094486504857022464"
+      ],
+      "media_source_tweet_id": [
+        "2094486510922014833"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2094790587451097577",
+    "created_at": "2026-09-01T14:12:50.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094790587451097577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385206009065394182",
+          "start": 3,
+          "username": "chronic_clinic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mtfs2GGyaz",
+          "end": 44,
+          "expanded_url": "https://x.com/chronic_clinic_/status/2094486510922014833/photo/1",
+          "media_key": "3_2094486504857022464",
+          "start": 21,
+          "url": "https://t.co/mtfs2GGyaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094790587451097577",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094486504857022464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 746
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094486510922014833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chronic_clinic_: https://t.co/mtfs2GGyaz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2094486504857022464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREcYQzaMAApFxs.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094486504857022464"
+          ],
+          "media_source_tweet_id": [
+            "2094486510922014833"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2094790587451097577",
+        "created_at": "2026-09-01T14:12:50.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094790587451097577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385206009065394182",
+              "start": 3,
+              "username": "chronic_clinic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtfs2GGyaz",
+              "end": 44,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2094486510922014833/photo/1",
+              "media_key": "3_2094486504857022464",
+              "start": 21,
+              "url": "https://t.co/mtfs2GGyaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094790587451097577",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094486504857022464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 746
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094486510922014833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chronic_clinic_: https://t.co/mtfs2GGyaz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094486504857022464"
+          ]
+        },
+        "author_id": "1385206009065394182",
+        "conversation_id": "2094486510922014833",
+        "created_at": "2026-08-31T18:04:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094486510922014833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtfs2GGyaz",
+              "end": 23,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2094486510922014833/photo/1",
+              "media_key": "3_2094486504857022464",
+              "start": 0,
+              "url": "https://t.co/mtfs2GGyaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094486510922014833",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094486504857022464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 49979,
+          "like_count": 4525,
+          "quote_count": 16,
+          "reply_count": 6,
+          "retweet_count": 746
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mtfs2GGyaz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094790587451097577",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 184,
+          "like_count": 5386,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-22T12:17:17.000Z",
+        "description": "bootleg images",
+        "id": "1385206009065394182",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094610385282457821",
+        "name": "bootleg_images_bot(twee!:void(0)-+****",
+        "pinned_tweet_id": "1574410887343247361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385206009065394182/1639245587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25204,
+          "following_count": 1,
+          "like_count": 9972,
+          "listed_count": 75,
+          "media_count": 8639,
+          "tweet_count": 8688
+        },
+        "url": "",
+        "username": "chronic_clinic_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

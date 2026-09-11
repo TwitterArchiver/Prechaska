@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2090569271567135143",
+    "created_at": "2026-08-20T22:38:49.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T23:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090569271567135143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763060100564992000",
+          "start": 3,
+          "username": "theokenism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090569271567135143",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090505631962747156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theokenism: cant have anxiety if you sleep for 48 hrs i guess"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2090569271567135143",
+        "created_at": "2026-08-20T22:38:49.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090569271567135143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763060100564992000",
+              "start": 3,
+              "username": "theokenism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090569271567135143",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090505631962747156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theokenism: cant have anxiety if you sleep for 48 hrs i guess"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763060100564992000",
+        "conversation_id": "2090505629093744641",
+        "created_at": "2026-08-20T18:25:57.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090505631962747156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090505631962747156",
+        "in_reply_to_user_id": "1763060100564992000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090505629093744641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cant have anxiety if you sleep for 48 hrs i guess"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090569271567135143",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 175,
+          "like_count": 5078,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 2163
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-29T04:34:23.000Z",
+        "description": "n====?\n\n💤💤💤💤💤💤\n\ncogitor, ergo nōn sum;\n\na future dweller of the Revelation 20:13-15, KJV\n\nit's anti-anti-Dialectical, you see",
+        "id": "1763060100564992000",
+        "is_identity_verified": false,
+        "location": "una noche oscura",
+        "most_recent_tweet_id": "2090569277455654982",
+        "name": "| 🌙 | ༄ | 🫧 ΘΚ | Schizὄνειρος | δη 🫧 | ༄ | ⌛️",
+        "pinned_tweet_id": "2085254115743920219",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045369755167535104/hE7Q4qlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 614,
+          "like_count": 178101,
+          "listed_count": 1,
+          "media_count": 6508,
+          "tweet_count": 100912
+        },
+        "url": "",
+        "username": "theokenism",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2096180989265596727",
+    "created_at": "2026-09-05T10:17:47.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096180989265596727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "468155857",
+          "start": 3,
+          "username": "GrahamFAppleton"
+        },
+        {
+          "end": 35,
+          "id": "2786816541",
+          "start": 24,
+          "username": "WaderStudy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096180989265596727",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095854485503410264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrahamFAppleton: At @WaderStudy  conference.\nConnecting sites for conservation.\nJosé Alves adds two more blogs to your reading list:\nht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2194,
+        "media_key": "3_2095854262240886785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX4WOHbQAE6ywm.jpg",
+        "width": 3151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2096180989265596727",
+        "created_at": "2026-09-05T10:17:47.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096180989265596727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "468155857",
+              "start": 3,
+              "username": "GrahamFAppleton"
+            },
+            {
+              "end": 35,
+              "id": "2786816541",
+              "start": 24,
+              "username": "WaderStudy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096180989265596727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095854485503410264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrahamFAppleton: At @WaderStudy  conference.\nConnecting sites for conservation.\nJosé Alves adds two more blogs to your reading list:\nht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095854262240886785"
+          ]
+        },
+        "author_id": "468155857",
+        "conversation_id": "2095854485503410264",
+        "created_at": "2026-09-04T12:40:23.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095854485503410264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 176,
+              "start": 164,
+              "tag": "ornithology"
+            },
+            {
+              "end": 184,
+              "start": 177,
+              "tag": "waders"
+            },
+            {
+              "end": 196,
+              "start": 185,
+              "tag": "shorebirds"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2786816541",
+              "start": 3,
+              "username": "WaderStudy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "When an environmental impact assessment concludes that only a small number of shorebirds will be affected by a new airport, because relatively small flocks are counted during field surveys, is ther…",
+              "display_url": "wadertales.wordpress.com/2023/04/07/con…",
+              "end": 139,
+              "expanded_url": "https://wadertales.wordpress.com/2023/04/07/conservation-beyond-boundaries/",
+              "images": [
+                {
+                  "height": 714,
+                  "url": "https://pbs.twimg.com/news_img/2095854530692841475/MazEqICa?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095854530692841475/MazEqICa?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "Conservation beyond boundaries",
+              "unwound_url": "https://wadertales.wordpress.com/2023/04/07/conservation-beyond-boundaries/",
+              "url": "https://t.co/sdBqbG2eYr"
+            },
+            {
+              "description": "This blog has two aims – to share some of the important scientific and conservation stories that are being revealed through shorebird tracking work and to encourage scientists to make their data av…",
+              "display_url": "wadertales.wordpress.com/2025/05/06/mak…",
+              "end": 163,
+              "expanded_url": "https://wadertales.wordpress.com/2025/05/06/making-full-use-of-tracking-data/",
+              "images": [
+                {
+                  "height": 698,
+                  "url": "https://pbs.twimg.com/news_img/2095854530743205888/y-MiWWZC?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095854530743205888/y-MiWWZC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 140,
+              "status": 200,
+              "title": "Making full use of tracking data",
+              "unwound_url": "https://wadertales.wordpress.com/2025/05/06/making-full-use-of-tracking-data/",
+              "url": "https://t.co/CQ2kENGuQI"
+            },
+            {
+              "display_url": "pic.x.com/5s8M4Kaztq",
+              "end": 220,
+              "expanded_url": "https://x.com/GrahamFAppleton/status/2095854485503410264/photo/1",
+              "media_key": "3_2095854262240886785",
+              "start": 197,
+              "url": "https://t.co/5s8M4Kaztq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095854485503410264",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095854262240886785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "At @WaderStudy  conference.\nConnecting sites for conservation.\nJosé Alves adds two more blogs to your reading list:\nhttps://t.co/sdBqbG2eYr\nhttps://t.co/CQ2kENGuQI\n#ornithology #waders #shorebirds https://t.co/5s8M4Kaztq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096180989265596727",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 188,
+          "like_count": 5487,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2308
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-19T07:10:48.000Z",
+        "description": "Writer & life-long birdwatcher.\nFormerly Director of Communications for BTO. \n#WaderTales blogs about #waders #shorebirds #ornithology",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 78,
+                "tag": "WaderTales"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "waders"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "tag": "shorebirds"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "tag": "ornithology"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wadertales.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://wadertales.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/BwDezK8FQk"
+              }
+            ]
+          }
+        },
+        "id": "468155857",
+        "is_identity_verified": false,
+        "location": "Norfolk",
+        "most_recent_tweet_id": "2096178202498478468",
+        "name": "Graham Appleton",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/468155857/1445410256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765837041/GFA_in_Iceland_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7226,
+          "following_count": 956,
+          "like_count": 20075,
+          "listed_count": 98,
+          "media_count": 9118,
+          "tweet_count": 29185
+        },
+        "url": "https://t.co/BwDezK8FQk",
+        "username": "GrahamFAppleton",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-27T07:43:07.000Z",
+        "description": "The International Wader Study Group including the journal Wader Study. #shorebirds #waders #ornithology",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 71,
+                "tag": "shorebirds"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "waders"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "tag": "ornithology"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "waderstudygroup.org",
+                "end": 23,
+                "expanded_url": "http://www.waderstudygroup.org",
+                "start": 0,
+                "url": "https://t.co/hetm9V1ajT"
+              }
+            ]
+          }
+        },
+        "id": "2786816541",
+        "is_identity_verified": false,
+        "location": "International",
+        "most_recent_tweet_id": "1924558486525874656",
+        "name": "Wader Study",
+        "pinned_tweet_id": "1924558486525874656",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2786816541/1694351564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/540272180034957312/HNoPb4FM_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4133,
+          "following_count": 134,
+          "like_count": 3343,
+          "listed_count": 46,
+          "media_count": 1543,
+          "tweet_count": 4977
+        },
+        "url": "https://t.co/hetm9V1ajT",
+        "username": "WaderStudy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

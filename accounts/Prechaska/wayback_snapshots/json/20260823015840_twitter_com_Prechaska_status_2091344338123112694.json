@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090994000446750720"
+      ],
+      "media_source_tweet_id": [
+        "2090994178281160799"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2091344338123112694",
+    "created_at": "2026-08-23T01:58:40.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091344338123112694"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 67,
+          "tag": "ミユビシギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427414699793018882",
+          "start": 3,
+          "username": "hiyochan2021"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T81eeQj4Xl",
+          "end": 97,
+          "expanded_url": "https://x.com/hiyochan2021/status/2090994178281160799/video/1",
+          "media_key": "13_2090994000446750720",
+          "start": 74,
+          "url": "https://t.co/T81eeQj4Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091344338123112694",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090994000446750720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090994178281160799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hiyochan2021: 砂浜を猛ダッシュ！ミユビシギの群れ\n速すぎる足の回転が素晴らしい\nこちらは冬羽で白かった頃の様子\n#ミユビシギ https://t.co/T81eeQj4Xl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 720,
+        "media_key": "13_2090994000446750720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090994000446750720/img/w1F7B82hY7bhgrOu.jpg",
+        "public_metrics": {
+          "view_count": 13046
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090994000446750720/vid/avc1/480x270/USBIZHZwgh8wYxFB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090994000446750720/vid/avc1/640x360/za3pR6H1KwOUYPdA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090994000446750720/vid/avc1/1280x720/xOl-Ubs3bElubxmI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090994000446750720/pl/vmsSMt3VjkJm-u6L.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090994000446750720"
+          ],
+          "media_source_tweet_id": [
+            "2090994178281160799"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2091344338123112694",
+        "created_at": "2026-08-23T01:58:40.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091344338123112694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "ミユビシギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427414699793018882",
+              "start": 3,
+              "username": "hiyochan2021"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T81eeQj4Xl",
+              "end": 97,
+              "expanded_url": "https://x.com/hiyochan2021/status/2090994178281160799/video/1",
+              "media_key": "13_2090994000446750720",
+              "start": 74,
+              "url": "https://t.co/T81eeQj4Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091344338123112694",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090994000446750720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090994178281160799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hiyochan2021: 砂浜を猛ダッシュ！ミユビシギの群れ\n速すぎる足の回転が素晴らしい\nこちらは冬羽で白かった頃の様子\n#ミユビシギ https://t.co/T81eeQj4Xl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090994000446750720"
+          ]
+        },
+        "author_id": "1427414699793018882",
+        "conversation_id": "2090994178281160799",
+        "created_at": "2026-08-22T02:47:15.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090994178281160799"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "ミユビシギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T81eeQj4Xl",
+              "end": 79,
+              "expanded_url": "https://x.com/hiyochan2021/status/2090994178281160799/video/1",
+              "media_key": "13_2090994000446750720",
+              "start": 56,
+              "url": "https://t.co/T81eeQj4Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090994178281160799",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090994000446750720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 34863,
+          "like_count": 1381,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "砂浜を猛ダッシュ！ミユビシギの群れ\n速すぎる足の回転が素晴らしい\nこちらは冬羽で白かった頃の様子\n#ミユビシギ https://t.co/T81eeQj4Xl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091344338123112694",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 176,
+          "like_count": 5145,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-16T23:43:31.000Z",
+        "description": "博物館のお兄さん（研究員28年目）\nバードウオッチングと野鳥撮影のアカウントとして、2023年3月より野鳥の姿を毎日投稿しています\n📷EOS R7 🔍RF200-800mm F6.3-9 IS USM",
+        "id": "1427414699793018882",
+        "is_identity_verified": false,
+        "location": "僻地・高原・干潟",
+        "most_recent_tweet_id": "2091343914380951931",
+        "name": "ひよちゃん",
+        "pinned_tweet_id": "1727799180285087774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427414699793018882/1679043680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906690752312406016/xo2Wju2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4467,
+          "following_count": 499,
+          "like_count": 125799,
+          "listed_count": 51,
+          "media_count": 3528,
+          "tweet_count": 13029
+        },
+        "url": "",
+        "username": "hiyochan2021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

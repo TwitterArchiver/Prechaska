@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2094986219507892561",
+    "created_at": "2026-09-02T10:56:00.000Z",
+    "display_text_range": [
+      13,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095103442813616348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095103442813616348",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095003610744807902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 呼神护卫🤔在脑中想象某种图景能激活对应状态的情绪回路还能改变自主神经系统的平衡有助于应对带来痛苦的情绪，不过我发现相比于想象成功做成某事或某种情绪下的情形还是想象一只柳莺在树上乱蹦更容易😭\n在合适的场合使用时会是什么感觉，有例子吗，比如出现什么情绪想到了什么情绪又怎么变化了这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2094986219507892561",
+        "created_at": "2026-09-02T10:56:00.000Z",
+        "display_text_range": [
+          13,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095103442813616348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095103442813616348",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095003610744807902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 呼神护卫🤔在脑中想象某种图景能激活对应状态的情绪回路还能改变自主神经系统的平衡有助于应对带来痛苦的情绪，不过我发现相比于想象成功做成某事或某种情绪下的情形还是想象一只柳莺在树上乱蹦更容易😭\n在合适的场合使用时会是什么感觉，有例子吗，比如出现什么情绪想到了什么情绪又怎么变化了这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "2094986219507892561",
+        "created_at": "2026-09-02T04:19:18.000Z",
+        "display_text_range": [
+          11,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095003610744807902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Visualization is more than daydreaming — it activates real brain and body responses. Learn how mental imagery works and how to use it effectively.",
+              "display_url": "scienceinsights.org/what-is-visual…",
+              "end": 56,
+              "expanded_url": "https://scienceinsights.org/what-is-visualization-in-psychology-how-it-works/",
+              "images": [
+                {
+                  "height": 45,
+                  "url": "https://pbs.twimg.com/news_img/2095003611281649664/k4A4yaJi?format=png&name=orig",
+                  "width": 456
+                },
+                {
+                  "height": 45,
+                  "url": "https://pbs.twimg.com/news_img/2095003611281649664/k4A4yaJi?format=png&name=150x150",
+                  "width": 45
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "What Is Visualization in Psychology: How It Works",
+              "unwound_url": "https://scienceinsights.org/what-is-visualization-in-psychology-how-it-works/",
+              "url": "https://t.co/Oxypf5b7Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095003610744807902",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094991846220939399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 不是写下想法，是在脑子里把想的东西变成图像\nhttps://t.co/Oxypf5b7Pd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095103442813616348",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 184,
+          "like_count": 5406,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2292
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | Responsible Drug Use | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "is_identity_verified": false,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2095005967767449741",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958507577077342208/1761901579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 789,
+          "like_count": 4078,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1314
+        },
+        "url": "",
+        "username": "Vacue138950",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

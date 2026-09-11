@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2091521003885379750",
+    "created_at": "2026-08-24T16:57:31.000Z",
+    "display_text_range": [
+      11,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091932932202222027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1673624341227896833",
+          "start": 0,
+          "username": "XiRuZhaJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091932932202222027",
+    "in_reply_to_user_id": "1673624341227896833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091926243893477852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiRuZhaJi 。你这里需要阐明的地方可就多了，首先，先问是不是再问为什么，来的真的都是“新教信仰基础……”的吗，这样声称的依据是什么；其次，你所列的这几类，同拯救灵魂的关系又是什么；再次，你是在说有着这些特质的人无法得到灵魂的拯救吗，这里又是凭借什么这样认定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2091521003885379750",
+        "created_at": "2026-08-24T16:57:31.000Z",
+        "display_text_range": [
+          11,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091932932202222027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1673624341227896833",
+              "start": 0,
+              "username": "XiRuZhaJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091932932202222027",
+        "in_reply_to_user_id": "1673624341227896833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091926243893477852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiRuZhaJi 。你这里需要阐明的地方可就多了，首先，先问是不是再问为什么，来的真的都是“新教信仰基础……”的吗，这样声称的依据是什么；其次，你所列的这几类，同拯救灵魂的关系又是什么；再次，你是在说有着这些特质的人无法得到灵魂的拯救吗，这里又是凭借什么这样认定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673624341227896833",
+        "conversation_id": "2091521003885379750",
+        "created_at": "2026-08-24T16:30:57.000Z",
+        "display_text_range": [
+          24,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091926243893477852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            },
+            {
+              "end": 23,
+              "id": "1958507577077342208",
+              "start": 11,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091926243893477852",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091909278575780219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska @Vacue138950 來的都是新教信仰基礎、加大量LGBTQ+和反中國政權視西方意識形態為信仰，能救靈魂嗎？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091932932202222027",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 180,
+          "like_count": 5177,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 2209
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-27T09:28:43.000Z",
+        "description": "@xiruermuzi by 雲岫客 我是护旗手，反洋教。復禮修德、庇我中華；天滅美帝、福祉永泰。西洋鬼子不要关注我，特別犹撒人！Foreign Demons don’t follow me！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "xiruermuzi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xiruermuzi",
+                "end": 23,
+                "expanded_url": "https://x.com/xiruermuzi",
+                "start": 0,
+                "url": "https://t.co/dRwuqviFv8"
+              }
+            ]
+          }
+        },
+        "id": "1673624341227896833",
+        "is_identity_verified": false,
+        "location": "Pekin, Chine",
+        "most_recent_tweet_id": "2091927322672734690",
+        "name": "China’s Dream of Western Confucian Journal 西儒中國夢札記",
+        "pinned_tweet_id": "1960215915154284548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1673624341227896833/1687861336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675453707868143617/P3pMtEWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1393,
+          "like_count": 46290,
+          "listed_count": 8,
+          "media_count": 3322,
+          "tweet_count": 34804
+        },
+        "url": "https://t.co/dRwuqviFv8",
+        "username": "XiRuZhaJi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

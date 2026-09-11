@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092588196555042816"
+      ],
+      "media_source_tweet_id": [
+        "2092588257179517025"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092777772536181108",
+    "created_at": "2026-08-27T00:54:37.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092777772536181108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1150774090057289728",
+          "start": 3,
+          "username": "Esenin1586"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aP2SQVkXaA",
+          "end": 125,
+          "expanded_url": "https://x.com/Esenin1586/status/2092588257179517025/video/1",
+          "media_key": "13_2092588196555042816",
+          "start": 102,
+          "url": "https://t.co/aP2SQVkXaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092777772536181108",
+    "lang": "ru",
+    "media_metadata": [
+      {
+        "media_key": "13_2092588196555042816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 373
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092588257179517025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Esenin1586: Шанс, что ваш попугай на самом деле перерождение сатаны, очень мал, но не равен нулю. https://t.co/aP2SQVkXaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15371,
+        "height": 1128,
+        "media_key": "13_2092588196555042816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092588196555042816/img/JvUN_XovVCxa0J4O.jpg",
+        "public_metrics": {
+          "view_count": 84130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092588196555042816/vid/avc1/320x500/v698hbzvjtirwy6n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092588196555042816/vid/avc1/480x752/2t7x6Lq09pnPEIxV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092588196555042816/vid/avc1/720x1128/J1ZEd6t7CDJbZp7c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092588196555042816/pl/5q5FaLuVtsq1D4WU.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092588196555042816"
+          ],
+          "media_source_tweet_id": [
+            "2092588257179517025"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092777772536181108",
+        "created_at": "2026-08-27T00:54:37.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092777772536181108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1150774090057289728",
+              "start": 3,
+              "username": "Esenin1586"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aP2SQVkXaA",
+              "end": 125,
+              "expanded_url": "https://x.com/Esenin1586/status/2092588257179517025/video/1",
+              "media_key": "13_2092588196555042816",
+              "start": 102,
+              "url": "https://t.co/aP2SQVkXaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092777772536181108",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "13_2092588196555042816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 373
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092588257179517025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Esenin1586: Шанс, что ваш попугай на самом деле перерождение сатаны, очень мал, но не равен нулю. https://t.co/aP2SQVkXaA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092588196555042816"
+          ]
+        },
+        "author_id": "1150774090057289728",
+        "conversation_id": "2092588257179517025",
+        "created_at": "2026-08-26T12:21:33.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092588257179517025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aP2SQVkXaA",
+              "end": 109,
+              "expanded_url": "https://x.com/Esenin1586/status/2092588257179517025/video/1",
+              "media_key": "13_2092588196555042816",
+              "start": 86,
+              "url": "https://t.co/aP2SQVkXaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092588257179517025",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "13_2092588196555042816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 679,
+          "impression_count": 141004,
+          "like_count": 3117,
+          "quote_count": 26,
+          "reply_count": 25,
+          "retweet_count": 373
+        },
+        "reply_settings": "everyone",
+        "text": "Шанс, что ваш попугай на самом деле перерождение сатаны, очень мал, но не равен нулю. https://t.co/aP2SQVkXaA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092777772536181108",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 181,
+          "like_count": 5232,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2230
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-15T14:28:18.000Z",
+        "description": "",
+        "id": "1150774090057289728",
+        "is_identity_verified": false,
+        "location": "Москва, Россия",
+        "most_recent_tweet_id": "2092709529863524686",
+        "name": "Alexander",
+        "pinned_tweet_id": "1411054254014480387",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150774090057289728/1563202238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670138860863406080/p5x_RwOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 999,
+          "like_count": 125731,
+          "listed_count": 14,
+          "media_count": 7267,
+          "tweet_count": 30802
+        },
+        "url": "",
+        "username": "Esenin1586",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

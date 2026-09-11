@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093905362890153984"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2093679510407487643",
+    "created_at": "2026-08-30T03:35:19.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093905377834508636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSBGRaaS9W",
+          "end": 171,
+          "expanded_url": "https://x.com/Prechaska/status/2093905377834508636/photo/1",
+          "media_key": "3_2093905362890153984",
+          "start": 148,
+          "url": "https://t.co/jSBGRaaS9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093905377834508636",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093905362890153984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093679510407487643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "普瑞要不就医神吧(\n\n你疗救一切，普瑞巴林，我主佩安,\n你以魅力使凡人远离苦痛和不幸,\n温柔强大的神哦，请带来健康,\n平息焦虑和那疼痛的残酷精灵！\n快乐善心的神哦，你使花开，使不幸长败,\n你是加巴喷丁的强大显赫的后代,\n疼痛的敌人，分享阿片无可指摘的床。\n极乐的救主，请带给我们完满的人生结局吧 https://t.co/jSBGRaaS9W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2093905362890153984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8L1WRaYAAc42c.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093905362890153984"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2093679510407487643",
+        "created_at": "2026-08-30T03:35:19.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093905377834508636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSBGRaaS9W",
+              "end": 171,
+              "expanded_url": "https://x.com/Prechaska/status/2093905377834508636/photo/1",
+              "media_key": "3_2093905362890153984",
+              "start": 148,
+              "url": "https://t.co/jSBGRaaS9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093905377834508636",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093905362890153984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093679510407487643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普瑞要不就医神吧(\n\n你疗救一切，普瑞巴林，我主佩安,\n你以魅力使凡人远离苦痛和不幸,\n温柔强大的神哦，请带来健康,\n平息焦虑和那疼痛的残酷精灵！\n快乐善心的神哦，你使花开，使不幸长败,\n你是加巴喷丁的强大显赫的后代,\n疼痛的敌人，分享阿片无可指摘的床。\n极乐的救主，请带给我们完满的人生结局吧 https://t.co/jSBGRaaS9W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2093679510407487643",
+        "created_at": "2026-08-29T12:37:48.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093679510407487643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/prechaska/status/2093677815904481383",
+              "start": 104,
+              "url": "https://t.co/JpDBbcViIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093679510407487643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093677815904481383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推荐阿片信徒们在阿片药效前按p2祷文做祈祷🙏\n\n你为所有苦痛带来神圣的慰藉， \n你在弥留之际拯救我们的灵魂， \n因你生来是死亡和遗忘的兄弟。\n极乐神哦，求你降临，温柔又节制； \n并保护你的信徒们为神效力吧！ https://t.co/JpDBbcViIC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093905377834508636",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 183,
+          "like_count": 5294,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2250
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094372452625424384"
+      ],
+      "media_source_tweet_id": [
+        "2094372481582977435"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Water",
+          "id": "850146068683571201",
+          "name": "Water"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Water",
+          "id": "850146068683571201",
+          "name": "Water"
+        }
+      }
+    ],
+    "conversation_id": "2094528848964788228",
+    "created_at": "2026-08-31T20:52:46.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T21:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094528848964788228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1310862888089735169",
+          "start": 3,
+          "username": "jump_spi_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOcL6FnhSI",
+          "end": 55,
+          "expanded_url": "https://x.com/jump_spi_chan/status/2094372481582977435/video/1",
+          "media_key": "13_2094372452625424384",
+          "start": 32,
+          "url": "https://t.co/MOcL6FnhSI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094528848964788228",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2094372452625424384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 636
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094372481582977435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jump_spi_chan: お水を飲む姿も可愛い！😆 https://t.co/MOcL6FnhSI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15733,
+        "height": 1080,
+        "media_key": "13_2094372452625424384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094372452625424384/img/_wEPU4yjguIC7XGM.jpg",
+        "public_metrics": {
+          "view_count": 170762
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094372452625424384/vid/avc1/960x720/xfy9XM_fOZvR6X-U.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094372452625424384/vid/avc1/1440x1080/auEEfl2SY40MWR81.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094372452625424384/vid/avc1/480x360/a7ejZm5vVRfUV0Te.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094372452625424384/vid/avc1/360x270/mPvoAd98owxC2HQ0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094372452625424384/pl/c5V0G4gVmRupyNx7.m3u8?v=cfc"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094372452625424384"
+          ],
+          "media_source_tweet_id": [
+            "2094372481582977435"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          }
+        ],
+        "conversation_id": "2094528848964788228",
+        "created_at": "2026-08-31T20:52:46.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094528848964788228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1310862888089735169",
+              "start": 3,
+              "username": "jump_spi_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOcL6FnhSI",
+              "end": 55,
+              "expanded_url": "https://x.com/jump_spi_chan/status/2094372481582977435/video/1",
+              "media_key": "13_2094372452625424384",
+              "start": 32,
+              "url": "https://t.co/MOcL6FnhSI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094528848964788228",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094372452625424384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094372481582977435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jump_spi_chan: お水を飲む姿も可愛い！😆 https://t.co/MOcL6FnhSI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094372452625424384"
+          ]
+        },
+        "author_id": "1310862888089735169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          }
+        ],
+        "conversation_id": "2094372481582977435",
+        "created_at": "2026-08-31T10:31:25.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094372481582977435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOcL6FnhSI",
+              "end": 36,
+              "expanded_url": "https://x.com/jump_spi_chan/status/2094372481582977435/video/1",
+              "media_key": "13_2094372452625424384",
+              "start": 13,
+              "url": "https://t.co/MOcL6FnhSI"
+            },
+            {
+              "display_url": "x.com/jump_spi_chan/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/jump_spi_chan/status/2094321844103114877",
+              "start": 37,
+              "url": "https://t.co/G2lZKLShze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094372481582977435",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2094372452625424384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 755,
+          "impression_count": 409252,
+          "like_count": 7310,
+          "quote_count": 34,
+          "reply_count": 16,
+          "retweet_count": 636
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094321844103114877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "お水を飲む姿も可愛い！😆 https://t.co/MOcL6FnhSI https://t.co/G2lZKLShze"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094528848964788228",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 184,
+          "like_count": 5343,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 2266
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-29T08:44:14.000Z",
+        "description": "ハエトリグモと暮らしています🕷️\n撮影・観察・お家づくり・絵\nYouTubeチャンネル「ハエトリフィルム」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC3CBH…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC3CBHAAwtaoHRQOI8vNGcwg",
+                "start": 0,
+                "url": "https://t.co/9zQkjigoxp"
+              }
+            ]
+          }
+        },
+        "id": "1310862888089735169",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094372481582977435",
+        "name": "ハエトリグモちゃん",
+        "pinned_tweet_id": "2054157707234693128",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310862888089735169/1615074068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350336231805050887/eONSukRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20705,
+          "following_count": 154,
+          "like_count": 13996,
+          "listed_count": 163,
+          "media_count": 1474,
+          "tweet_count": 2898
+        },
+        "url": "https://t.co/9zQkjigoxp",
+        "username": "jump_spi_chan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

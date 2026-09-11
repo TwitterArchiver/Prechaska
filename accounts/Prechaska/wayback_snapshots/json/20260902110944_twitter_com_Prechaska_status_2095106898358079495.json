@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2095106898358079495",
+    "created_at": "2026-09-02T11:09:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T12:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095106898358079495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595156393153142785",
+          "start": 3,
+          "username": "PsyGuy007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095106898358079495",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1865
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094869737670881742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PsyGuy007: 🇫🇷 INSOLITE : Un homme a découvert un creux dans un arbre qu’il a rempli d’eau pendant la canicule. Il y a posé un piège pho…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 197669,
+        "height": 1024,
+        "media_key": "13_2094869599233728512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094869599233728512/img/aRavSc5MMuT-WtaO.jpg",
+        "public_metrics": {
+          "view_count": 292776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094869599233728512/vid/avc1/320x568/uiY5i91ifwzJGfND.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094869599233728512/vid/avc1/480x852/XOfo1CBInoUsqUeV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094869599233728512/vid/avc1/576x1024/phwh2tRKzQPkYtOZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094869599233728512/pl/kIQR2MrBn4DBqna3.m3u8?v=667"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2095106898358079495",
+        "created_at": "2026-09-02T11:09:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095106898358079495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595156393153142785",
+              "start": 3,
+              "username": "PsyGuy007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095106898358079495",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1865
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094869737670881742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PsyGuy007: 🇫🇷 INSOLITE : Un homme a découvert un creux dans un arbre qu’il a rempli d’eau pendant la canicule. Il y a posé un piège pho…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094869599233728512"
+          ]
+        },
+        "author_id": "1595156393153142785",
+        "conversation_id": "2094869737670881742",
+        "created_at": "2026-09-01T19:27:20.000Z",
+        "display_text_range": [
+          0,
+          238
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094869737670881742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/riJuhlqHez",
+              "end": 262,
+              "expanded_url": "https://x.com/PsyGuy007/status/2094869737670881742/video/1",
+              "media_key": "13_2094869599233728512",
+              "start": 239,
+              "url": "https://t.co/riJuhlqHez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094869737670881742",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2094869599233728512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "🇫🇷 INSOLITE : Un homme a découvert un creux dans un arbre qu’il a rempli d’eau pendant la canicule. Il y a posé un piège photo pendant une semaine pour montrer à quel point un simple petit point d’eau peut être salvateur pour la faune. ❤️​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​🐿️💦"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1213,
+          "impression_count": 391771,
+          "like_count": 12209,
+          "quote_count": 76,
+          "reply_count": 128,
+          "retweet_count": 1865
+        },
+        "reply_settings": "everyone",
+        "text": "🇫🇷 INSOLITE : Un homme a découvert un creux dans un arbre qu’il a rempli d’eau pendant la canicule. Il y a posé un piège photo pendant une semaine pour montrer à quel point un simple petit point d’eau peut être salvateur pour la faune. ❤️ https://t.co/riJuhlqHez"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095106898358079495",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 186,
+          "like_count": 5414,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2295
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-22T20:45:25.000Z",
+        "description": "🐺 La meute 🐺#Patriote 🇫🇷 #JambonBeurre 🐷#ProtectionAnimale 🐈 #FaitsDivers 🌐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 12,
+                "tag": "Patriote"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "tag": "JambonBeurre"
+              },
+              {
+                "end": 58,
+                "start": 40,
+                "tag": "ProtectionAnimale"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "tag": "FaitsDivers"
+              }
+            ]
+          }
+        },
+        "id": "1595156393153142785",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2095074161634820209",
+        "name": "Wolf 🐺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595156393153142785/1713027952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762451537278693376/mI_cCFz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178015,
+          "following_count": 15209,
+          "like_count": 77426,
+          "listed_count": 363,
+          "media_count": 14801,
+          "tweet_count": 28730
+        },
+        "url": "",
+        "username": "PsyGuy007",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

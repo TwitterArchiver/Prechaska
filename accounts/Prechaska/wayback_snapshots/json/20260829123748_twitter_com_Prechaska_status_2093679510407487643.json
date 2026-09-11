@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2093679510407487643",
+    "created_at": "2026-08-29T12:37:48.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093679510407487643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/prechaska/stat…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/prechaska/status/2093677815904481383",
+          "start": 104,
+          "url": "https://t.co/JpDBbcViIC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093679510407487643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093677815904481383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推荐阿片信徒们在阿片药效前按p2祷文做祈祷🙏\n\n你为所有苦痛带来神圣的慰藉， \n你在弥留之际拯救我们的灵魂， \n因你生来是死亡和遗忘的兄弟。\n极乐神哦，求你降临，温柔又节制； \n并保护你的信徒们为神效力吧！ https://t.co/JpDBbcViIC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_2093677778499764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ482MWbgAAcdNL.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2093677778503913472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ482MXa0AA6fKC.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2093679510407487643",
+        "created_at": "2026-08-29T12:37:48.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093679510407487643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/prechaska/status/2093677815904481383",
+              "start": 104,
+              "url": "https://t.co/JpDBbcViIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093679510407487643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093677815904481383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推荐阿片信徒们在阿片药效前按p2祷文做祈祷🙏\n\n你为所有苦痛带来神圣的慰藉， \n你在弥留之际拯救我们的灵魂， \n因你生来是死亡和遗忘的兄弟。\n极乐神哦，求你降临，温柔又节制； \n并保护你的信徒们为神效力吧！ https://t.co/JpDBbcViIC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093677778499764224",
+            "3_2093677778503913472"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2093668850802028659",
+        "created_at": "2026-08-29T12:31:04.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093677815904481383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czagLCR65o",
+              "end": 136,
+              "expanded_url": "https://x.com/Prechaska/status/2093677815904481383/photo/1",
+              "media_key": "3_2093677778499764224",
+              "start": 113,
+              "url": "https://t.co/czagLCR65o"
+            },
+            {
+              "display_url": "pic.x.com/czagLCR65o",
+              "end": 136,
+              "expanded_url": "https://x.com/Prechaska/status/2093677815904481383/photo/1",
+              "media_key": "3_2093677778503913472",
+              "start": 113,
+              "url": "https://t.co/czagLCR65o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093677815904481383",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093677778499764224"
+          },
+          {
+            "media_key": "3_2093677778503913472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093673762873016464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这篇祈求鸦片丰收的祷文也太朴实无华，完全是劳动人民对经济作物丰收的祈祷啊，读着怎么这么累😇 不如直接上对睡眠之神Hypnos的祷文，更符合阿片的气质，“修普诺斯”完全可以一键替换为“阿片”（甚至是焚罂粟作焚香）-&gt;（？ https://t.co/czagLCR65o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093679510407487643",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 181,
+          "like_count": 5273,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2245
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093677778499764224",
+        "3_2093677778503913472"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2093668850802028659",
+    "created_at": "2026-08-29T12:31:04.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093677815904481383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/czagLCR65o",
+          "end": 136,
+          "expanded_url": "https://x.com/Prechaska/status/2093677815904481383/photo/1",
+          "media_key": "3_2093677778499764224",
+          "start": 113,
+          "url": "https://t.co/czagLCR65o"
+        },
+        {
+          "display_url": "pic.x.com/czagLCR65o",
+          "end": 136,
+          "expanded_url": "https://x.com/Prechaska/status/2093677815904481383/photo/1",
+          "media_key": "3_2093677778503913472",
+          "start": 113,
+          "url": "https://t.co/czagLCR65o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093677815904481383",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093677778499764224"
+      },
+      {
+        "media_key": "3_2093677778503913472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093673762873016464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这篇祈求鸦片丰收的祷文也太朴实无华，完全是劳动人民对经济作物丰收的祈祷啊，读着怎么这么累😇 不如直接上对睡眠之神Hypnos的祷文，更符合阿片的气质，“修普诺斯”完全可以一键替换为“阿片”（甚至是焚罂粟作焚香）-&gt;（？ https://t.co/czagLCR65o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_2093677778499764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ482MWbgAAcdNL.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2093677778503913472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ482MXa0AA6fKC.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1240,
+        "media_key": "3_2093673721538236416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ45KC_bUAA0Ski.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1625,
+        "media_key": "3_2093673721513058304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ45KC5bIAA1yiT.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093677778499764224",
+            "3_2093677778503913472"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2093668850802028659",
+        "created_at": "2026-08-29T12:31:04.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093677815904481383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czagLCR65o",
+              "end": 136,
+              "expanded_url": "https://x.com/Prechaska/status/2093677815904481383/photo/1",
+              "media_key": "3_2093677778499764224",
+              "start": 113,
+              "url": "https://t.co/czagLCR65o"
+            },
+            {
+              "display_url": "pic.x.com/czagLCR65o",
+              "end": 136,
+              "expanded_url": "https://x.com/Prechaska/status/2093677815904481383/photo/1",
+              "media_key": "3_2093677778503913472",
+              "start": 113,
+              "url": "https://t.co/czagLCR65o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093677815904481383",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093677778499764224"
+          },
+          {
+            "media_key": "3_2093677778503913472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093673762873016464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这篇祈求鸦片丰收的祷文也太朴实无华，完全是劳动人民对经济作物丰收的祈祷啊，读着怎么这么累😇 不如直接上对睡眠之神Hypnos的祷文，更符合阿片的气质，“修普诺斯”完全可以一键替换为“阿片”（甚至是焚罂粟作焚香）-&gt;（？ https://t.co/czagLCR65o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093673721538236416",
+            "3_2093673721513058304"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2093668850802028659",
+        "created_at": "2026-08-29T12:14:58.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093673762873016464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JcJkDX5cX",
+              "end": 166,
+              "expanded_url": "https://x.com/Prechaska/status/2093673762873016464/photo/1",
+              "media_key": "3_2093673721538236416",
+              "start": 143,
+              "url": "https://t.co/6JcJkDX5cX"
+            },
+            {
+              "display_url": "pic.x.com/6JcJkDX5cX",
+              "end": 166,
+              "expanded_url": "https://x.com/Prechaska/status/2093673762873016464/photo/1",
+              "media_key": "3_2093673721513058304",
+              "start": 143,
+              "url": "https://t.co/6JcJkDX5cX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093673762873016464",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093673721538236416"
+          },
+          {
+            "media_key": "3_2093673721513058304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093668850802028659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过赫胥黎那篇还是很有趣（记不得是不是出自知觉之门了），他在讨论这些问题：通过药物调节情绪——压低焦虑、人造幸福——是自由还是控制；是否能通过药物的引导让人具有更高的认知能力（还提到异丙肼，他是真感兴趣）；致幻剂体验如何同宗教体验相似，并认为前者自我超越的精神体验可能带来新的宗教复兴 https://t.co/6JcJkDX5cX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093677815904481383",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 181,
+          "like_count": 5273,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2244
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

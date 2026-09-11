@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1575492097255231488",
+          "name": "Kingfisher"
+        }
+      }
+    ],
+    "conversation_id": "2094761732392862071",
+    "created_at": "2026-09-01T12:18:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T13:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094761732392862071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1488503243105832961",
+          "start": 3,
+          "username": "evilrelaysp0rt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094761732392862071",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094553103060115496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evilrelaysp0rt: i can't believe australians have a kingfisher that just chills out with them in developed areas. i'm so jealous. like i…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1575492097255231488",
+              "name": "Kingfisher"
+            }
+          }
+        ],
+        "conversation_id": "2094761732392862071",
+        "created_at": "2026-09-01T12:18:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094761732392862071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1488503243105832961",
+              "start": 3,
+              "username": "evilrelaysp0rt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094761732392862071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094553103060115496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evilrelaysp0rt: i can't believe australians have a kingfisher that just chills out with them in developed areas. i'm so jealous. like i…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488503243105832961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1575492097255231488",
+              "name": "Kingfisher"
+            }
+          }
+        ],
+        "conversation_id": "2094553103060115496",
+        "created_at": "2026-08-31T22:29:09.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T23:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094553103060115496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Boldyboy1975/s…",
+              "end": 225,
+              "expanded_url": "https://twitter.com/Boldyboy1975/status/2091862931562447125",
+              "start": 202,
+              "url": "https://t.co/w07S9au291"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094553103060115496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 168546,
+          "like_count": 3644,
+          "quote_count": 17,
+          "reply_count": 39,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091862931562447125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "i can't believe australians have a kingfisher that just chills out with them in developed areas. i'm so jealous. like imagine going out onto your back porch and seeing a belted kingfisher perched there https://t.co/w07S9au291"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094761732392862071",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 184,
+          "like_count": 5378,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2287
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-01T13:23:33.000Z",
+        "description": "Er - they - 32 - butch dyke 🏳️‍🌈 - #birdtwt - life list: 218 (sedge wren)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "birdtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evilrelaysp0rt.straw.page",
+                "end": 23,
+                "expanded_url": "https://evilrelaysp0rt.straw.page",
+                "start": 0,
+                "url": "https://t.co/d4uwWSZfCt"
+              }
+            ]
+          }
+        },
+        "id": "1488503243105832961",
+        "is_identity_verified": false,
+        "location": "kentucky, usa",
+        "most_recent_tweet_id": "2094752299801338188",
+        "name": "the northern fucker 𓅫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488503243105832961/1780971707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170257518936064/AF6u7wOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 784,
+          "like_count": 96478,
+          "listed_count": 10,
+          "media_count": 5915,
+          "tweet_count": 35514
+        },
+        "url": "https://t.co/d4uwWSZfCt",
+        "username": "evilrelaysp0rt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
