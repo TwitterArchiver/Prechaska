@@ -1,0 +1,647 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248625496545320962",
+          "name": "Craft beer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1248625496545320962",
+          "name": "Craft beer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1303483003801202688",
+          "name": "Sake"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Beer",
+          "id": "850142258871418880",
+          "name": "Beer"
+        }
+      }
+    ],
+    "conversation_id": "2104959630363566286",
+    "created_at": "2026-09-29T15:40:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T16:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104959630363566286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888212370910248960",
+          "start": 3,
+          "username": "cockatlcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104959630363566286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104876904377675827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cockatlcom: 昨日のキセキレイに多くの方から反響をいただきまして、もう一つ鳥ラベルコレクションを紹介します。\n山手線目白駅近くにあるInkhorn Brewingのクラフトビールです。ラベルが可愛くて酒屋で見かける度に買ってしまいます。他にカワセミ・ヤンバルク…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2104874988914499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYEpnraYAAG-7Z.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248625496545320962",
+              "name": "Craft beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1248625496545320962",
+              "name": "Craft beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "2104959630363566286",
+        "created_at": "2026-09-29T15:40:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104959630363566286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888212370910248960",
+              "start": 3,
+              "username": "cockatlcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104959630363566286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104876904377675827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cockatlcom: 昨日のキセキレイに多くの方から反響をいただきまして、もう一つ鳥ラベルコレクションを紹介します。\n山手線目白駅近くにあるInkhorn Brewingのクラフトビールです。ラベルが可愛くて酒屋で見かける度に買ってしまいます。他にカワセミ・ヤンバルク…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104874988914499584"
+          ]
+        },
+        "author_id": "1888212370910248960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248625496545320962",
+              "name": "Craft beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1248625496545320962",
+              "name": "Craft beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1303483003801202688",
+              "name": "Sake"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "2104876904377675827",
+        "created_at": "2026-09-29T10:12:15.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104876904377675827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ndc9K9hkx",
+              "end": 172,
+              "expanded_url": "https://x.com/cockatlcom/status/2104876904377675827/photo/1",
+              "media_key": "3_2104874988914499584",
+              "start": 149,
+              "url": "https://t.co/4Ndc9K9hkx"
+            },
+            {
+              "display_url": "x.com/cockatlcom/sta…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/cockatlcom/status/2104522210040049765",
+              "start": 173,
+              "url": "https://t.co/Q9MBZe5Ndv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104876904377675827",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104874988914499584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 43325,
+          "like_count": 796,
+          "quote_count": 17,
+          "reply_count": 4,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104522210040049765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨日のキセキレイに多くの方から反響をいただきまして、もう一つ鳥ラベルコレクションを紹介します。\n山手線目白駅近くにあるInkhorn Brewingのクラフトビールです。ラベルが可愛くて酒屋で見かける度に買ってしまいます。他にカワセミ・ヤンバルクイナなどいろんな鳥さんが。味もきれいでおいしいです https://t.co/4Ndc9K9hkx https://t.co/Q9MBZe5Ndv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104959630363566286",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 196,
+          "like_count": 5803,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2407
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T13:06:07.000Z",
+        "description": "オカメインコと触れ合う環境で育って以来、鳥さんのモフモフが大好きです。今は鳥さんのかわいいや面白いを探して撮影にはまってます。お気軽にフォローしてくださいませ～\n主な使用機材:\nFUJIFILM GFX100 II/GF500mmF5.6\nSONY α9 III/300mm F2.8 GM/600mm F4 GM",
+        "id": "1888212370910248960",
+        "is_identity_verified": false,
+        "location": "東京近郊",
+        "most_recent_tweet_id": "2104932394038112273",
+        "name": "cockatl",
+        "pinned_tweet_id": "2081326699351007293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888212370910248960/1739025681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888215995556458496/aWq2gGGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 434,
+          "like_count": 125153,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "cockatlcom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

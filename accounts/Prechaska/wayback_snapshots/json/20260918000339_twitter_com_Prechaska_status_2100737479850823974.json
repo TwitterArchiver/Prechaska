@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100167329820852224"
+      ],
+      "media_source_tweet_id": [
+        "2100167544162443397"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "ジョルノ・ジョバァーナは、ジョースター家の宿敵・DIOの血を継ぐ息子である。幼少時代に迫害を受けて荒んでいた彼は、1人のギャングの男がきっかけで、「ギャング・スター」にあこがれるようになった。15歳になったジョルノは、イタリアの裏社会を牛耳るギャング組織「パッショーネ」とトラブルを起こし、狙われることとなり…。\n\n@anime_jojoさんの画像",
+          "id": "10043632267",
+          "name": "ジョジョの奇妙な冒険"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      }
+    ],
+    "conversation_id": "2100737479850823974",
+    "created_at": "2026-09-18T00:03:39.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T01:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100737479850823974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1875609349131005955",
+          "start": 3,
+          "username": "Requiem0requiem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKCDzVcvHP",
+          "end": 70,
+          "expanded_url": "https://x.com/Requiem0requiem/status/2100167544162443397/video/1",
+          "media_key": "13_2100167329820852224",
+          "start": 47,
+          "url": "https://t.co/bKCDzVcvHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100737479850823974",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2100167329820852224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 541
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100167544162443397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Requiem0requiem: このジョジョ5部OPの特殊演出を考えた人天才すぎる https://t.co/bKCDzVcvHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62181,
+        "height": 2160,
+        "media_key": "13_2100167329820852224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100167329820852224/img/_c3tGRsKa6EVhorj.jpg",
+        "public_metrics": {
+          "view_count": 132493
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100167329820852224/vid/avc1/1920x1080/ogNsQQ2QPrgZqddm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100167329820852224/vid/avc1/1280x720/aamEvkjkH68zSv01.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100167329820852224/vid/avc1/480x270/-jKZv0xVWvekFedq.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100167329820852224/vid/avc1/3840x2160/K6EDJdhawnKTvfUJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100167329820852224/pl/2Pg8p4-P_kw9qXji.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100167329820852224/vid/avc1/640x360/vMUGcqUbOKfxa6wk.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100167329820852224"
+          ],
+          "media_source_tweet_id": [
+            "2100167544162443397"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "ジョルノ・ジョバァーナは、ジョースター家の宿敵・DIOの血を継ぐ息子である。幼少時代に迫害を受けて荒んでいた彼は、1人のギャングの男がきっかけで、「ギャング・スター」にあこがれるようになった。15歳になったジョルノは、イタリアの裏社会を牛耳るギャング組織「パッショーネ」とトラブルを起こし、狙われることとなり…。\n\n@anime_jojoさんの画像",
+              "id": "10043632267",
+              "name": "ジョジョの奇妙な冒険"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2100737479850823974",
+        "created_at": "2026-09-18T00:03:39.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100737479850823974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1875609349131005955",
+              "start": 3,
+              "username": "Requiem0requiem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKCDzVcvHP",
+              "end": 70,
+              "expanded_url": "https://x.com/Requiem0requiem/status/2100167544162443397/video/1",
+              "media_key": "13_2100167329820852224",
+              "start": 47,
+              "url": "https://t.co/bKCDzVcvHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100737479850823974",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100167329820852224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 541
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100167544162443397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Requiem0requiem: このジョジョ5部OPの特殊演出を考えた人天才すぎる https://t.co/bKCDzVcvHP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100167329820852224"
+          ]
+        },
+        "author_id": "1875609349131005955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "ジョルノ・ジョバァーナは、ジョースター家の宿敵・DIOの血を継ぐ息子である。幼少時代に迫害を受けて荒んでいた彼は、1人のギャングの男がきっかけで、「ギャング・スター」にあこがれるようになった。15歳になったジョルノは、イタリアの裏社会を牛耳るギャング組織「パッショーネ」とトラブルを起こし、狙われることとなり…。\n\n@anime_jojoさんの画像",
+              "id": "10043632267",
+              "name": "ジョジョの奇妙な冒険"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2100167544162443397",
+        "created_at": "2026-09-16T10:18:56.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100167544162443397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKCDzVcvHP",
+              "end": 49,
+              "expanded_url": "https://x.com/Requiem0requiem/status/2100167544162443397/video/1",
+              "media_key": "13_2100167329820852224",
+              "start": 26,
+              "url": "https://t.co/bKCDzVcvHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100167544162443397",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100167329820852224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 745,
+          "impression_count": 281537,
+          "like_count": 5052,
+          "quote_count": 68,
+          "reply_count": 17,
+          "retweet_count": 541
+        },
+        "reply_settings": "everyone",
+        "text": "このジョジョ5部OPの特殊演出を考えた人天才すぎる https://t.co/bKCDzVcvHP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100737479850823974",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 194,
+          "like_count": 5680,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-04T18:24:58.000Z",
+        "description": "ここは「退く」のだ…………… ここで一時「退く」のは 敗北ではない……………！ オレは頂点に返り咲ける能力があるッ！",
+        "id": "1875609349131005955",
+        "is_identity_verified": true,
+        "location": "ジョジョのネタ提供はDMにお願いします",
+        "most_recent_tweet_id": "2100538416803012808",
+        "name": "レクイエム・レクイエム",
+        "pinned_tweet_id": "1920407491260661938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1875609349131005955/1746695555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030163440984281094/iUvhs81b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36777,
+          "following_count": 3,
+          "like_count": 3044,
+          "listed_count": 16,
+          "media_count": 515,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "Requiem0requiem",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

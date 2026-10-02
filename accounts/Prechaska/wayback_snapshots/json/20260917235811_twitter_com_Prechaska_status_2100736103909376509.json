@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100572704911093761"
+      ],
+      "media_source_tweet_id": [
+        "2100593117980450986"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2100736103909376509",
+    "created_at": "2026-09-17T23:58:11.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T00:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100736103909376509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "347260776",
+          "start": 3,
+          "username": "poccali"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Xo2BTztvk",
+          "end": 54,
+          "expanded_url": "https://x.com/poccali/status/2100593117980450986/video/1",
+          "media_key": "13_2100572704911093761",
+          "start": 31,
+          "url": "https://t.co/6Xo2BTztvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100736103909376509",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2100572704911093761"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100593117980450986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poccali: H I G A ☆ L I V E https://t.co/6Xo2BTztvk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8708,
+        "height": 720,
+        "media_key": "13_2100572704911093761",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100572704911093761/img/WGuGkMvUNG4gav6O.jpg",
+        "public_metrics": {
+          "view_count": 1528
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100572704911093761/vid/avc1/320x320/R1GsWbg6YFiriOC3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100572704911093761/vid/avc1/540x540/yvowvNXndoWbLLV9.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100572704911093761/vid/avc1/720x720/5YXGipNfXwAmH2lv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100572704911093761/pl/Qx8IgqOtKBVgucWK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100572704911093761"
+          ],
+          "media_source_tweet_id": [
+            "2100593117980450986"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2100736103909376509",
+        "created_at": "2026-09-17T23:58:11.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T00:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100736103909376509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "347260776",
+              "start": 3,
+              "username": "poccali"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Xo2BTztvk",
+              "end": 54,
+              "expanded_url": "https://x.com/poccali/status/2100593117980450986/video/1",
+              "media_key": "13_2100572704911093761",
+              "start": 31,
+              "url": "https://t.co/6Xo2BTztvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100736103909376509",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100572704911093761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100593117980450986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poccali: H I G A ☆ L I V E https://t.co/6Xo2BTztvk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100572704911093761"
+          ]
+        },
+        "author_id": "347260776",
+        "conversation_id": "2100593117980450986",
+        "created_at": "2026-09-17T14:30:01.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100593117980450986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Xo2BTztvk",
+              "end": 41,
+              "expanded_url": "https://x.com/poccali/status/2100593117980450986/video/1",
+              "media_key": "13_2100572704911093761",
+              "start": 18,
+              "url": "https://t.co/6Xo2BTztvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100593117980450986",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2100572704911093761"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 4274,
+          "like_count": 330,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "H I G A ☆ L I V E https://t.co/6Xo2BTztvk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100736103909376509",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 194,
+          "like_count": 5679,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2365
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-02T14:35:01.000Z",
+        "description": "しゃちく、とりさん撮影始めました（2022〜）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/poccali2?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/poccali2?igsh=OWN2YjJzNGJoZ25i&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/MHKxtKYCQr"
+              }
+            ]
+          }
+        },
+        "id": "347260776",
+        "is_identity_verified": false,
+        "location": "かながわ",
+        "most_recent_tweet_id": "2100699353581248547",
+        "name": "ぽかり",
+        "pinned_tweet_id": "1909088660001313275",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347260776/1779075551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031366197778984969/BF0X0KaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 209,
+          "like_count": 22861,
+          "listed_count": 42,
+          "media_count": 4906,
+          "tweet_count": 6621
+        },
+        "url": "https://t.co/MHKxtKYCQr",
+        "username": "poccali",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

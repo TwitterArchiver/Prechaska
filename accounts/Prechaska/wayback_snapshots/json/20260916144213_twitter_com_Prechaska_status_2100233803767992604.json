@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2100233803767992604",
+    "created_at": "2026-09-16T14:42:13.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100233803767992604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "188444270",
+          "start": 3,
+          "username": "ABCbirds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100233803767992604",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100232830374580413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ABCbirds: It’s Plover Appreciation Day and we are downright Plover-whelmed by their round fluff, smol squeaks &amp; fast feets.  \n🏝️\nWant t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32801,
+        "height": 1920,
+        "media_key": "7_2100232746534662144",
+        "preview_image_url": "https://pbs.twimg.com/media/HSWGnLnXMAALfMg.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100232746534662144/pu/vid/avc1/320x568/lU5Kz_snTb8r2kin.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100232746534662144/pu/vid/avc1/480x852/f-jztmHjY-8Ywa0O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2100232746534662144/pu/vid/avc1/720x1280/LAguA_6zYYl4nSFD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2100232746534662144/pu/pl/WCkaxd7Dpcfm3-a7.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2100233803767992604",
+        "created_at": "2026-09-16T14:42:13.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100233803767992604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "188444270",
+              "start": 3,
+              "username": "ABCbirds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100233803767992604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100232830374580413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ABCbirds: It’s Plover Appreciation Day and we are downright Plover-whelmed by their round fluff, smol squeaks &amp; fast feets.  \n🏝️\nWant t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2100232746534662144"
+          ]
+        },
+        "author_id": "188444270",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The animal rights movement, sometimes called the animal liberation movement, animal personhood, or animal advocacy movement, is a social movement which seeks an end to the rigid moral and legal distinction drawn between human and non-human animals, an end to the status of animals as property, and an end to their use in the research, food, clothing, and entertainment industries",
+              "id": "913399929548152833",
+              "name": "Animal Rights Movement"
+            }
+          }
+        ],
+        "conversation_id": "2100232830374580413",
+        "created_at": "2026-09-16T14:38:21.000Z",
+        "display_text_range": [
+          0,
+          288
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100232830374580413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uy4aHRaCLC",
+              "end": 312,
+              "expanded_url": "https://x.com/ABCbirds/status/2100232830374580413/video/1",
+              "media_key": "7_2100232746534662144",
+              "start": 289,
+              "url": "https://t.co/uy4aHRaCLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100232830374580413",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2100232746534662144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "It’s Plover Appreciation Day and we are downright Plover-whelmed by their round fluff, smol squeaks &amp; fast feets.  \n🏝️\nWant to be a shorebird ploverachiever? Keep their habitats healthy by picking up trash, keeping pets leashed, &amp; observing them from a distance. \n\nPlover and out! https://t.co/uy4aHRaCLC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100233803767992604",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 193,
+          "like_count": 5651,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-09-08T19:06:18.000Z",
+        "description": "🪶 Conserving wild birds and their habitats throughout the Americas.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abcbirds.org",
+                "end": 23,
+                "expanded_url": "http://abcbirds.org",
+                "start": 0,
+                "url": "https://t.co/cSw15Tg4eL"
+              }
+            ]
+          }
+        },
+        "id": "188444270",
+        "is_identity_verified": false,
+        "location": "Washington, DC",
+        "most_recent_tweet_id": "2100232830374580413",
+        "name": "American Bird Conservancy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/188444270/1730224601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851322685814685697/qiWMDshr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78952,
+          "following_count": 4639,
+          "like_count": 19957,
+          "listed_count": 744,
+          "media_count": 8151,
+          "tweet_count": 19640
+        },
+        "url": "https://t.co/cSw15Tg4eL",
+        "username": "ABCbirds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

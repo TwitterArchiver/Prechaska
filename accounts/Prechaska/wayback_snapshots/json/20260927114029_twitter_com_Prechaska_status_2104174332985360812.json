@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103484882827489282"
+      ],
+      "media_source_tweet_id": [
+        "2103484893594275920"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2104174332985360812",
+    "created_at": "2026-09-27T11:40:29.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104174332985360812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088754117871116288",
+          "start": 3,
+          "username": "tired_ibis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kxpMWrdWM",
+          "end": 82,
+          "expanded_url": "https://x.com/tired_ibis/status/2103484893594275920/photo/1",
+          "media_key": "3_2103484882827489282",
+          "start": 59,
+          "url": "https://t.co/1kxpMWrdWM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104174332985360812",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2103484882827489282"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 607
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103484893594275920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tired_ibis: dropping my chud child because i hate them https://t.co/1kxpMWrdWM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 523,
+        "media_key": "3_2103484882827489282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEUWy9WMAIaTZT.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103484882827489282"
+          ],
+          "media_source_tweet_id": [
+            "2103484893594275920"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2104174332985360812",
+        "created_at": "2026-09-27T11:40:29.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104174332985360812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088754117871116288",
+              "start": 3,
+              "username": "tired_ibis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kxpMWrdWM",
+              "end": 82,
+              "expanded_url": "https://x.com/tired_ibis/status/2103484893594275920/photo/1",
+              "media_key": "3_2103484882827489282",
+              "start": 59,
+              "url": "https://t.co/1kxpMWrdWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104174332985360812",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103484882827489282"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 607
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103484893594275920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tired_ibis: dropping my chud child because i hate them https://t.co/1kxpMWrdWM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103484882827489282"
+          ]
+        },
+        "author_id": "2088754117871116288",
+        "conversation_id": "2103484893594275920",
+        "created_at": "2026-09-25T14:00:54.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103484893594275920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kxpMWrdWM",
+              "end": 66,
+              "expanded_url": "https://x.com/tired_ibis/status/2103484893594275920/photo/1",
+              "media_key": "3_2103484882827489282",
+              "start": 43,
+              "url": "https://t.co/1kxpMWrdWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103484893594275920",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103484882827489282"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 78324,
+          "like_count": 7322,
+          "quote_count": 22,
+          "reply_count": 2,
+          "retweet_count": 607
+        },
+        "reply_settings": "everyone",
+        "text": "dropping my chud child because i hate them https://t.co/1kxpMWrdWM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui\n备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104174332985360812",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 196,
+          "like_count": 5734,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2390
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T22:31:42.000Z",
+        "description": "hi i like birds • they/them • anti AI\n#birdtwt 🇧🇷 life list: 62\n(most pics r found in pinterest..)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "birdtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiredibisis.straw.page",
+                "end": 23,
+                "expanded_url": "https://tiredibisis.straw.page",
+                "start": 0,
+                "url": "https://t.co/iZePbXxRHn"
+              }
+            ]
+          }
+        },
+        "id": "2088754117871116288",
+        "is_identity_verified": false,
+        "location": "woke land",
+        "most_recent_tweet_id": "2104089480818823302",
+        "name": "ibis(tiny bird eater)𓅠",
+        "pinned_tweet_id": "2090129879471665322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088754117871116288/1789833690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088755724906090496/bNYA8uoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 257,
+          "like_count": 11331,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 1821
+        },
+        "url": "https://t.co/iZePbXxRHn",
+        "username": "tired_ibis",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

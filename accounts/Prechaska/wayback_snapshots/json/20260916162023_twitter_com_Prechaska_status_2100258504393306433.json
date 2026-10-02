@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2100258504393306433",
+    "created_at": "2026-09-16T16:20:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100258504393306433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1402792488943984659",
+          "start": 3,
+          "username": "ChicagoPiping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100258504393306433",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100253304752164934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChicagoPiping: Reflections on Plover Appreciation Day\n\nWhen Rose and Monty chose Montrose Beach in 2019, it was the beginning of a seem…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2100253302172655616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWZQC5XoAAir5C.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2100258504393306433",
+        "created_at": "2026-09-16T16:20:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100258504393306433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1402792488943984659",
+              "start": 3,
+              "username": "ChicagoPiping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100258504393306433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100253304752164934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChicagoPiping: Reflections on Plover Appreciation Day\n\nWhen Rose and Monty chose Montrose Beach in 2019, it was the beginning of a seem…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100253302172655616"
+          ]
+        },
+        "author_id": "1402792488943984659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "2100253304752164934",
+        "created_at": "2026-09-16T15:59:43.000Z",
+        "display_text_range": [
+          0,
+          221
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100253304752164934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATAUDwqWgp",
+              "end": 245,
+              "expanded_url": "https://x.com/ChicagoPiping/status/2100253304752164934/photo/1",
+              "media_key": "3_2100253302172655616",
+              "start": 222,
+              "url": "https://t.co/ATAUDwqWgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100253304752164934",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100253302172655616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Reflections on Plover Appreciation Day\n\nWhen Rose and Monty chose Montrose Beach in 2019, it was the beginning of a seemingly improbable survival story... 1/7\n\n📸: Tamima Itani (Monty and Rose and their 1st Montrose chick) https://t.co/ATAUDwqWgp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100258504393306433",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 193,
+          "like_count": 5652,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2353
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-10T01:03:54.000Z",
+        "description": "The offical account for Chicago Piping Plover (PIPL) news and content. Media inquiries email piperwatch@chicagobirder.org.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chicagopipingplovers.org",
+                "end": 23,
+                "expanded_url": "https://www.chicagopipingplovers.org",
+                "start": 0,
+                "url": "https://t.co/ak052q37uD"
+              }
+            ]
+          }
+        },
+        "id": "1402792488943984659",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100253318891163962",
+        "name": "Chicago Piping Plovers",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1402792488943984659/1785209036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402794805202128900/1iHOYp33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3633,
+          "following_count": 200,
+          "like_count": 5699,
+          "listed_count": 28,
+          "media_count": 1122,
+          "tweet_count": 4086
+        },
+        "url": "https://t.co/ak052q37uD",
+        "username": "ChicagoPiping",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

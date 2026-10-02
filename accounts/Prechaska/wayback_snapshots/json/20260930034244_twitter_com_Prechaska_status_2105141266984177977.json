@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2105024434168086777",
+    "created_at": "2026-09-30T03:42:44.000Z",
+    "display_text_range": [
+      11,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T04:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105141266984177977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091692877491716096",
+          "start": 0,
+          "username": "Raiiin_J7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105141266984177977",
+    "in_reply_to_user_id": "2091692877491716096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105137682066411722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raiiin_J7 但安非他酮对dat的抑制很弱，也就主要通过抑制net间接提高da水平，提升的这点在边缘系统也几乎可以忽略不计了，主要还是提ne，司苯本身就已经可以产生完整的模拟冰体验了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2105024434168086777",
+        "created_at": "2026-09-30T03:42:44.000Z",
+        "display_text_range": [
+          11,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105141266984177977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091692877491716096",
+              "start": 0,
+              "username": "Raiiin_J7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105141266984177977",
+        "in_reply_to_user_id": "2091692877491716096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105137682066411722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raiiin_J7 但安非他酮对dat的抑制很弱，也就主要通过抑制net间接提高da水平，提升的这点在边缘系统也几乎可以忽略不计了，主要还是提ne，司苯本身就已经可以产生完整的模拟冰体验了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091692877491716096",
+        "conversation_id": "2105024434168086777",
+        "created_at": "2026-09-30T03:28:29.000Z",
+        "display_text_range": [
+          11,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105137682066411722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105137682066411722",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105078300242796737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 是联用安非他酮da才会高\n加入安非他酮后确实会增加高血压风险，不过会兴奋（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105141266984177977",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 197,
+          "like_count": 5818,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2412
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T01:21:28.000Z",
+        "description": "前世@Rian_qi7（RIP）\n已确诊：OCD | MDD | 重度睡眠障碍\n是一个ODer💊，自学精神医学中……6g Pr+33度白酒+4.4mg阿普唑仑幸存玩家\n摇滚 | 前卫/迷幻摇滚 | 术力口 | 哲学 | AGC | 泛性向 | 友跨 | 社恐向\n会查成分互fo哦\n（可以叫我小霁喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Rian_qi7"
+              }
+            ]
+          }
+        },
+        "id": "2091692877491716096",
+        "is_identity_verified": false,
+        "location": "人間",
+        "most_recent_tweet_id": "2105140940600189173",
+        "name": "霽🌈⃤",
+        "pinned_tweet_id": "2105140940600189173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091692877491716096/1787624890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094552771265798144/3iteZZnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 101,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "Raiiin_J7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
