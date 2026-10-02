@@ -1,11 +1,20 @@
 {
   "name": "Nutilité",
   "username": "@Prechaska",
-  "bio": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+  "bio": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2006381608522445059",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 98,
+        "start": 85,
+        "username": "HyperInutile"
+      }
+    ]
+  }
 }
