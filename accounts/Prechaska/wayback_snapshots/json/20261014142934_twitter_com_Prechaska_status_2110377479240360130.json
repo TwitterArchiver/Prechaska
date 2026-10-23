@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2110270776163397632",
+        "3_2110270783394328577",
+        "3_2110270789056614402",
+        "3_2110270795054465024"
+      ],
+      "media_source_tweet_id": [
+        "2110270803455713412",
+        "2110270803455713412",
+        "2110270803455713412",
+        "2110270803455713412"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2110377479240360130",
+    "created_at": "2026-10-14T14:29:34.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T15:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110377479240360130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1398984231708028931",
+          "start": 3,
+          "username": "fuwari53621377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCB6Hq6Kf9",
+          "end": 80,
+          "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+          "media_key": "3_2110270776163397632",
+          "start": 57,
+          "url": "https://t.co/aCB6Hq6Kf9"
+        },
+        {
+          "display_url": "pic.x.com/aCB6Hq6Kf9",
+          "end": 80,
+          "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+          "media_key": "3_2110270783394328577",
+          "start": 57,
+          "url": "https://t.co/aCB6Hq6Kf9"
+        },
+        {
+          "display_url": "pic.x.com/aCB6Hq6Kf9",
+          "end": 80,
+          "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+          "media_key": "3_2110270789056614402",
+          "start": 57,
+          "url": "https://t.co/aCB6Hq6Kf9"
+        },
+        {
+          "display_url": "pic.x.com/aCB6Hq6Kf9",
+          "end": 80,
+          "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+          "media_key": "3_2110270795054465024",
+          "start": 57,
+          "url": "https://t.co/aCB6Hq6Kf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110377479240360130",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2110270776163397632"
+      },
+      {
+        "media_key": "3_2110270783394328577"
+      },
+      {
+        "media_key": "3_2110270789056614402"
+      },
+      {
+        "media_key": "3_2110270795054465024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110270803455713412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuwari53621377: 私はこれが大好きです。\n畔に座りくつろぐスワンさん\nお餅みたいでかわいい https://t.co/aCB6Hq6Kf9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2110270776163397632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkwFxkbcAAx1uq.jpg",
+        "width": 720
+      },
+      {
+        "height": 460,
+        "media_key": "3_2110270783394328577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkwGMgasAEy5k6.jpg",
+        "width": 720
+      },
+      {
+        "height": 468,
+        "media_key": "3_2110270789056614402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkwGhmaUAIoNGx.jpg",
+        "width": 720
+      },
+      {
+        "height": 473,
+        "media_key": "3_2110270795054465024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkwG38aQAA8_cK.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110270776163397632",
+            "3_2110270783394328577",
+            "3_2110270789056614402",
+            "3_2110270795054465024"
+          ],
+          "media_source_tweet_id": [
+            "2110270803455713412",
+            "2110270803455713412",
+            "2110270803455713412",
+            "2110270803455713412"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2110377479240360130",
+        "created_at": "2026-10-14T14:29:34.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T15:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110377479240360130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1398984231708028931",
+              "start": 3,
+              "username": "fuwari53621377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 80,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270776163397632",
+              "start": 57,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            },
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 80,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270783394328577",
+              "start": 57,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            },
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 80,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270789056614402",
+              "start": 57,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            },
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 80,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270795054465024",
+              "start": 57,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110377479240360130",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2110270776163397632"
+          },
+          {
+            "media_key": "3_2110270783394328577"
+          },
+          {
+            "media_key": "3_2110270789056614402"
+          },
+          {
+            "media_key": "3_2110270795054465024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110270803455713412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuwari53621377: 私はこれが大好きです。\n畔に座りくつろぐスワンさん\nお餅みたいでかわいい https://t.co/aCB6Hq6Kf9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110270776163397632",
+            "3_2110270783394328577",
+            "3_2110270789056614402",
+            "3_2110270795054465024"
+          ]
+        },
+        "author_id": "1398984231708028931",
+        "conversation_id": "2110270803455713412",
+        "created_at": "2026-10-14T07:25:41.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T08:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110270803455713412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 60,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270776163397632",
+              "start": 37,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            },
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 60,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270783394328577",
+              "start": 37,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            },
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 60,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270789056614402",
+              "start": 37,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            },
+            {
+              "display_url": "pic.x.com/aCB6Hq6Kf9",
+              "end": 60,
+              "expanded_url": "https://x.com/fuwari53621377/status/2110270803455713412/photo/1",
+              "media_key": "3_2110270795054465024",
+              "start": 37,
+              "url": "https://t.co/aCB6Hq6Kf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110270803455713412",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2110270776163397632"
+          },
+          {
+            "media_key": "3_2110270783394328577"
+          },
+          {
+            "media_key": "3_2110270789056614402"
+          },
+          {
+            "media_key": "3_2110270795054465024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 5614,
+          "like_count": 576,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "私はこれが大好きです。\n畔に座りくつろぐスワンさん\nお餅みたいでかわいい https://t.co/aCB6Hq6Kf9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110377479240360130",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 198,
+          "like_count": 6124,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2510
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-30T12:47:09.000Z",
+        "description": "白鳥/インコのルイ/庭の花など。\n🦢白鳥の写真はストックからも出しています🦢\nアイコンはAIに描いてもらいました",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/fuwary.slow?ob…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/fuwary.slow?obrf=anJmM3NwdG94MXRz",
+                "start": 0,
+                "url": "https://t.co/vr0Bn7bcBi"
+              }
+            ]
+          }
+        },
+        "id": "1398984231708028931",
+        "is_identity_verified": false,
+        "location": "Swan forest　インスタグラム↓",
+        "most_recent_tweet_id": "2110327635641499770",
+        "name": "こと",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1398984231708028931/1756952000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993857080038690816/kVZhIt55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 110,
+          "like_count": 2874,
+          "listed_count": 1,
+          "media_count": 1252,
+          "tweet_count": 1433
+        },
+        "url": "https://t.co/vr0Bn7bcBi",
+        "username": "fuwari53621377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

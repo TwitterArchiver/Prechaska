@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105764063645245440"
+      ],
+      "media_source_tweet_id": [
+        "2105764717168050613"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1334114759952584705",
+          "name": "Quiz games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1282742272291794944",
+          "name": "Pub games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334114759952584705",
+          "name": "Quiz games"
+        }
+      }
+    ],
+    "conversation_id": "2105836184756969493",
+    "created_at": "2026-10-02T01:44:05.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T02:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105836184756969493"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 83,
+          "tag": "JARE67"
+        },
+        {
+          "end": 97,
+          "start": 91,
+          "tag": "南極観測隊"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "昭和基地"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3160999644",
+          "start": 3,
+          "username": "tenkinosusume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qX0OCbgVi3",
+          "end": 127,
+          "expanded_url": "https://x.com/tenkinosusume/status/2105764717168050613/video/1",
+          "media_key": "13_2105764063645245440",
+          "start": 104,
+          "url": "https://t.co/qX0OCbgVi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105836184756969493",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2105764063645245440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105764717168050613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tenkinosusume: ☆南極クイズ☆\n雪の上を腹ばいで進むコウテイペンギン。この体勢＆この体型でどうやって立ち上がるでしょうか？\n答えは15秒後に！\n#JARE67 #南極観測隊 #昭和基地 https://t.co/qX0OCbgVi3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20574,
+        "height": 1080,
+        "media_key": "13_2105764063645245440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105764063645245440/img/EMUsAnsXcOfbDdUQ.jpg",
+        "public_metrics": {
+          "view_count": 14856
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105764063645245440/vid/avc1/1280x720/DAAkkA44hyhPbDWV.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105764063645245440/vid/avc1/480x270/Kq9srK82JW58yVe-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105764063645245440/vid/avc1/640x360/d3H07qSlPlARGNCn.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105764063645245440/vid/avc1/1920x1080/-kqHe2HRs9B06k5u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105764063645245440/pl/AVgJs0-8urBicGt3.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105764063645245440"
+          ],
+          "media_source_tweet_id": [
+            "2105764717168050613"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1282742272291794944",
+              "name": "Pub games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          }
+        ],
+        "conversation_id": "2105836184756969493",
+        "created_at": "2026-10-02T01:44:05.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T02:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105836184756969493"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "JARE67"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "南極観測隊"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "昭和基地"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3160999644",
+              "start": 3,
+              "username": "tenkinosusume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qX0OCbgVi3",
+              "end": 127,
+              "expanded_url": "https://x.com/tenkinosusume/status/2105764717168050613/video/1",
+              "media_key": "13_2105764063645245440",
+              "start": 104,
+              "url": "https://t.co/qX0OCbgVi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105836184756969493",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105764063645245440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105764717168050613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tenkinosusume: ☆南極クイズ☆\n雪の上を腹ばいで進むコウテイペンギン。この体勢＆この体型でどうやって立ち上がるでしょうか？\n答えは15秒後に！\n#JARE67 #南極観測隊 #昭和基地 https://t.co/qX0OCbgVi3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105764063645245440"
+          ]
+        },
+        "author_id": "3160999644",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1282742272291794944",
+              "name": "Pub games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          }
+        ],
+        "conversation_id": "2105764717168050613",
+        "created_at": "2026-10-01T21:00:06.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105764717168050613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 64,
+              "tag": "JARE67"
+            },
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "南極観測隊"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "昭和基地"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qX0OCbgVi3",
+              "end": 108,
+              "expanded_url": "https://x.com/tenkinosusume/status/2105764717168050613/video/1",
+              "media_key": "13_2105764063645245440",
+              "start": 85,
+              "url": "https://t.co/qX0OCbgVi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105764717168050613",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105764063645245440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 36630,
+          "like_count": 1666,
+          "quote_count": 16,
+          "reply_count": 2,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "☆南極クイズ☆\n雪の上を腹ばいで進むコウテイペンギン。この体勢＆この体型でどうやって立ち上がるでしょうか？\n答えは15秒後に！\n#JARE67 #南極観測隊 #昭和基地 https://t.co/qX0OCbgVi3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105836184756969493",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 198,
+          "like_count": 5878,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2432
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-04-17T12:54:54.000Z",
+        "description": "登山＆雪遊びとマンガ・アニメのアウトイン両刀使い。気象庁の中の人・元予報官。第60次南極地域観測隊（JARE60）の越冬隊として2018/11～2020/3を南極暮らし。そして第67次隊（JARE67）として2025/12～2027/3で２回目の南極暮らし開始。　※あくまでも個人発信、所属組織の見解とは関係なしです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tenkinosusume.com",
+                "end": 23,
+                "expanded_url": "https://tenkinosusume.com/",
+                "start": 0,
+                "url": "https://t.co/31Ha0ndGS8"
+              }
+            ]
+          }
+        },
+        "id": "3160999644",
+        "is_identity_verified": false,
+        "location": "現：南極　旧：関東、北海道、北陸",
+        "most_recent_tweet_id": "2105764717168050613",
+        "name": "テンキノススメ",
+        "pinned_tweet_id": "2088759116059849037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3160999644/1560722076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154864511205040128/XdvnoZXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12613,
+          "following_count": 2195,
+          "like_count": 23070,
+          "listed_count": 287,
+          "media_count": 4784,
+          "tweet_count": 10271
+        },
+        "url": "https://t.co/31Ha0ndGS8",
+        "username": "tenkinosusume",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

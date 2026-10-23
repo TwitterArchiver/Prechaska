@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2109898638982082560"
+      ],
+      "media_source_tweet_id": [
+        "2109898867600941247"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2110397494949789860",
+    "created_at": "2026-10-14T15:49:06.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T16:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110397494949789860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "144194374",
+          "start": 3,
+          "username": "ako_y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Lg62achQn",
+          "end": 54,
+          "expanded_url": "https://x.com/ako_y/status/2109898867600941247/video/1",
+          "media_key": "13_2109898638982082560",
+          "start": 31,
+          "url": "https://t.co/0Lg62achQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110397494949789860",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2109898638982082560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2238
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109898867600941247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ako_y: 落ち葉と戯れていたのが可愛かったので🤭 https://t.co/0Lg62achQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24207,
+        "height": 480,
+        "media_key": "13_2109898638982082560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109898638982082560/img/JyLmRdO9vo_JOoKj.jpg",
+        "public_metrics": {
+          "view_count": 138755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109898638982082560/vid/avc1/480x270/T0BhFdDyaWMec7Jy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109898638982082560/vid/avc1/640x360/bEA1OXgpLIj8uABh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109898638982082560/vid/avc1/854x480/X24OvnyBXpBxevTE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109898638982082560/pl/hInsZkc886SFROVl.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109898638982082560"
+          ],
+          "media_source_tweet_id": [
+            "2109898867600941247"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2110397494949789860",
+        "created_at": "2026-10-14T15:49:06.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T16:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110397494949789860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "144194374",
+              "start": 3,
+              "username": "ako_y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Lg62achQn",
+              "end": 54,
+              "expanded_url": "https://x.com/ako_y/status/2109898867600941247/video/1",
+              "media_key": "13_2109898638982082560",
+              "start": 31,
+              "url": "https://t.co/0Lg62achQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110397494949789860",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2109898638982082560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2238
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109898867600941247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ako_y: 落ち葉と戯れていたのが可愛かったので🤭 https://t.co/0Lg62achQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109898638982082560"
+          ]
+        },
+        "author_id": "144194374",
+        "conversation_id": "2109898867600941247",
+        "created_at": "2026-10-13T06:47:44.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T07:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109898867600941247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Lg62achQn",
+              "end": 43,
+              "expanded_url": "https://x.com/ako_y/status/2109898867600941247/video/1",
+              "media_key": "13_2109898638982082560",
+              "start": 20,
+              "url": "https://t.co/0Lg62achQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109898867600941247",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2109898638982082560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1729,
+          "impression_count": 294621,
+          "like_count": 20791,
+          "quote_count": 65,
+          "reply_count": 11,
+          "retweet_count": 2238
+        },
+        "reply_settings": "everyone",
+        "text": "落ち葉と戯れていたのが可愛かったので🤭 https://t.co/0Lg62achQn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110397494949789860",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 197,
+          "like_count": 6127,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2512
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-15T15:29:29.000Z",
+        "description": "大阪市内でフリーのグラフィックデザイナーしてます。主にエディトリアルデザイン。野鳥が大好きです。特にすずめを愛しています。混沌とした懐の深いインドも大好きです。昨年（2025年）になってTHE ALFEEに沼落ち。",
+        "id": "144194374",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110220536093794454",
+        "name": "やひろあこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/144194374/1404139206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650122657990590465/SgA4dkSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3243,
+          "following_count": 478,
+          "like_count": 19033,
+          "listed_count": 67,
+          "media_count": 1428,
+          "tweet_count": 7623
+        },
+        "url": "",
+        "username": "ako_y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

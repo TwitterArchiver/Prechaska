@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2110745703605764449",
+    "created_at": "2026-10-15T14:52:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T15:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110745703605764449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "468155857",
+          "start": 3,
+          "username": "GrahamFAppleton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110745703605764449",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109529537440858219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrahamFAppleton: If you're interested in wader migration ...\nFour tales added to compendium of blogs about shorebird migration - Oyster…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_2109528390134849536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUaM5OGW4AAKwUH.jpg",
+        "width": 2231
+      },
+      {
+        "height": 2353,
+        "media_key": "3_2109528460657848320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUaM9U0WcAAaSNu.jpg",
+        "width": 3245
+      },
+      {
+        "height": 2185,
+        "media_key": "3_2109528609396338689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUaNF-6XsAEbkqf.jpg",
+        "width": 3326
+      },
+      {
+        "height": 2128,
+        "media_key": "3_2109528664211656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUaNJLHXEAAxjor.jpg",
+        "width": 2716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2110745703605764449",
+        "created_at": "2026-10-15T14:52:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T15:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110745703605764449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "468155857",
+              "start": 3,
+              "username": "GrahamFAppleton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110745703605764449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109529537440858219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrahamFAppleton: If you're interested in wader migration ...\nFour tales added to compendium of blogs about shorebird migration - Oyster…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109528390134849536",
+            "3_2109528460657848320",
+            "3_2109528609396338689",
+            "3_2109528664211656704"
+          ]
+        },
+        "author_id": "468155857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Birdwatching",
+              "id": "847868900628774913",
+              "name": "Birdwatching"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "2109529537440858219",
+        "created_at": "2026-10-12T06:20:09.000Z",
+        "display_text_range": [
+          0,
+          231
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T07:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109529537440858219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 198,
+              "start": 192,
+              "tag": "birds"
+            },
+            {
+              "end": 210,
+              "start": 199,
+              "tag": "shorebirds"
+            },
+            {
+              "end": 218,
+              "start": 211,
+              "tag": "waders"
+            },
+            {
+              "end": 231,
+              "start": 219,
+              "tag": "ornithology"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Here’s a selection of over fifty WaderTales blogs that celebrate the wonder of shorebird migration. The focus is mainly on the East Atlantic Flyway, because that’s where I learnt about …",
+              "display_url": "wadertales.wordpress.com/2019/10/12/mig…",
+              "end": 187,
+              "expanded_url": "https://wadertales.wordpress.com/2019/10/12/migration-blogs-on-wadertales/",
+              "images": [
+                {
+                  "height": 165,
+                  "url": "https://pbs.twimg.com/news_img/2109529583515209728/10vjlNYb?format=jpg&name=orig",
+                  "width": 144
+                },
+                {
+                  "height": 144,
+                  "url": "https://pbs.twimg.com/news_img/2109529583515209728/10vjlNYb?format=jpg&name=150x150",
+                  "width": 144
+                }
+              ],
+              "start": 164,
+              "status": 200,
+              "title": "Migration blogs on WaderTales",
+              "unwound_url": "https://wadertales.wordpress.com/2019/10/12/migration-blogs-on-wadertales/",
+              "url": "https://t.co/dkPD5jQM0d"
+            },
+            {
+              "display_url": "pic.x.com/Pe4dsQNMlj",
+              "end": 255,
+              "expanded_url": "https://x.com/GrahamFAppleton/status/2109529537440858219/photo/1",
+              "media_key": "3_2109528390134849536",
+              "start": 232,
+              "url": "https://t.co/Pe4dsQNMlj"
+            },
+            {
+              "display_url": "pic.x.com/Pe4dsQNMlj",
+              "end": 255,
+              "expanded_url": "https://x.com/GrahamFAppleton/status/2109529537440858219/photo/1",
+              "media_key": "3_2109528460657848320",
+              "start": 232,
+              "url": "https://t.co/Pe4dsQNMlj"
+            },
+            {
+              "display_url": "pic.x.com/Pe4dsQNMlj",
+              "end": 255,
+              "expanded_url": "https://x.com/GrahamFAppleton/status/2109529537440858219/photo/1",
+              "media_key": "3_2109528609396338689",
+              "start": 232,
+              "url": "https://t.co/Pe4dsQNMlj"
+            },
+            {
+              "display_url": "pic.x.com/Pe4dsQNMlj",
+              "end": 255,
+              "expanded_url": "https://x.com/GrahamFAppleton/status/2109529537440858219/photo/1",
+              "media_key": "3_2109528664211656704",
+              "start": 232,
+              "url": "https://t.co/Pe4dsQNMlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109529537440858219",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2109528390134849536"
+          },
+          {
+            "media_key": "3_2109528460657848320"
+          },
+          {
+            "media_key": "3_2109528609396338689"
+          },
+          {
+            "media_key": "3_2109528664211656704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 691,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "If you're interested in wader migration ...\nFour tales added to compendium of blogs about shorebird migration - Oystercatcher, Dotterel, Whimbrel and multispecies.\nhttps://t.co/dkPD5jQM0d 🎂7⃣\n#birds #shorebirds #waders #ornithology https://t.co/Pe4dsQNMlj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110745703605764449",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 198,
+          "like_count": 6157,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2519
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-19T07:10:48.000Z",
+        "description": "Writer & life-long birdwatcher.\nFormerly Director of Communications for BTO. \n#WaderTales blogs about #waders #shorebirds #ornithology",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 78,
+                "tag": "WaderTales"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "waders"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "tag": "shorebirds"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "tag": "ornithology"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wadertales.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://wadertales.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/BwDezK8FQk"
+              }
+            ]
+          }
+        },
+        "id": "468155857",
+        "is_identity_verified": false,
+        "location": "Norfolk",
+        "most_recent_tweet_id": "2110727311431532602",
+        "name": "Graham Appleton",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/468155857/1445410256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765837041/GFA_in_Iceland_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7229,
+          "following_count": 956,
+          "like_count": 20108,
+          "listed_count": 98,
+          "media_count": 9158,
+          "tweet_count": 29264
+        },
+        "url": "https://t.co/BwDezK8FQk",
+        "username": "GrahamFAppleton",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

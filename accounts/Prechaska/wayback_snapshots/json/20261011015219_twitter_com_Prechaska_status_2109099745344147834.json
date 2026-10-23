@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2109097587806740640",
+    "created_at": "2026-10-11T01:52:19.000Z",
+    "display_text_range": [
+      13,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T02:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109099745344147834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109099745344147834",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109097587806740640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 听起来和赫胥黎“lsd解除了大脑过滤信息的阀门导致感官带来的所有信息被一概接收而超过了人能处理的极限于是产生了药效中的种种感觉”给人的感觉很像，不过很可惜唑吡坦对我并没有这样的魔力…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_2109097579141361664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUUFEuFbcAAQ2hu.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2109097587806740640",
+        "created_at": "2026-10-11T01:52:19.000Z",
+        "display_text_range": [
+          13,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T02:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109099745344147834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109099745344147834",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109097587806740640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 听起来和赫胥黎“lsd解除了大脑过滤信息的阀门导致感官带来的所有信息被一概接收而超过了人能处理的极限于是产生了药效中的种种感觉”给人的感觉很像，不过很可惜唑吡坦对我并没有这样的魔力…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109097579141361664"
+          ]
+        },
+        "author_id": "1958507577077342208",
+        "conversation_id": "2109097587806740640",
+        "created_at": "2026-10-11T01:43:44.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T02:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109097587806740640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxUma31pLd",
+              "end": 106,
+              "expanded_url": "https://x.com/Vacue138950/status/2109097587806740640/photo/1",
+              "media_key": "3_2109097579141361664",
+              "start": 83,
+              "url": "https://t.co/rxUma31pLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109097587806740640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109097579141361664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对唑吡坦联邦（Zolpidem Union）感兴趣的可以私聊我，我们研究意识、心灵哲学、药物相互作用。虽然这看起来很民科，但这也是对受众的筛选\n图上是苦橙老师的洞见 https://t.co/rxUma31pLd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109099745344147834",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 199,
+          "like_count": 6068,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2495
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | Responsible Drug Use | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "is_identity_verified": false,
+        "location": "Zolpidem Union",
+        "most_recent_tweet_id": "2109099656521363840",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958507577077342208/1761901579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 810,
+          "like_count": 4188,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1383
+        },
+        "url": "",
+        "username": "Vacue138950",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

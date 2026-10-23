@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105970654881501184",
+        "3_2105970654839455744",
+        "3_2105970654839525376"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1205555414575665153",
+          "name": "JO1"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1205555414575665153",
+          "name": "JO1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1205555414575665153",
+          "name": "JO1"
+        }
+      }
+    ],
+    "conversation_id": "2105970664100528527",
+    "created_at": "2026-10-02T10:38:28.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105970664100528527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GU8U0LAR93",
+          "end": 168,
+          "expanded_url": "https://x.com/Prechaska/status/2105970664100528527/photo/1",
+          "media_key": "3_2105970654881501184",
+          "start": 145,
+          "url": "https://t.co/GU8U0LAR93"
+        },
+        {
+          "display_url": "pic.x.com/GU8U0LAR93",
+          "end": 168,
+          "expanded_url": "https://x.com/Prechaska/status/2105970664100528527/photo/1",
+          "media_key": "3_2105970654839455744",
+          "start": 145,
+          "url": "https://t.co/GU8U0LAR93"
+        },
+        {
+          "display_url": "pic.x.com/GU8U0LAR93",
+          "end": 168,
+          "expanded_url": "https://x.com/Prechaska/status/2105970664100528527/photo/1",
+          "media_key": "3_2105970654839525376",
+          "start": 145,
+          "url": "https://t.co/GU8U0LAR93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105970664100528527",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105970654881501184"
+      },
+      {
+        "media_key": "3_2105970654839455744"
+      },
+      {
+        "media_key": "3_2105970654839525376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "jo1结尾出现了凤头麦鸡😚😚虽然喙和爪子都画错了（喙没有那么宽，它也不是四趾而只有向前的三趾，且不具有林鸟那种尖锐的指甲（但看飞版明明翼下画的是对的显然参考过照片啊🥹））并且凤头麦鸡也不会跨过大西洋迁徙，因此在大西洋上遇见有点不正常……\n但是凤头好maggie好😚😚美丽maggie😚😚！ https://t.co/GU8U0LAR93"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105970654881501184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnpJxeb0AAMSYs.jpg",
+        "width": 1427
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2105970654839455744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnpJxUaQAAywdy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2105970654839525376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnpJxUbUAADXac.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105970654881501184",
+            "3_2105970654839455744",
+            "3_2105970654839525376"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1205555414575665153",
+              "name": "JO1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1205555414575665153",
+              "name": "JO1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1205555414575665153",
+              "name": "JO1"
+            }
+          }
+        ],
+        "conversation_id": "2105970664100528527",
+        "created_at": "2026-10-02T10:38:28.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105970664100528527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GU8U0LAR93",
+              "end": 168,
+              "expanded_url": "https://x.com/Prechaska/status/2105970664100528527/photo/1",
+              "media_key": "3_2105970654881501184",
+              "start": 145,
+              "url": "https://t.co/GU8U0LAR93"
+            },
+            {
+              "display_url": "pic.x.com/GU8U0LAR93",
+              "end": 168,
+              "expanded_url": "https://x.com/Prechaska/status/2105970664100528527/photo/1",
+              "media_key": "3_2105970654839455744",
+              "start": 145,
+              "url": "https://t.co/GU8U0LAR93"
+            },
+            {
+              "display_url": "pic.x.com/GU8U0LAR93",
+              "end": 168,
+              "expanded_url": "https://x.com/Prechaska/status/2105970664100528527/photo/1",
+              "media_key": "3_2105970654839525376",
+              "start": 145,
+              "url": "https://t.co/GU8U0LAR93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105970664100528527",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105970654881501184"
+          },
+          {
+            "media_key": "3_2105970654839455744"
+          },
+          {
+            "media_key": "3_2105970654839525376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "jo1结尾出现了凤头麦鸡😚😚虽然喙和爪子都画错了（喙没有那么宽，它也不是四趾而只有向前的三趾，且不具有林鸟那种尖锐的指甲（但看飞版明明翼下画的是对的显然参考过照片啊🥹））并且凤头麦鸡也不会跨过大西洋迁徙，因此在大西洋上遇见有点不正常……\n但是凤头好maggie好😚😚美丽maggie😚😚！ https://t.co/GU8U0LAR93"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105970664100528527",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 198,
+          "like_count": 5905,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2438
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

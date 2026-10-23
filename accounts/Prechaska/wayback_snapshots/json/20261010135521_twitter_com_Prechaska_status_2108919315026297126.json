@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108918788888600576"
+      ],
+      "media_source_tweet_id": [
+        "2108918794274128201"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2108919315026297126",
+    "created_at": "2026-10-10T13:55:21.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T14:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108919315026297126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1135060772222951424",
+          "start": 3,
+          "username": "rb_merganser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dr9YAyqGX4",
+          "end": 41,
+          "expanded_url": "https://x.com/rb_merganser/status/2108918794274128201/photo/1",
+          "media_key": "3_2108918788888600576",
+          "start": 18,
+          "url": "https://t.co/dr9YAyqGX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108919315026297126",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2108918788888600576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108918794274128201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @rb_merganser: https://t.co/dr9YAyqGX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2073,
+        "media_key": "3_2108918788888600576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HURidwfaIAA6jlA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108918788888600576"
+          ],
+          "media_source_tweet_id": [
+            "2108918794274128201"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2108919315026297126",
+        "created_at": "2026-10-10T13:55:21.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T14:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108919315026297126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135060772222951424",
+              "start": 3,
+              "username": "rb_merganser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dr9YAyqGX4",
+              "end": 41,
+              "expanded_url": "https://x.com/rb_merganser/status/2108918794274128201/photo/1",
+              "media_key": "3_2108918788888600576",
+              "start": 18,
+              "url": "https://t.co/dr9YAyqGX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108919315026297126",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2108918788888600576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108918794274128201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @rb_merganser: https://t.co/dr9YAyqGX4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108918788888600576"
+          ]
+        },
+        "author_id": "1135060772222951424",
+        "conversation_id": "2108918794274128201",
+        "created_at": "2026-10-10T13:53:17.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T14:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108918794274128201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dr9YAyqGX4",
+              "end": 23,
+              "expanded_url": "https://x.com/rb_merganser/status/2108918794274128201/photo/1",
+              "media_key": "3_2108918788888600576",
+              "start": 0,
+              "url": "https://t.co/dr9YAyqGX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108918794274128201",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2108918788888600576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/dr9YAyqGX4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108919315026297126",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 199,
+          "like_count": 6052,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2477
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T05:49:11.000Z",
+        "description": "世捨人願望者。とても感じ悪く酷く面倒くさい人。真性偽善者。独りで鳥を撮るのが好きなだけ。人と話す暇があれば鳥を撮る。非birder、非カメラマン、日本野鳥の会・生涯会員。あらゆる事柄に対し滅茶苦茶に雑。身近な鳥・水辺の鳥偏愛。珍鳥やライフリストに興味なし。画像の無断使用お断り。ミュートorブロック推奨。",
+        "id": "1135060772222951424",
+        "is_identity_verified": false,
+        "location": "伊勢湾西岸  West coast of Ise Bay, Japan",
+        "most_recent_tweet_id": "2108918794274128201",
+        "name": "略羽",
+        "pinned_tweet_id": "1732601920899170443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135060772222951424/1726705265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525092339005689856/yuo9wRV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 683,
+          "like_count": 86505,
+          "listed_count": 81,
+          "media_count": 16603,
+          "tweet_count": 61994
+        },
+        "url": "",
+        "username": "rb_merganser",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

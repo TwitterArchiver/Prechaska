@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105821680056901632"
+      ],
+      "media_source_tweet_id": [
+        "2105821733379047733"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2105855102473187523",
+    "created_at": "2026-10-02T02:59:15.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T03:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105855102473187523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1521135473271353346",
+          "start": 3,
+          "username": "LCTloveDOGU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FVTMeyTixd",
+          "end": 56,
+          "expanded_url": "https://x.com/LCTloveDOGU/status/2105821733379047733/video/1",
+          "media_key": "13_2105821680056901632",
+          "start": 33,
+          "url": "https://t.co/FVTMeyTixd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105855102473187523",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2105821680056901632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105821733379047733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LCTloveDOGU: ６羽のエナガがわちゃわちゃと🥰 https://t.co/FVTMeyTixd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20553,
+        "height": 1226,
+        "media_key": "13_2105821680056901632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105821680056901632/img/8YBk1ZGihisxgFK6.jpg",
+        "public_metrics": {
+          "view_count": 296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105821680056901632/vid/avc1/1080x1226/kKJJIEqucvXvI7a1.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105821680056901632/vid/avc1/320x362/UgT12_dGkM7smW8D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105821680056901632/pl/xem0KWev4WXXvuWc.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105821680056901632/vid/avc1/480x544/Feovu9GDfuoSuP6m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105821680056901632/vid/avc1/720x816/GPLyRGyrbL763yh8.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105821680056901632"
+          ],
+          "media_source_tweet_id": [
+            "2105821733379047733"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2105855102473187523",
+        "created_at": "2026-10-02T02:59:15.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105855102473187523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1521135473271353346",
+              "start": 3,
+              "username": "LCTloveDOGU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVTMeyTixd",
+              "end": 56,
+              "expanded_url": "https://x.com/LCTloveDOGU/status/2105821733379047733/video/1",
+              "media_key": "13_2105821680056901632",
+              "start": 33,
+              "url": "https://t.co/FVTMeyTixd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105855102473187523",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105821680056901632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105821733379047733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LCTloveDOGU: ６羽のエナガがわちゃわちゃと🥰 https://t.co/FVTMeyTixd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105821680056901632"
+          ]
+        },
+        "author_id": "1521135473271353346",
+        "conversation_id": "2105821733379047733",
+        "created_at": "2026-10-02T00:46:40.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T01:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105821733379047733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVTMeyTixd",
+              "end": 39,
+              "expanded_url": "https://x.com/LCTloveDOGU/status/2105821733379047733/video/1",
+              "media_key": "13_2105821680056901632",
+              "start": 16,
+              "url": "https://t.co/FVTMeyTixd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105821733379047733",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105821680056901632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 913,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "６羽のエナガがわちゃわちゃと🥰 https://t.co/FVTMeyTixd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105855102473187523",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 198,
+          "like_count": 5888,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2434
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-02T14:32:23.000Z",
+        "description": "鳥観察垢🕊️エナガ推し小鳥好き🪶野鳥観察素人週6で近所の森林公園へ📷野鳥のこと日々勉強中！エナガに会えた日は一日中幸せな単純脳　雑多な旅の記録 ひたすら壁打ち 神社古墳好き🚗基本車移動年間地球一周分🌏",
+        "id": "1521135473271353346",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105836799025431036",
+        "name": "ARST",
+        "pinned_tweet_id": "2007646162548077057",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1521135473271353346/1704031897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741461968710680577/Up37BIlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 145,
+          "like_count": 101624,
+          "listed_count": 18,
+          "media_count": 1944,
+          "tweet_count": 2635
+        },
+        "url": "",
+        "username": "LCTloveDOGU",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

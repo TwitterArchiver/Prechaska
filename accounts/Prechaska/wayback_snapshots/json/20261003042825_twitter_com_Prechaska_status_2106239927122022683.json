@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2106228076732621100",
+    "created_at": "2026-10-03T04:28:25.000Z",
+    "display_text_range": [
+      12,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T05:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106239927122022683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106239927122022683",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106228076732621100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 诶阿富汗居然不是最大的阿片产出国吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1379,
+        "media_key": "3_2106228067815641088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrTRLYb0AAOz_e.jpg",
+        "width": 1170
+      },
+      {
+        "height": 578,
+        "media_key": "3_2106228067811397632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrTRLXbEAAGm5o.jpg",
+        "width": 1170
+      },
+      {
+        "height": 649,
+        "media_key": "3_2106228067815636992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrTRLYbwAApcTE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2106228076732621100",
+        "created_at": "2026-10-03T04:28:25.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106239927122022683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106239927122022683",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106228076732621100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 诶阿富汗居然不是最大的阿片产出国吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106228067815641088",
+            "3_2106228067811397632",
+            "3_2106228067815636992"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2106228076732621100",
+        "created_at": "2026-10-03T03:41:19.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106228076732621100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXGZn7TyFo",
+              "end": 97,
+              "expanded_url": "https://x.com/YangDowond/status/2106228076732621100/photo/1",
+              "media_key": "3_2106228067815641088",
+              "start": 74,
+              "url": "https://t.co/QXGZn7TyFo"
+            },
+            {
+              "display_url": "pic.x.com/QXGZn7TyFo",
+              "end": 97,
+              "expanded_url": "https://x.com/YangDowond/status/2106228076732621100/photo/1",
+              "media_key": "3_2106228067811397632",
+              "start": 74,
+              "url": "https://t.co/QXGZn7TyFo"
+            },
+            {
+              "display_url": "pic.x.com/QXGZn7TyFo",
+              "end": 97,
+              "expanded_url": "https://x.com/YangDowond/status/2106228076732621100/photo/1",
+              "media_key": "3_2106228067815636992",
+              "start": 74,
+              "url": "https://t.co/QXGZn7TyFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106228076732621100",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106228067815641088"
+          },
+          {
+            "media_key": "3_2106228067811397632"
+          },
+          {
+            "media_key": "3_2106228067815636992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "塔斯马尼亚居然供应了这么多的吗啡原料！\n印度居然还在生产传统的烟膏！当年东印度公司的传统居然保留下来了！（虽然当年东印度公司主要是在孟加拉种罂粟） https://t.co/QXGZn7TyFo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106239927122022683",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 198,
+          "like_count": 5919,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2443
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2106238373111447977",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 327,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

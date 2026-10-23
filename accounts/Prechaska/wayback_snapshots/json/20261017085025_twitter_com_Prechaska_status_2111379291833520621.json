@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2111359198881869824"
+      ],
+      "media_source_tweet_id": [
+        "2111359203600376061"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2111379291833520621",
+    "created_at": "2026-10-17T08:50:25.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-17T09:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2111379291833520621"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "ノビタキ"
+        },
+        {
+          "end": 66,
+          "start": 58,
+          "tag": "キバナコスモス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "944525229287550976",
+          "start": 3,
+          "username": "toricotori223"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e4tV2DS8ze",
+          "end": 90,
+          "expanded_url": "https://x.com/toricotori223/status/2111359203600376061/photo/1",
+          "media_key": "3_2111359198881869824",
+          "start": 67,
+          "url": "https://t.co/e4tV2DS8ze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111379291833520621",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2111359198881869824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111359203600376061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toricotori223: キバナコスモスの中へ飛び出すノビちゃん①\n\n（2026.10）\n\n#ノビタキ\n#キバナコスモス https://t.co/e4tV2DS8ze"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2111359198881869824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HU0OAUKbcAArOs_.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2111359198881869824"
+          ],
+          "media_source_tweet_id": [
+            "2111359203600376061"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2111379291833520621",
+        "created_at": "2026-10-17T08:50:25.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T09:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111379291833520621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "ノビタキ"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "キバナコスモス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "944525229287550976",
+              "start": 3,
+              "username": "toricotori223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4tV2DS8ze",
+              "end": 90,
+              "expanded_url": "https://x.com/toricotori223/status/2111359203600376061/photo/1",
+              "media_key": "3_2111359198881869824",
+              "start": 67,
+              "url": "https://t.co/e4tV2DS8ze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111379291833520621",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2111359198881869824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111359203600376061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toricotori223: キバナコスモスの中へ飛び出すノビちゃん①\n\n（2026.10）\n\n#ノビタキ\n#キバナコスモス https://t.co/e4tV2DS8ze"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2111359198881869824"
+          ]
+        },
+        "author_id": "944525229287550976",
+        "conversation_id": "2111359203600376061",
+        "created_at": "2026-10-17T07:30:35.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-17T08:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2111359203600376061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "ノビタキ"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "キバナコスモス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4tV2DS8ze",
+              "end": 71,
+              "expanded_url": "https://x.com/toricotori223/status/2111359203600376061/photo/1",
+              "media_key": "3_2111359198881869824",
+              "start": 48,
+              "url": "https://t.co/e4tV2DS8ze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111359203600376061",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2111359198881869824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 462,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "キバナコスモスの中へ飛び出すノビちゃん①\n\n（2026.10）\n\n#ノビタキ\n#キバナコスモス https://t.co/e4tV2DS8ze"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111379291833520621",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 198,
+          "like_count": 6222,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 2528
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-23T11:08:57.000Z",
+        "description": "散歩や旅先で出会う野鳥が見せてくれる可愛らしい表情に元気をもらっています https://t.co/GjHyoByTaT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/toricotori223",
+                "end": 60,
+                "expanded_url": "http://instagram.com/toricotori223",
+                "start": 37,
+                "url": "https://t.co/GjHyoByTaT"
+              }
+            ]
+          }
+        },
+        "id": "944525229287550976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111359652537790735",
+        "name": "mkcr",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/944525229287550976/1665304151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579026128982880258/XrUA8OLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2647,
+          "following_count": 330,
+          "like_count": 113454,
+          "listed_count": 41,
+          "media_count": 2059,
+          "tweet_count": 4472
+        },
+        "url": "",
+        "username": "toricotori223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

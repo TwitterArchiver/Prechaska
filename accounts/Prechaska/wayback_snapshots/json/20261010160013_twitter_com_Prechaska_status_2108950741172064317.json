@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2108781608396550288",
+    "created_at": "2026-10-10T16:00:13.000Z",
+    "display_text_range": [
+      12,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T17:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108950741172064317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108950741172064317",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108781608396550288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 这就是经典好药吗！（诶这个喝碳酸饮料变味的副作用好有意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108781599290732544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUPlsRaasAARISG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2108781608396550288",
+        "created_at": "2026-10-10T16:00:13.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108950741172064317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108950741172064317",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108781608396550288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 这就是经典好药吗！（诶这个喝碳酸饮料变味的副作用好有意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108781599290732544"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2108781608396550288",
+        "created_at": "2026-10-10T04:48:09.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108781608396550288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZIj62emL5",
+              "end": 156,
+              "expanded_url": "https://x.com/YangDowond/status/2108781608396550288/photo/1",
+              "media_key": "3_2108781599290732544",
+              "start": 133,
+              "url": "https://t.co/tZIj62emL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108781608396550288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108781599290732544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "来自西安杨森制药老字号的托吡酯，但是商标上多出了强生的商标，压制谷氨酸反跳的利器\n在此之前我连续五天服用了1200mg的pr+40mg的巴氯芬，在停药的第二天早上断药反应和谷氨酸反跳如期而至，感觉全身上下没有任何缓冲，肌肉出现了痉挛，脑子感觉被针扎一样一阵一阵地疼\n我服用了75mg托吡酯，压制了谷氨酸反跳的大多数额躯体反应，但出现了嗜睡副作用\n此外思维被钝化了，因为它阻断了NMDA和AMPA受体，谷氨酸反跳虽然被压制了，但是语言组织能力也被压制住了，这个体感我很明显（）“Dopamax”笨蛋药名不虚传，但是为了压实大脑被彻底烧毁这是必要的代价，只要药物代谢失去就会好（）\n此外副作用里常说的喝碳酸饮料变味（因为它抑制了碳酸酐酶）我倒是没有明确体感（）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 863,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来自西安杨森制药老字号的托吡酯，但是商标上多出了强生的商标，压制谷氨酸反跳的利器\n在此之前我连续五天服用了1200mg的pr+40mg的巴氯芬，在停药的第二天早上断药反应和谷氨酸反跳如期而至，感觉全身上下没有任何缓冲，肌肉出现了痉挛，脑子感觉被针扎一样一阵一阵地疼 https://t.co/tZIj62emL5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108950741172064317",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 199,
+          "like_count": 6056,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2481
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2108947138088706180",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 350,
+          "like_count": 558,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 944
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

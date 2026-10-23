@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2105584060408176881",
+    "created_at": "2026-10-01T09:02:14.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105584060408176881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/robert_bumaro1…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/robert_bumaro11/status/2105576707189248046",
+          "start": 144,
+          "url": "https://t.co/bcBIkSinHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105584060408176881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105576707189248046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然和原推“我救不了自己”的内涵大概大相径庭，但想起很喜欢的up讲马礼荣时说到的“自爱”在原则上的不可能：对爱的追寻是人对存在意义追问的结果，存在的保证只能从爱中获得，而这爱要求真实的距离和外在性，我能思考自爱，但无法真正地爱（实践）自己，爱只能来自于在自己以先的、另一个的、外来的他者 https://t.co/bcBIkSinHT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2105584060408176881",
+        "created_at": "2026-10-01T09:02:14.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105584060408176881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/robert_bumaro1…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/robert_bumaro11/status/2105576707189248046",
+              "start": 144,
+              "url": "https://t.co/bcBIkSinHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105584060408176881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105576707189248046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然和原推“我救不了自己”的内涵大概大相径庭，但想起很喜欢的up讲马礼荣时说到的“自爱”在原则上的不可能：对爱的追寻是人对存在意义追问的结果，存在的保证只能从爱中获得，而这爱要求真实的距离和外在性，我能思考自爱，但无法真正地爱（实践）自己，爱只能来自于在自己以先的、另一个的、外来的他者 https://t.co/bcBIkSinHT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591761041133895680",
+        "conversation_id": "2105576707189248046",
+        "created_at": "2026-10-01T08:33:01.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105576707189248046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CadaveltKyay/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/CadaveltKyay/status/2105397662702858567",
+              "start": 11,
+              "url": "https://t.co/4vfm0g7aIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105576707189248046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105397662702858567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仅凭自己是不会得救的 https://t.co/4vfm0g7aIN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105584060408176881",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 198,
+          "like_count": 5858,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2427
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-13T11:53:11.000Z",
+        "description": "幽灵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ghost33786",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ghost33786",
+                "start": 0,
+                "url": "https://t.co/lrYzuP4qz1"
+              }
+            ]
+          }
+        },
+        "id": "1591761041133895680",
+        "is_identity_verified": false,
+        "location": "后户之国",
+        "most_recent_tweet_id": "2105578988978794719",
+        "name": "Τειρεσίας✝️",
+        "pinned_tweet_id": "2103815712313954597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591761041133895680/1680583698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844941256621010944/GNEZ4SrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 548,
+          "like_count": 20349,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2856
+        },
+        "url": "https://t.co/lrYzuP4qz1",
+        "username": "Robert_Bumaro11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

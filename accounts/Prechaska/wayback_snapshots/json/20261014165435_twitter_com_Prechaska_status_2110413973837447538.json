@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1462208415837655043",
+    "conversation_id": "2110413973837447538",
+    "created_at": "2026-10-14T16:54:35.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T17:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2110413973837447538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/m0thbugs/statu…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/m0thbugs/status/2110021948482928656",
+          "start": 47,
+          "url": "https://t.co/mBp1s42SuL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110413973837447538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110021948482928656",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊小小戴菊😚😚😚😚金冠戴菊还有火冠戴菊！！😚😚😚😚😚😚😚😚😚戴菊我们喜欢你😚😚😚😚😚 https://t.co/mBp1s42SuL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2110021942946201600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUhNxxmWgAABBfE.jpg",
+        "width": 1776
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2110021942946279424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUhNxxmXsAAon8s.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2110413973837447538",
+        "created_at": "2026-10-14T16:54:35.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T17:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110413973837447538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m0thbugs/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/m0thbugs/status/2110021948482928656",
+              "start": 47,
+              "url": "https://t.co/mBp1s42SuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110413973837447538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110021948482928656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊小小戴菊😚😚😚😚金冠戴菊还有火冠戴菊！！😚😚😚😚😚😚😚😚😚戴菊我们喜欢你😚😚😚😚😚 https://t.co/mBp1s42SuL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110021942946201600",
+            "3_2110021942946279424"
+          ]
+        },
+        "author_id": "2061314340855373824",
+        "conversation_id": "2110021948482928656",
+        "created_at": "2026-10-13T14:56:49.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T15:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110021948482928656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dstPXryxpa",
+              "end": 48,
+              "expanded_url": "https://x.com/m0thbugs/status/2110021948482928656/photo/1",
+              "media_key": "3_2110021942946201600",
+              "start": 25,
+              "url": "https://t.co/dstPXryxpa"
+            },
+            {
+              "display_url": "pic.x.com/dstPXryxpa",
+              "end": 48,
+              "expanded_url": "https://x.com/m0thbugs/status/2110021948482928656/photo/1",
+              "media_key": "3_2110021942946279424",
+              "start": 25,
+              "url": "https://t.co/dstPXryxpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110021948482928656",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2110021942946201600"
+          },
+          {
+            "media_key": "3_2110021942946279424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5459,
+          "like_count": 681,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Polite and well mannered https://t.co/dstPXryxpa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110413973837447538",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 197,
+          "like_count": 6134,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2514
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T05:10:27.000Z",
+        "description": "Piper / Chai || #birdtwt || My photography and observation acc || Bird lifers - 129 || Art acc: @bugsnuginrug",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 16,
+                "tag": "birdtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 96,
+                "username": "bugsnuginrug"
+              }
+            ]
+          }
+        },
+        "id": "2061314340855373824",
+        "is_identity_verified": false,
+        "location": "They/Any || 19",
+        "most_recent_tweet_id": "2110242629979902355",
+        "name": "Mentally deranged nuthatch 𓅫",
+        "pinned_tweet_id": "2105373424071659617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061314340855373824/1780290893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066955941669462016/mh-7H689_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 88,
+          "like_count": 669,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "m0thbugs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

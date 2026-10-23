@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035701920896081920",
+        "3_2035701921005334528"
+      ],
+      "media_source_tweet_id": [
+        "2035701926453547354",
+        "2035701926453547354"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2110192989498978367",
+    "created_at": "2026-10-14T02:16:28.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T03:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110192989498978367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660933401287999491",
+          "start": 3,
+          "username": "requivolo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cz92bu34M7",
+          "end": 63,
+          "expanded_url": "https://x.com/requivolo/status/2035701926453547354/photo/1",
+          "media_key": "3_2035701920896081920",
+          "start": 40,
+          "url": "https://t.co/cz92bu34M7"
+        },
+        {
+          "display_url": "pic.x.com/cz92bu34M7",
+          "end": 63,
+          "expanded_url": "https://x.com/requivolo/status/2035701926453547354/photo/1",
+          "media_key": "3_2035701921005334528",
+          "start": 40,
+          "url": "https://t.co/cz92bu34M7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110192989498978367",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2035701920896081920"
+      },
+      {
+        "media_key": "3_2035701921005334528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035701926453547354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @requivolo: 1999年のピレリカレンダーもかっこいい‼️💜🩷 https://t.co/cz92bu34M7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_2035701920896081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBEHIeXYAAIU5n.jpg",
+        "width": 650
+      },
+      {
+        "height": 985,
+        "media_key": "3_2035701921005334528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBEHI4acAA41vz.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035701920896081920",
+            "3_2035701921005334528"
+          ],
+          "media_source_tweet_id": [
+            "2035701926453547354",
+            "2035701926453547354"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2110192989498978367",
+        "created_at": "2026-10-14T02:16:28.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T03:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110192989498978367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660933401287999491",
+              "start": 3,
+              "username": "requivolo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cz92bu34M7",
+              "end": 63,
+              "expanded_url": "https://x.com/requivolo/status/2035701926453547354/photo/1",
+              "media_key": "3_2035701920896081920",
+              "start": 40,
+              "url": "https://t.co/cz92bu34M7"
+            },
+            {
+              "display_url": "pic.x.com/cz92bu34M7",
+              "end": 63,
+              "expanded_url": "https://x.com/requivolo/status/2035701926453547354/photo/1",
+              "media_key": "3_2035701921005334528",
+              "start": 40,
+              "url": "https://t.co/cz92bu34M7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110192989498978367",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2035701920896081920"
+          },
+          {
+            "media_key": "3_2035701921005334528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035701926453547354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @requivolo: 1999年のピレリカレンダーもかっこいい‼️💜🩷 https://t.co/cz92bu34M7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035701920896081920",
+            "3_2035701921005334528"
+          ]
+        },
+        "author_id": "1660933401287999491",
+        "conversation_id": "2035701926453547354",
+        "created_at": "2026-03-22T12:55:35.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035701926453547354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cz92bu34M7",
+              "end": 48,
+              "expanded_url": "https://x.com/requivolo/status/2035701926453547354/photo/1",
+              "media_key": "3_2035701920896081920",
+              "start": 25,
+              "url": "https://t.co/cz92bu34M7"
+            },
+            {
+              "display_url": "pic.x.com/cz92bu34M7",
+              "end": 48,
+              "expanded_url": "https://x.com/requivolo/status/2035701926453547354/photo/1",
+              "media_key": "3_2035701921005334528",
+              "start": 25,
+              "url": "https://t.co/cz92bu34M7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035701926453547354",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2035701920896081920"
+          },
+          {
+            "media_key": "3_2035701921005334528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2530,
+          "like_count": 229,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "1999年のピレリカレンダーもかっこいい‼️💜🩷 https://t.co/cz92bu34M7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110192989498978367",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 199,
+          "like_count": 6104,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2506
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T08:59:24.000Z",
+        "description": "passione’s pr manager | 25 | 👿☎️ |地雷なし |同担大歓迎🩷| 無言フォロー失礼します | フランス人🇫🇷 | icon: @naitodenight | 🔞: @diascazzo | 🇯🇵語垢: @r4isond3tre",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "naitodenight"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "diascazzo"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "r4isond3tre"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nowhura.straw.page",
+                "end": 23,
+                "expanded_url": "https://nowhura.straw.page/",
+                "start": 0,
+                "url": "https://t.co/qloUlH4bi4"
+              }
+            ]
+          }
+        },
+        "id": "1660933401287999491",
+        "is_identity_verified": false,
+        "location": "EN/日本語/FR OK!",
+        "most_recent_tweet_id": "2110179853970415755",
+        "name": "sen👿☎️",
+        "pinned_tweet_id": "2032891948365672605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660933401287999491/1791023138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108649458007179264/JoxKc4Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5614,
+          "following_count": 1576,
+          "like_count": 114198,
+          "listed_count": 29,
+          "media_count": 17832,
+          "tweet_count": 68684
+        },
+        "url": "https://t.co/qloUlH4bi4",
+        "username": "requivolo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

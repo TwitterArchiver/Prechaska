@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105860031925334016"
+      ],
+      "media_source_tweet_id": [
+        "2105860038732693575"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "conversation_id": "2105874364373835854",
+    "created_at": "2026-10-02T04:15:48.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105874364373835854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1125956192713330688",
+          "start": 3,
+          "username": "imaonji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PYybUFbqyW",
+          "end": 45,
+          "expanded_url": "https://x.com/imaonji/status/2105860038732693575/photo/1",
+          "media_key": "3_2105860031925334016",
+          "start": 22,
+          "url": "https://t.co/PYybUFbqyW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105874364373835854",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105860031925334016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105860038732693575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imaonji: あんたでかいね2 https://t.co/PYybUFbqyW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2315,
+        "media_key": "3_2105860031925334016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmEiq2aMAAiK-t.jpg",
+        "width": 1839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105860031925334016"
+          ],
+          "media_source_tweet_id": [
+            "2105860038732693575"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2105874364373835854",
+        "created_at": "2026-10-02T04:15:48.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105874364373835854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1125956192713330688",
+              "start": 3,
+              "username": "imaonji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYybUFbqyW",
+              "end": 45,
+              "expanded_url": "https://x.com/imaonji/status/2105860038732693575/photo/1",
+              "media_key": "3_2105860031925334016",
+              "start": 22,
+              "url": "https://t.co/PYybUFbqyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105874364373835854",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105860031925334016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105860038732693575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imaonji: あんたでかいね2 https://t.co/PYybUFbqyW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105860031925334016"
+          ]
+        },
+        "author_id": "1125956192713330688",
+        "conversation_id": "2105860038732693575",
+        "created_at": "2026-10-02T03:18:52.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105860038732693575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYybUFbqyW",
+              "end": 32,
+              "expanded_url": "https://x.com/imaonji/status/2105860038732693575/photo/1",
+              "media_key": "3_2105860031925334016",
+              "start": 9,
+              "url": "https://t.co/PYybUFbqyW"
+            },
+            {
+              "display_url": "x.com/imaonji/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/imaonji/status/2003011405965054141",
+              "start": 33,
+              "url": "https://t.co/pwdyl6yEPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105860038732693575",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105860031925334016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 986,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003011405965054141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あんたでかいね2 https://t.co/PYybUFbqyW https://t.co/pwdyl6yEPV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105874364373835854",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 198,
+          "like_count": 5891,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2435
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-08T02:50:50.000Z",
+        "description": "🐦雀ですけど、何か?🐦️\n\nhttps://t.co/dhbhueOjqg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ondiworld",
+                "end": 37,
+                "expanded_url": "https://www.youtube.com/@ondiworld",
+                "start": 14,
+                "url": "https://t.co/dhbhueOjqg"
+              }
+            ]
+          }
+        },
+        "id": "1125956192713330688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105860038732693575",
+        "name": "おんぢ🐦🚴‍♂️ 自転車操業",
+        "pinned_tweet_id": "2062453996955324850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125956192713330688/1646457011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029021342952235008/ASDSlDHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3563,
+          "following_count": 173,
+          "like_count": 17647,
+          "listed_count": 53,
+          "media_count": 8848,
+          "tweet_count": 12633
+        },
+        "url": "",
+        "username": "imaonji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

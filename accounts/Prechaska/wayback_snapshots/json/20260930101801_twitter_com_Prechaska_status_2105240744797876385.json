@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932770452507930628",
+        "3_1932770452533096454"
+      ],
+      "media_source_tweet_id": [
+        "1932770470652490009",
+        "1932770470652490009"
+      ]
+    },
+    "author_id": "1462208415837655043",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207454119679553536",
+          "name": "Jojo's Bizarre Adventure"
+        }
+      }
+    ],
+    "conversation_id": "2105240744797876385",
+    "created_at": "2026-09-30T10:18:01.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105240744797876385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660933401287999491",
+          "start": 3,
+          "username": "requivolo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kelsnUgNgX",
+          "end": 126,
+          "expanded_url": "https://x.com/nowhura/status/1932770470652490009/photo/1",
+          "media_key": "3_1932770452507930628",
+          "start": 103,
+          "url": "https://t.co/kelsnUgNgX"
+        },
+        {
+          "display_url": "pic.x.com/kelsnUgNgX",
+          "end": 126,
+          "expanded_url": "https://x.com/nowhura/status/1932770470652490009/photo/1",
+          "media_key": "3_1932770452533096454",
+          "start": 103,
+          "url": "https://t.co/kelsnUgNgX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105240744797876385",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_1932770452507930628"
+      },
+      {
+        "media_key": "3_1932770452533096454"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932770470652490009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @requivolo: don’t talk to me like you have any idea what’s going on, giorno giovanna!!!!!!!!!!!!!!! https://t.co/kelsnUgNgX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932770452507930628",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKUfH4bMAQQj6S.jpg",
+        "width": 1802
+      },
+      {
+        "height": 321,
+        "media_key": "3_1932770452533096454",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKUfH-bMAYn0L-.jpg",
+        "width": 389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932770452507930628",
+            "3_1932770452533096454"
+          ],
+          "media_source_tweet_id": [
+            "1932770470652490009",
+            "1932770470652490009"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "2105240744797876385",
+        "created_at": "2026-09-30T10:18:01.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105240744797876385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660933401287999491",
+              "start": 3,
+              "username": "requivolo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kelsnUgNgX",
+              "end": 126,
+              "expanded_url": "https://x.com/nowhura/status/1932770470652490009/photo/1",
+              "media_key": "3_1932770452507930628",
+              "start": 103,
+              "url": "https://t.co/kelsnUgNgX"
+            },
+            {
+              "display_url": "pic.x.com/kelsnUgNgX",
+              "end": 126,
+              "expanded_url": "https://x.com/nowhura/status/1932770470652490009/photo/1",
+              "media_key": "3_1932770452533096454",
+              "start": 103,
+              "url": "https://t.co/kelsnUgNgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105240744797876385",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_1932770452507930628"
+          },
+          {
+            "media_key": "3_1932770452533096454"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932770470652490009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @requivolo: don’t talk to me like you have any idea what’s going on, giorno giovanna!!!!!!!!!!!!!!! https://t.co/kelsnUgNgX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932770452507930628",
+            "3_1932770452533096454"
+          ]
+        },
+        "author_id": "1660933401287999491",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207454119679553536",
+              "name": "Jojo's Bizarre Adventure"
+            }
+          }
+        ],
+        "conversation_id": "1932770470652490009",
+        "created_at": "2025-06-11T12:02:43.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932770470652490009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kelsnUgNgX",
+              "end": 111,
+              "expanded_url": "https://x.com/nowhura/status/1932770470652490009/photo/1",
+              "media_key": "3_1932770452507930628",
+              "start": 88,
+              "url": "https://t.co/kelsnUgNgX"
+            },
+            {
+              "display_url": "pic.x.com/kelsnUgNgX",
+              "end": 111,
+              "expanded_url": "https://x.com/nowhura/status/1932770470652490009/photo/1",
+              "media_key": "3_1932770452533096454",
+              "start": 88,
+              "url": "https://t.co/kelsnUgNgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932770470652490009",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_1932770452507930628"
+          },
+          {
+            "media_key": "3_1932770452533096454"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7713,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "don’t talk to me like you have any idea what’s going on, giorno giovanna!!!!!!!!!!!!!!! https://t.co/kelsnUgNgX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "Nui ｜药物滥用｜Kentish Plover lover｜🐦‍⬛watching｜“我的心平稳安静，好像断过奶的孩子在他母亲的怀中。”(诗篇 131:2)\n｜备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105240744797876385",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 197,
+          "like_count": 5833,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2418
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-23T08:59:24.000Z",
+        "description": "passione’s pr manager | 25 | 👿☎️ |地雷なし |同担大歓迎🩷| 無言フォロー失礼します | フランス人🇫🇷 | icon: @naitodenight | 🔞: @diascazzo | 🇯🇵語垢: @r4isond3tre",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "naitodenight"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "diascazzo"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "r4isond3tre"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nowhura.straw.page",
+                "end": 23,
+                "expanded_url": "https://nowhura.straw.page/",
+                "start": 0,
+                "url": "https://t.co/qloUlH4bi4"
+              }
+            ]
+          }
+        },
+        "id": "1660933401287999491",
+        "is_identity_verified": false,
+        "location": "EN/日本語/FR OK!",
+        "most_recent_tweet_id": "2105234312522051717",
+        "name": "sen👿☎️",
+        "pinned_tweet_id": "2032891948365672605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660933401287999491/1785206345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103410648352714752/49GTYrAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5600,
+          "following_count": 1570,
+          "like_count": 112559,
+          "listed_count": 29,
+          "media_count": 17781,
+          "tweet_count": 68340
+        },
+        "url": "https://t.co/qloUlH4bi4",
+        "username": "requivolo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
